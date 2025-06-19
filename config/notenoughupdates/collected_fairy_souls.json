@@ -1,0 +1,90 @@
+{
+  "banana": {
+    "dungeon_hub": [],
+    "combat_3": [],
+    "hub": [
+      42
+    ],
+    "farming_1": [
+      10
+    ],
+    "winter": [],
+    "mining_3": [],
+    "foraging_1": [],
+    "mining_1": [],
+    "mining_2": [],
+    "combat_1": [
+      4,
+      12
+    ]
+  },
+  "orange": {
+    "hub": []
+  },
+  "raspberry": {
+    "dungeon_hub": [],
+    "combat_3": [],
+    "hub": [
+      44,
+      67
+    ],
+    "farming_1": [],
+    "winter": [],
+    "mining_3": [],
+    "crimson_isle": [],
+    "foraging_1": [],
+    "mining_1": [],
+    "mining_2": [],
+    "combat_1": []
+  },
+  "pineapple": {
+    "mining_1": []
+  },
+  "pomegranate": {
+    "dungeon_hub": [],
+    "combat_3": [],
+    "hub": [
+      77,
+      62
+    ],
+    "farming_1": [],
+    "winter": [],
+    "mining_3": [],
+    "foraging_1": [],
+    "mining_1": [],
+    "mining_2": [
+      20,
+      15,
+      10,
+      12,
+      4
+    ],
+    "combat_1": []
+  },
+  "coconut": {
+    "dungeon_hub": [
+      1
+    ],
+    "combat_3": [],
+    "fishing_1": [],
+    "hub": [
+      45
+    ],
+    "farming_1": [
+      12
+    ],
+    "winter": [],
+    "foraging_1": [],
+    "mining_3": [
+      14
+    ],
+    "crimson_isle": [
+      14
+    ],
+    "mining_1": [
+      7
+    ],
+    "mining_2": [],
+    "combat_1": []
+  }
+}

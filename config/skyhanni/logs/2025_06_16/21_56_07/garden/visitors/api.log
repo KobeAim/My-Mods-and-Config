@@ -1,0 +1,8 @@
+23:00:08 Visitor status change for '§9Grandma Wolf': NEW -> READY (tooltipClickToGive)
+23:00:09 Visitor status change for '§9Grandma Wolf': READY -> ACCEPTED (accepted)
+23:00:10 Visitor status change for '§aSargwyn': NEW -> WAITING (tooltipMissingItems)
+23:00:12 Visitor status change for '§aSargwyn': WAITING -> REFUSED (refused)
+23:00:13 Visitor status change for '§9Tammy': NEW -> READY (tooltipClickToGive)
+23:00:14 Visitor status change for '§9Tammy': READY -> ACCEPTED (accepted)
+23:00:15 Visitor status change for '§9Lazy Miner': NEW -> WAITING (tooltipMissingItems)
+23:00:17 Visitor status change for '§9Lazy Miner': WAITING -> REFUSED (refused)

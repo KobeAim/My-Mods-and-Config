@@ -1,0 +1,115 @@
+{
+    "categories": [
+        {
+            "name": "",
+            "waypoints": [
+                {
+                    "name": "relay 2",
+                    "x": 129,
+                    "y": 232,
+                    "z": 201,
+                    "enabled": true,
+                    "addedAt": 1749481466662
+                }
+            ],
+            "island": "mining_3"
+        },
+        {
+            "name": "sirius",
+            "waypoints": [
+                {
+                    "name": "Sirius",
+                    "x": 91,
+                    "y": 75,
+                    "z": 175,
+                    "enabled": true,
+                    "addedAt": 1750284656565
+                }
+            ],
+            "island": "hub"
+        },
+        {
+            "name": "",
+            "waypoints": [
+                {
+                    "name": "jake plushie",
+                    "x": 175,
+                    "y": 44,
+                    "z": -470,
+                    "enabled": true,
+                    "addedAt": 1742925536889
+                }
+            ],
+            "island": "farming_1"
+        },
+        {
+            "name": "Crimson Isle Bosses",
+            "waypoints": [
+                {
+                    "name": "Ashfang",
+                    "x": 0,
+                    "y": 0,
+                    "z": 0,
+                    "enabled": false,
+                    "addedAt": 1749505264127
+                },
+                {
+                    "name": "Bladesoul",
+                    "x": -295,
+                    "y": 82,
+                    "z": -518,
+                    "enabled": true,
+                    "color": -16777216,
+                    "addedAt": 1743844422353
+                },
+                {
+                    "name": "Mage Outlaw",
+                    "x": -181,
+                    "y": 105,
+                    "z": -860,
+                    "enabled": true,
+                    "color": -7137300,
+                    "addedAt": 1743844272825
+                },
+                {
+                    "name": "Barbarian duke",
+                    "x": -536,
+                    "y": 117,
+                    "z": -903,
+                    "enabled": true,
+                    "color": -2399700,
+                    "addedAt": 1743844486936
+                }
+            ],
+            "island": "crimson_isle"
+        },
+        {
+            "name": "Relay",
+            "waypoints": [
+                {
+                    "name": "Relay 6",
+                    "x": -68,
+                    "y": 157,
+                    "z": -878,
+                    "enabled": true,
+                    "addedAt": 1749505295619
+                }
+            ],
+            "island": "crimson_isle"
+        },
+        {
+            "name": "",
+            "waypoints": [
+                {
+                    "name": "relay 4",
+                    "x": -558,
+                    "y": 163,
+                    "z": -286,
+                    "enabled": true,
+                    "addedAt": 1749489139085
+                }
+            ],
+            "island": "combat_3"
+        }
+    ]
+}

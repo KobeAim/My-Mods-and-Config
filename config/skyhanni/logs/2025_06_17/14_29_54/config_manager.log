@@ -1,0 +1,64 @@
+14:30:34 Trying to load config from config\skyhanni\config.json
+14:30:34 load-config-now
+14:30:36 Loaded config from file
+14:30:36 Trying to load sacks from config\skyhanni\sacks.json
+14:30:36 load-sacks-now
+14:30:36 Loaded sacks from file
+14:30:36 Trying to load friends from config\skyhanni\friends.json
+14:30:36 load-friends-now
+14:30:36 Loaded friends from file
+14:30:36 Trying to load known_features from config\skyhanni\known_features.json
+14:30:36 load-known_features-now
+14:30:36 Loaded known_features from file
+14:30:36 Trying to load jacob_contests from config\skyhanni\jacob_contests.json
+14:30:36 load-jacob_contests-now
+14:30:36 Loaded jacob_contests from file
+14:30:36 Trying to load visual_words from config\skyhanni\visual_words.json
+14:30:36 Setting visual_words to be blank as it did not exist. It will be saved once something is written to it
+14:31:36 saveConfig: auto-save-60s
+14:31:36 Saving config file
+14:31:36 Saved config file successfully
+14:31:36 saveConfig: auto-save-60s
+14:31:36 Saving config file
+14:31:36 Saved config file successfully
+14:32:27 saveConfig: Updated known feature flags
+14:32:27 Saving known_features file
+14:32:27 Saved known_features file successfully
+14:32:27 saveConfig: Updated known feature flags
+14:32:27 Saving known_features file
+14:32:27 Saved known_features file successfully
+14:32:36 saveConfig: auto-save-60s
+14:32:36 Saving config file
+14:32:36 Saved config file successfully
+14:32:36 saveConfig: auto-save-60s
+14:32:36 Saving config file
+14:32:36 Saved config file successfully
+14:33:23 saveConfig: saving-data
+14:33:23 Saving sacks file
+14:33:23 Saved sacks file successfully
+14:33:23 saveConfig: saving-data
+14:33:23 Saving sacks file
+14:33:23 Saved sacks file successfully
+14:33:35 saveConfig: saving-data
+14:33:35 Saving sacks file
+14:33:35 Saved sacks file successfully
+14:33:35 saveConfig: saving-data
+14:33:35 Saving sacks file
+14:33:35 Saved sacks file successfully
+14:33:36 saveConfig: auto-save-60s
+14:33:36 Saving config file
+14:33:36 Saved config file successfully
+14:33:36 saveConfig: auto-save-60s
+14:33:36 Saving config file
+14:33:36 Saved config file successfully
+14:33:49 saveConfig: saving-data
+14:33:49 Saving sacks file
+14:33:49 Saved sacks file successfully
+14:33:49 saveConfig: saving-data
+14:33:49 Saving sacks file
+14:33:49 Saved sacks file successfully
+14:34:19 saveConfig: shutdown-hook
+14:34:19 Saving config file
+14:34:19 Saved config file successfully
+14:34:19 saveConfig: shutdown-hook
+14:34:19 Saving config file

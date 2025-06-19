@@ -1,0 +1,148 @@
+{
+  "profileData": {
+    "Coconut": {
+      "slotLockData": [
+        {
+          "lockedSlots": [
+            {
+              "locked": false,
+              "boundTo": 27
+            },
+            {
+              "locked": false,
+              "boundTo": 28
+            },
+            {
+              "locked": false,
+              "boundTo": 29
+            },
+            {
+              "locked": false,
+              "boundTo": -1
+            },
+            {
+              "locked": false,
+              "boundTo": 31
+            },
+            {
+              "locked": false,
+              "boundTo": -1
+            },
+            {
+              "locked": false,
+              "boundTo": -1
+            },
+            {
+              "locked": false,
+              "boundTo": 35
+            },
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+              "locked": false,
+              "boundTo": -1
+            },
+            null,
+            {
+              "locked": false,
+              "boundTo": -1
+            },
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+              "locked": false,
+              "boundTo": 0
+            },
+            {
+              "locked": false,
+              "boundTo": 1
+            },
+            {
+              "locked": false,
+              "boundTo": 2
+            },
+            null,
+            {
+              "locked": false,
+              "boundTo": 4
+            },
+            {
+              "locked": false,
+              "boundTo": -1
+            },
+            {
+              "locked": false,
+              "boundTo": 2
+            },
+            {
+              "locked": false,
+              "boundTo": 4
+            },
+            {
+              "locked": false,
+              "boundTo": 7
+            },
+            null,
+            null,
+            null,
+            null
+          ],
+          "riftLockedSlots": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      ]
+    }
+  }
+}

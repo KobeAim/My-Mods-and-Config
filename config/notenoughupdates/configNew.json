@@ -1,0 +1,2275 @@
+{
+  "about": {
+    "autoUpdates": true,
+    "updateStream": "FULL",
+    "licenses": {}
+  },
+  "misc": {
+    "onlyShowOnSkyblock": true,
+    "hidePotionEffect": true,
+    "streamerMode": false,
+    "fixSteveSkulls": true,
+    "trackFairySouls": true,
+    "fariySoul": false,
+    "fairySoulWaypointDistance": false,
+    "fariySoulClear": false,
+    "fariySoulUnclear": false,
+    "guiButtonClicks": true,
+    "replaceSocialOptions1": 1,
+    "damageIndicatorStyle2": false,
+    "openPV": true,
+    "editEnchantColoursButton": true,
+    "chromaSpeed": 100,
+    "cacheItemEnchant": true,
+    "disableSkullRetexturing": false,
+    "disableNPCRetexturing": false,
+    "wiki": 0,
+    "keybindWaypoint": 0,
+    "untrackCloseWaypoints": true,
+    "warpTwice": true,
+    "calculationMode": 2,
+    "calculationPrecision": 5,
+    "abiphoneWarning": true,
+    "coopWarning": true,
+    "filterChatLevel": 0,
+    "textFieldTweaksEnabled": true,
+    "abiphoneFavourites": true,
+    "dungeonGroupsPV": true,
+    "oldSkyBlockMenu": false,
+    "defaultArmorColour": false,
+    "openAHKeybind": 50,
+    "openSkyBlockRecipeKeybind": 0,
+    "showWhenCountdownEnds": 1,
+    "useEnglishCountdown": false,
+    "hideRegenBounce": false,
+    "neuCustomizeKeybind": 0
+  },
+  "locationedit": {
+    "guiScale": 0
+  },
+  "notifications": {
+    "outdatedRepo": true,
+    "doRamNotif": true,
+    "doOamNotif": true,
+    "doFastRenderNotif": true,
+    "doBoosterNotif": false,
+    "boosterCookieWarningMins": 1440,
+    "enderNodeAccordion": true,
+    "endermiteAlert": true,
+    "endermiteAlertColor": "0:255:194:0:174",
+    "endermiteAlertTicks": 20
+  },
+  "itemlist": {
+    "showVanillaItems": true,
+    "tabOpen": true,
+    "keepopen": false,
+    "openWhenSearching": true,
+    "itemStyle": 0,
+    "paneGuiScale": 0,
+    "bgBlurFactor": 5,
+    "paneWidthMult": 1.0,
+    "panePadding": 10,
+    "foregroundColour": "00:255:100:100:100",
+    "favouriteColour": "00:255:200:150:50",
+    "backgroundColour": "15:6:0:0:255",
+    "alwaysShowMonsters": false,
+    "wikiInBrowser": false
+  },
+  "toolbar": {
+    "positionButton": true,
+    "searchBar": true,
+    "enableSettingsButton": true,
+    "enableSearchModeButton": true,
+    "ctrlF": true,
+    "copyToClipboardWhenGettingResult": true,
+    "searchBarWidth": 200,
+    "searchBarHeight": 40,
+    "autoTurnOffSearchMode": true,
+    "quickCommands": false,
+    "quickCommandsClickType": 0
+  },
+  "inventoryButtons": {
+    "enableInventoryButtons": true,
+    "openEditorButton": true,
+    "hideCrafting": false,
+    "hideInDungeonMenus": false,
+    "clickType": 0,
+    "tooltipDelay": 600
+  },
+  "slotLocking": {
+    "slotLockWarning": false,
+    "enableSlotLocking": true,
+    "enableSlotBinding": true,
+    "bindingAlsoLocks": false,
+    "slotLockKey": 38,
+    "lockSlotsInTrade": true,
+    "disableInStorage": false,
+    "slotLockSwapDelay": 100,
+    "slotLockSound": true,
+    "slotLockSoundVol": 20.0,
+    "resetSlotLocking": 39.0
+  },
+  "tooltipTweaks": {
+    "priceInfoAuc": [
+      0,
+      1,
+      2,
+      3,
+      5
+    ],
+    "priceInfoBaz": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "rawCraft": true,
+    "npcSellPrice": false,
+    "museumDonationStatus": false,
+    "shortNumberFormatPrices": false,
+    "showPriceInfoInvItem": true,
+    "showPriceInfoAucItem": true,
+    "disablePriceKey": false,
+    "disablePriceKeyKeybind": 0,
+    "alwaysShowRequiredItems": false,
+    "showReforgeStats": true,
+    "showGemstoneStats": true,
+    "hideDefaultReforgeStats": true,
+    "missingEnchantList": true,
+    "guiScale": 0,
+    "customTooltips": false,
+    "scrollableTooltips": false,
+    "petExtendExp": false,
+    "tooltipBorderColours": true,
+    "tooltipBorderOpacity": 200,
+    "powerStoneStats": true,
+    "rngMeterFractionDisplay": true,
+    "rngMeterProfitPerUnit": true,
+    "rngMeterRunsNeeded": true,
+    "abiphoneContactRequirements": true,
+    "abiphoneContactMarker": true,
+    "essencePriceInEssenceShop": true,
+    "gardenNpcPrice": true,
+    "copperCoins": true,
+    "AHPriceIgnoreThreshold": 0.0,
+    "ignoreAllAHItems": true
+  },
+  "itemOverlays": {
+    "enableTreecapOverlay": true,
+    "enableCooldownInItemDurability": true,
+    "treecapOverlayColour": "00:50:64:224:208",
+    "enableMonkeyCheck": true,
+    "enableWandOverlay": true,
+    "wandBlockCount": true,
+    "wandOverlayColour": "00:50:64:224:208",
+    "enableZapperOverlay": true,
+    "zapperOverlayColour": "0:102:171:5:0",
+    "enableSmoothAOTE": true,
+    "enableSmoothHyperion": true,
+    "smoothTpMillis": 125,
+    "smoothTpMillisEtherwarp": 50,
+    "disableHyperionParticles": true,
+    "etherwarpZoom": true,
+    "enableEtherwarpHelperOverlay": true,
+    "enableEtherwarpBlockOverlay": true,
+    "disableOverlayWhenFailed": false,
+    "hideEtherwarpFailText": false,
+    "changeEtherwarpColourWhenFailed": false,
+    "etherwarpHighlightColour": "00:70:156:8:96",
+    "etherwarpFailHighlightColour": "00:70:220:40:40",
+    "enableBonemerangOverlay": true,
+    "highlightTargeted": true,
+    "bonemerangPosition": {
+      "x": -41,
+      "y": -21,
+      "centerX": false,
+      "centerY": false
+    },
+    "bonemerangOverlayText": [
+      0,
+      1
+    ],
+    "bonemerangOverlayStyle": 0,
+    "bonemerangFastUpdate": false,
+    "enableCrystalOverlay": true,
+    "alwaysShowCrystal": false,
+    "enablePrismapumpOverlay": true,
+    "enableHoeOverlay": true,
+    "enableDirtWandOverlay": true,
+    "enableScytheOverlay": true,
+    "customWitherCloakToggle": true,
+    "customWitherCloakCount": 6,
+    "customWitherCloakSpeed": 2.0,
+    "customWitherCloakDistance": 1.2,
+    "customWitherCloakCredit": false,
+    "enableGrappleOverlay": true,
+    "oldCooldowns": false,
+    "pickaxeAbility": true,
+    "bonzoAbility": true,
+    "spiritAbility": true
+  },
+  "skillOverlays": {
+    "farmingOverlay": true,
+    "farmingText": [
+      0,
+      9,
+      10,
+      1,
+      2,
+      3,
+      4,
+      5,
+      7,
+      6,
+      11
+    ],
+    "useBZPrice": true,
+    "farmingPauseTimer": 3,
+    "farmingCropsPerSecondTimeFrame": 5,
+    "farmingCropRateUnit": 0,
+    "farmingCoinRateUnit": 0,
+    "farmingResetCPS": 5,
+    "farmingPosition": {
+      "x": 10,
+      "y": 200,
+      "centerX": false,
+      "centerY": false
+    },
+    "farmingStyle": 0,
+    "miningSkillOverlay": true,
+    "miningText": [
+      0,
+      8,
+      1,
+      2,
+      3,
+      4,
+      5,
+      7
+    ],
+    "miningPauseTimer": 3,
+    "miningPosition": {
+      "x": 10,
+      "y": 200,
+      "centerX": false,
+      "centerY": false
+    },
+    "miningStyle": 0,
+    "FishingSkillOverlay": true,
+    "fishingText": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "fishingPauseTimer": 3,
+    "fishingPosition": {
+      "x": 10,
+      "y": 200,
+      "centerX": false,
+      "centerY": false
+    },
+    "fishingStyle": 0,
+    "fishKey": 207,
+    "customFishTimer": 300,
+    "combatInfo": false,
+    "combatSkillOverlay": false,
+    "combatText": [
+      0,
+      6,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "combatPauseTimer": 3,
+    "combatPosition": {
+      "x": 10,
+      "y": 200,
+      "centerX": false,
+      "centerY": false
+    },
+    "combatStyle": 0,
+    "alwaysShowCombatOverlay": false
+  },
+  "miscOverlays": {
+    "todoOverlay2": true,
+    "todoOverlayOnlyShowTab": false,
+    "todoOverlayHideAtBingo": true,
+    "todoText2": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "experimentationDisplay": 0,
+    "puzzlerDisplay": 0,
+    "fetchurDisplay": 0,
+    "commissionDisplay": 0,
+    "cakesDisplay": 0,
+    "cookieBuffDisplay": 0,
+    "godpotDisplay": 0,
+    "dailyMithrilPowderDisplay": 0,
+    "dailyGemstonePowderDisplay": 0,
+    "dailyHeavyPearlDisplay": 0,
+    "questBoardDisplay": 0,
+    "shopLimitDisplay": 0,
+    "freeRiftInfusionDisplay": 0,
+    "readyColour": 10,
+    "goneColour": 12,
+    "verySoonColour": 11,
+    "soonColour": 9,
+    "kindaSoonColour": 1,
+    "defaultColour": 15,
+    "todoPosition": {
+      "x": 150,
+      "y": 0,
+      "centerX": false,
+      "centerY": false
+    },
+    "todoStyle": 0,
+    "todoIcons": true
+  },
+  "slayerOverlay": {
+    "slayerWarning": false,
+    "slayerOverlay": false,
+    "onlyShowWhenRelevant": true,
+    "slayerText": [
+      0,
+      1,
+      4,
+      5,
+      3,
+      6
+    ],
+    "slayerPosition": {
+      "x": 0,
+      "y": 225,
+      "centerX": false,
+      "centerY": false
+    },
+    "slayerStyle": 0
+  },
+  "storageGUI": {
+    "selectedIndex": 0,
+    "enableStorageGUI3": true,
+    "storageHeight": 212,
+    "displayStyle": 0,
+    "enderchestPreview": true,
+    "backpackPreview": true,
+    "masonryMode": false,
+    "fancyPanes": 0,
+    "searchBarAutofocus": true,
+    "showEnchantGlint": true,
+    "selectedStorageColour": "0:255:255:223:0",
+    "useCustomTextColour": false,
+    "customTextColour": "0:255:144:144:144",
+    "cancelScrollKey": 0,
+    "disableCIT": false,
+    "showInvBackpack": false,
+    "scrollToBackpack2": 0,
+    "backpackHotbarSide": 0,
+    "showInvBackpackPreview": true,
+    "backpackOpacity": 50,
+    "backpackScrollKey": 42,
+    "backpackHotkey": 41,
+    "arrowKeyBackpacks": false,
+    "arrowLeftKey": 203,
+    "arrowRightKey": 205,
+    "arrowDownKey": 208
+  },
+  "dungeons": {
+    "editDungeonMap": 0,
+    "showOwnHeadAsMarker": false,
+    "profitType": 0,
+    "profitDisplayLoc": 0,
+    "useKismetOnDungeonProfit": true,
+    "useEssenceCostFromBazaar": true,
+    "useChestKeyCost": true,
+    "shouldWarningDerpy": true,
+    "enableDungeonWin": true,
+    "dungeonWinMillis": 8000,
+    "enableDungBlockOverlay": true,
+    "dungeonBlocksEverywhere": false,
+    "slowDungeonBlocks": false,
+    "dungCrackedColour": "0:255:7:255:217",
+    "dungDispenserColour": "0:255:255:76:0",
+    "dungLeverColour": "0:252:24:249:255",
+    "dungTripWireColour": "0:255:255:0:0",
+    "dungChestColour": "0:255:0:163:36",
+    "dungTrappedChestColour": "0:255:0:163:36",
+    "dungBatColour": "0:255:12:255:0",
+    "croesusProfitOverlay": true,
+    "croesusSortByProfit": true,
+    "croesusHighlightHighestProfit": true
+  },
+  "enchantingSolvers": {
+    "enableTableGUI": false,
+    "enableHexGUI": false,
+    "enchantSorting": 0,
+    "enchantOrdering": 0,
+    "maxEnchLevel": false,
+    "enableEnchantingSolvers": true,
+    "preventMisclicks1": true,
+    "hideTooltips": true,
+    "seqNumbers": false,
+    "showNextClick": false,
+    "hideButtons": false,
+    "seqNext": 6,
+    "seqUpcoming": 5,
+    "supMatched": 6,
+    "supPossible": 2,
+    "supUnmatched": 5,
+    "supPower": 11,
+    "hexOverpayWarning": 1.0E7
+  },
+  "mining": {
+    "locWaypoints": 1,
+    "hideWaypointIfAtLocation": true,
+    "emissaryWaypoints": 1,
+    "hideEmissaryWaypointInTunnels": true,
+    "powderGhastWaypoint": true,
+    "fallenStarWaypoint": true,
+    "tunnelWaypoints": "SHOW_ALL",
+    "alwaysShowTunnelWaypoints": false,
+    "drillFuelBar": true,
+    "drillFuelBarWidth": 180,
+    "drillFuelBarPosition": {
+      "x": 0,
+      "y": -91,
+      "centerX": true,
+      "centerY": false
+    },
+    "dwarvenOverlay": true,
+    "dwarvenText2": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "overlayPosition": {
+      "x": 78,
+      "y": 135,
+      "centerX": false,
+      "centerY": false
+    },
+    "overlayStyle": 0,
+    "dwarvenOverlayIcons": true,
+    "forgeDisplay": 1,
+    "forgeDisplayEnabledLocations": 0,
+    "forgeDisplayOnlyShowTab": false,
+    "starCultDisplayEnabledLocations": 0,
+    "starCultDisplayOnlyShowTab": false,
+    "skyMallDisplayEnabledLocations": 0,
+    "skyMallDisplayOnlyShowTab": false,
+    "commissionTaskTips": 0,
+    "commissionTaskTipNewLine": true,
+    "metalDetectorEnabled": true,
+    "metalDetectorLineToSolution": true,
+    "metalDetectorShowPossible": false,
+    "metalDetectorTitle": false,
+    "metalDetectorFoundColor": "0:255:255:255:85",
+    "metalDetectorFailedColor": "0:255:255:85:85",
+    "metalDetectorMoveColor": "0:255:255:255:85",
+    "metalDetectorTicks": 20,
+    "crystalHollowOverlay": true,
+    "crystalHollowOverlayPosition": {
+      "x": -148,
+      "y": 0,
+      "centerX": false,
+      "centerY": false
+    },
+    "crystalHollowText": [
+      0,
+      3,
+      7
+    ],
+    "crystalHollowOverlayStyle": 0,
+    "crystalHollowIcons": true,
+    "crystalHollowHideDone": false,
+    "crystalHollowAutomatonLocation": 2,
+    "crystalHollowDivanLocation": 2,
+    "crystalHollowCrystalLocation": 1,
+    "crystalHollowPartColor": 3,
+    "crystalHollowDoneColor": 10,
+    "crystalHollowInventoryColor": 14,
+    "crystalHollowStorageColor": 14,
+    "crystalHollowMissingColor": 12,
+    "crystalHollowPlacedColor": 10,
+    "crystalHollowCollectedColor": 14,
+    "crystalHollowAllColor": 10,
+    "crystalHollowMiddleColor": 14,
+    "crystalHollowNoneColor": 12,
+    "wishingCompassSolver": true,
+    "wishingCompassAutocreateKnownWaypoints": false,
+    "wishingCompassWaypointNames": 0,
+    "powderGrindingTrackerEnabled": false,
+    "powderGrindingTrackerText": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "powderGrindingTrackerPosition": {
+      "x": 10,
+      "y": 265,
+      "centerX": false,
+      "centerY": false
+    },
+    "powderGrindingTrackerOverlayStyle": 0,
+    "powderGrindingTrackerResetMode": 2,
+    "resetPowderGrindingTracker": 0,
+    "puzzlerSolver": true,
+    "titaniumAlert": true,
+    "titaniumAlertMustBeVisible": false,
+    "dwarvenTextures": false,
+    "crystalHollowTextures": false,
+    "gemstoneSounds": false,
+    "mithrilSounds": false,
+    "mineshaftExitWaypoint": true,
+    "powderTodo": true
+  },
+  "fishing": {
+    "hideOtherPlayerAll": false,
+    "incomingFishWarningR": true,
+    "incomingFishWarning": true,
+    "incomingFishHookedSounds": true,
+    "incomingFishIncSounds": false,
+    "incomingFishHookedSoundsVol": 25.0,
+    "incomingFishIncSoundsVol": 10.0,
+    "enableCustomParticles": false,
+    "yourParticleType": 0,
+    "yourParticleColour": "0:255:255:255:255",
+    "otherParticleType": 0,
+    "otherParticleColour": "0:255:255:255:255",
+    "enableRodColours": true,
+    "ownRodColour": "0:255:0:0:0",
+    "otherRodColour": "0:255:0:0:0",
+    "fishingTimer": false,
+    "fishingTimerColor": "0:255:0:0:0",
+    "fishingTimerColor30SecPlus": "0:255:0:0:0",
+    "fishingSound30Sec": true,
+    "enableSlugCheck": true,
+    "trophyRewardOverlay": true,
+    "trophyRewardTooltips": true
+  },
+  "garden": {
+    "muteComposterSounds": false,
+    "presetDeleteWarning": true,
+    "sprayonatorCooldown": false
+  },
+  "improvedSBMenu": {
+    "enableSbMenus": true,
+    "backgroundStyle": 0,
+    "buttonStyle": 0,
+    "hideEmptyPanes": true
+  },
+  "customArmour": {
+    "enableArmourHud": true,
+    "sendWardrobeCommand": true,
+    "colourStyle": 0
+  },
+  "calendar": {
+    "eventNotifications": true,
+    "startingSoonTime": 300,
+    "showEventTimerInInventory": true,
+    "eventNotificationSounds": true,
+    "spookyNightNotification": true
+  },
+  "tradeMenu": {
+    "enableCustomTrade": true,
+    "customTradePrices": true,
+    "customTradePriceStyle": true
+  },
+  "petOverlay": {
+    "enablePetInfo": true,
+    "petInfoPosition": {
+      "x": -39,
+      "y": -3,
+      "centerX": false,
+      "centerY": false
+    },
+    "petOverlayText": [
+      0
+    ],
+    "petOverlayIcon": false,
+    "petItemIcon": false,
+    "petInfoOverlayStyle": 0,
+    "dualPets": false,
+    "petInvDisplay": false,
+    "colourStyle": 0,
+    "sendPetsCommand": true,
+    "hidePetTooltip": false,
+    "showKatSitting": true,
+    "hidePetLevelProgress": false
+  },
+  "world": {
+    "glowingMushroomAccordion": true,
+    "highlightGlowingMushrooms": false,
+    "glowingMushroomColor2": "0:100:142:88:36",
+    "enderNodeAccordion": true,
+    "highlightEnderNodes": false,
+    "enderNodeColor2": "0:100:0:255:0",
+    "frozenTreasuresAccordion": true,
+    "highlightFrozenTreasures": false,
+    "frozenTreasuresColor2": "0:100:0:255:0",
+    "crystalHollowChestsAccordion": true,
+    "highlightCrystalHollowChests": false,
+    "crystalHollowChestColor": "0:66:255:0:41"
+  },
+  "ahTweaks": {
+    "enableSearchOverlay": true,
+    "keepPreviousSearch": false,
+    "showPastSearches": true,
+    "escFullClose": true,
+    "ahSearchHistorySize": 5,
+    "underCutWarning": true,
+    "overCutWarning": true,
+    "warningThreshold": 10.0,
+    "overcutWarningThreshold": 50.0,
+    "enableSortWarning": true,
+    "enableAhSellValue": true,
+    "ctrlFSearch": true,
+    "convertSearchCommand": true
+  },
+  "bazaarTweaks": {
+    "enableSearchOverlay": true,
+    "keepPreviousSearch": false,
+    "showPastSearches": true,
+    "escFullClose": true,
+    "bzSearchHistorySize": 5,
+    "bazaarOverpayWarning": 1.0E7,
+    "ctrlFSearch": true
+  },
+  "recipeTweaks": {
+    "enableSearchOverlay": true,
+    "addPickaxeStack": true,
+    "keepPreviousSearch": false,
+    "showPastSearches": true,
+    "escFullClose": true,
+    "recipeSearchHistorySize": 15
+  },
+  "ahGraph": {
+    "graphEnabled": true,
+    "graphKey": 25,
+    "graphStyle": 0,
+    "defaultMode": 2,
+    "graphColor": "0:255:0:255:0",
+    "graphColor2": "0:255:255:255:0",
+    "movingAverages": false,
+    "movingAveragePercent": 0.2,
+    "movingAverageColor": "0:255:0:255:171",
+    "movingAverageColor2": "0:255:255:109:0",
+    "dataSource": 0,
+    "serverUrl": "pricehistory.notenoughupdates.org",
+    "dataRetention": 7,
+    "graphZones": 175
+  },
+  "wardrobeKeybinds": {
+    "enableWardrobeKeybinds": false,
+    "wardrobeSlot1": 2,
+    "wardrobeSlot2": 3,
+    "wardrobeSlot3": 4,
+    "wardrobeSlot4": 5,
+    "wardrobeSlot5": 6,
+    "wardrobeSlot6": 7,
+    "wardrobeSlot7": 8,
+    "wardrobeSlot8": 9,
+    "wardrobeSlot9": 10,
+    "wardrobePageUnequip": 11,
+    "wardrobePagePrevious": 12,
+    "wardrobePageNext": 13
+  },
+  "accessoryBag": {
+    "enableOverlay": true
+  },
+  "museum": {
+    "museumItemShow": false,
+    "museumItemColor": "0:255:0:255:0",
+    "museumCheapestItemOverlay": true,
+    "museumCheapestItemOverlayValueSource": 1,
+    "museumCheapestItemOverlayUseXp": 1
+  },
+  "profileViewer": {
+    "openPV": true,
+    "pageLayout": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "alwaysShowBingoTab": false,
+    "showPronounsInPv": false,
+    "useSoopyNetworth": true,
+    "displayWeight": true
+  },
+  "minionHelper": {
+    "gui": true,
+    "tooltip": true
+  },
+  "apiData": {
+    "apiDataUnlocked": false,
+    "autoupdate_new": true,
+    "repoUser": "NotEnoughUpdates",
+    "repoName": "NotEnoughUpdates-REPO",
+    "repoBranch": "master",
+    "repositoryEditing": false,
+    "repositoryEditingKeybind": 37,
+    "instantEditKeybind": 0,
+    "moulberryCodesApi": "moulberry.codes",
+    "ursaApi": "https://ursa.notenoughupdates.org/"
+  },
+  "hidden": {
+    "customTodos": [],
+    "profileSpecific": {
+      "Coconut": {
+        "godPotionDuration": 25200000,
+        "puzzlerCompleted": 1750329843709,
+        "firstCakeAte": 1750201417659,
+        "fetchurCompleted": 1750329825630,
+        "commissionsCompleted": 0,
+        "lastFreeRiftInfusionApplied": 1750347671942,
+        "experimentsCompleted": 0,
+        "cookieBuffRemaining": 1750544938834,
+        "forgeItems": [
+          {
+            "itemName": "[Lvl 1] Mole",
+            "finishTime": 1750427095612,
+            "status": 2,
+            "forgeID": 0,
+            "fromScoreBoard": false
+          },
+          {
+            "finishTime": 0,
+            "status": 0,
+            "forgeID": 1,
+            "fromScoreBoard": true
+          },
+          {
+            "finishTime": 0,
+            "status": 0,
+            "forgeID": 2,
+            "fromScoreBoard": true
+          },
+          {
+            "finishTime": 0,
+            "status": 0,
+            "forgeID": 3,
+            "fromScoreBoard": true
+          },
+          {
+            "finishTime": 0,
+            "status": 0,
+            "forgeID": 4,
+            "fromScoreBoard": true
+          },
+          {
+            "finishTime": 0,
+            "status": 1,
+            "forgeID": 5,
+            "fromScoreBoard": true
+          },
+          {
+            "finishTime": 0,
+            "status": 1,
+            "forgeID": 6,
+            "fromScoreBoard": true
+          }
+        ],
+        "hotmDesires": {},
+        "commissionMilestone": 3,
+        "automatonParts": {
+          "Electron Transmitter": false,
+          "Robotron Reflector": false,
+          "Superlite Motor": false,
+          "Synthetic Heart": false,
+          "Control Switch": false,
+          "FTX 3070": false
+        },
+        "divanMinesParts": {
+          "Scavenged Lapis Sword": false,
+          "Scavenged Diamond Axe": false,
+          "Scavenged Golden Hammer": false,
+          "Scavenged Emerald Hammer": false
+        },
+        "crystals": {
+          "Amber": 0,
+          "Sapphire": 2,
+          "Jade": 0,
+          "Amethyst": 2,
+          "Topaz": 2
+        },
+        "dailyGemstonePowderCompleted": 0,
+        "dailyMithrilPowerCompleted": 0,
+        "nonUnlockedWarpScrolls": [],
+        "dailyHeavyPearlCompleted": 1750330787813,
+        "questBoardCompleted": 0,
+        "dailyShopLimitCompleted": 1749383765033,
+        "savedEquipment": {
+          "19": {
+            "itemid": "minecraft:skull",
+            "displayname": "§d⚚ Waxed Shadow Assassin Cloak §6✪✪✪✪✪",
+            "nbttag": "{HideFlags:254,SkullOwner:{Id:\"0df7b9de-be8c-3836-9cda-9e6ca546daf8\",hypixelPopulated:1b,Properties:{textures:[0:{Signature:\"E2+21vF+mbIwzzwWnQ7d8N7/Sr5cisgTlW5NCJGY1hjpB/wOlO5cswKUzTdeWP7Z8Z31TmEyPs0gfC9Cje4c+a2XpVTssJYzSlXx7K811nP93ygJGLTKz/+B/tX5s3Ij7cLr3INwBd9aSFPfJzi5JszZyop6wuXDau4miB0WDAF2AW1Ln+PFUpWmrR/h9gvYqQxj/qKRyyZN8gYfRRdDeQjO/TEujIHanNMCcDW1Qp5h9HkSTXcq7SvXWNh09q8mDuGpB4tOg41DGND+CeQCQr6MAjIwYLQC8KeIkwBc3c0GAIzAUtCWrY0hNvRmd1EPcdQqbE6qn50NoJEpBMHKXh4RmCL7zhDeK1hGq3NcHXdfn6EOtu6+FPe0iSJ3aZ2Qquzyr72DUWKtbKp4eps7YUGuOZ+kZNR0dNBp67Ki9zCn9IN84fsgFTP/DT2vFix2jdVqhlX1AadmPVZfZBiH6CZ+B1drQMHaHoz1kqPBLNCSNJpeBikiGc4/LCnjXayNswqbRHKs06BPBlCbN6w1yyR/bYdqpn9l3t2o7/kRSVXMRP16hyK4ZnzBATgg0p5dzt5yp2cP+FC9UIidaDjc6klDo3GHdbUCC8IJ436QB7yvO80SUupayFtcEI4k/tJH8s3OP5Rexn6J5tNlENYlFlX3roGqDWUTAty1Xnvk2c8\u003d\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY5MjI5ODIwNzA1MywKICAicHJvZmlsZUlkIiA6ICIzZWUxYWRlMzljZDI0ZjFkOWYwODliYjA2ZTkzNTY5YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSdXNvR01SIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2ZhMjQzMTE0ODU3MmZlZDdiYzFlYWNmMGQyMjlkZGIyMTE1ZDFhMmNhMTgxZDMyM2QzZmNhNTIyNmU1MTZhMWQiCiAgICB9CiAgfQp9\"}]}},display:{Lore:[0:\"§7Strength: §c+27.5 §8(+105.25)\",1:\"§7Crit Chance: §c+7% §9(+7%) §8(+10.78%)\",2:\"§7Health: §a+15 §9(+15) §8(+63.15)\",3:\"§7Speed: §a+5.5 §8(+21.05)\",4:\"\",5:\"§7On teleport: Your next melee hit\",6:\"§7within §a5s §7deals §c10% §7more damage.\",7:\"\",8:\"§d§l§ka§r §d§lMYTHIC DUNGEON CLOAK §d§l§ka\"],Name:\"§d⚚ Waxed Shadow Assassin Cloak §6✪✪✪✪✪\"},ExtraAttributes:{rarity_upgrades:1,modifier:\"waxed\",upgrade_level:5,id:\"STARRED_SHADOW_ASSASSIN_CLOAK\",uuid:\"9aed9230-3f19-430e-bd31-3b9a07164e44\",timestamp:1738606314367L}}",
+            "damage": 3,
+            "lore": [
+              "§7Strength: §c+27.5 §8(+105.25)",
+              "§7Crit Chance: §c+7% §9(+7%) §8(+10.78%)",
+              "§7Health: §a+15 §9(+15) §8(+63.15)",
+              "§7Speed: §a+5.5 §8(+21.05)",
+              "",
+              "§7On teleport: Your next melee hit",
+              "§7within §a5s §7deals §c10% §7more damage.",
+              "",
+              "§d§l§ka§r §d§lMYTHIC DUNGEON CLOAK §d§l§ka"
+            ],
+            "internalname": "_"
+          },
+          "37": {
+            "itemid": "minecraft:skull",
+            "displayname": "§6Waxed Soulweaver Gloves §6✪✪✪✪✪",
+            "nbttag": "{HideFlags:254,SkullOwner:{Id:\"bbbc2dc3-afa0-3a6d-a13c-c0a123252fba\",hypixelPopulated:1b,Properties:{textures:[0:{Signature:\"byaUid/txh6NGDuBC9Po4p1Mf9bqhzI4BmPYk3rchzlfUISAvIz4p9JgHg01FUoPEThj0b6ulOsdmMyWXsXztyLIq8iXrgcfYI1e8VJrJVEkV+z93spf63QDNTz2jlM7t2gpcMQU25WiJZeE2YZ2i7TlL5jjCDQf24XQDv+jFrzamZPhUq8K3lwC5iwbPAXtT7T9RygE/ylLQbyHVknJiOEovnB20ueDn/wE5UmDNQQueLqmEHY65YiQvYPNtIk/8zMeTfeX5WyXh/AkJ7PIgeFSujXwz4ymGJvE12LlfHqDO5r3u6JlqyeW6BtEp2H+Eyz7meOqdFXYXB6FQGiolSHHcgCBeEQqc3CQQVI84PtHrVGjSFAHRRs0u+Ch+yJHA+XGhCJewZjEDteV3VMHHxWl7Pu1rDY6cYW5KNPiPS5v7MTdTHsvFs0em+q31PmJThRpgpDiNd884lYINXRZh6hi8hWCsQ1zV59WtMfL/UFs3qoaVuexs3iJX/qVQ0plfAQjZKju+cfB5ir/DBGgoKItJfVrwQLPsB/aYv9gp+TnT5pyXwEwVjLZIDjrqXmQ8nG0XG1cm9IOu7DvajIpP+eHB+NJTM3Lq/RikFZJ/nLINLZsvwjwuMsyBFGCbg67KgVhNwSrp15BrahHI/KGsmHSSd182DEuobODlhW+x64\u003d\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY5MjI5ODIyMjY4MywKICAicHJvZmlsZUlkIiA6ICI4NzE3ZGFhNmM3OTU0NzE2YmJlYWQ0MDRkYzg0NDQzZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTa3VsbDAwMDAiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTUyMjg2NzcyMTJiZTQzZWFhZDIzZDQ3ZWQ4NDNlMTVmYjFlNjgzODQ1OTRjMDliNThiMjNmODI0MjdlNTQ5YSIKICAgIH0KICB9Cn0\u003d\"}]}},display:{Lore:[0:\"§7Strength: §c+11 §8(+42.1)\",1:\"§7Crit Chance: §c+6% §9(+6%) §8(+9.24%)\",2:\"§7Crit Damage: §c+11% §8(+42.1%)\",3:\"§7Health: §a+12 §9(+12) §8(+50.52)\",4:\"\",5:\"§7While in §cThe Catacombs§7, summon a\",6:\"§7§cHaunted Skull §7that slowly revolves\",7:\"§7around you every §a15 §7seconds or\",8:\"§7when you kill a mob with melee damage.\",9:\"\",10:\"§7When an enemy is hit by a §cHaunted\",11:\"§cSkull§7, they are stunned for §b2\",12:\"§b§7seconds and deal §c5% §7less damage.\",13:\"\",14:\"§8§l* §8Co-op Soulbound §8§l*\",15:\"§6§l§ka§r §6§lLEGENDARY DUNGEON GLOVES §6§l§ka\"],Name:\"§6Waxed Soulweaver Gloves §6✪✪✪✪✪\"},ExtraAttributes:{rarity_upgrades:1,modifier:\"waxed\",upgrade_level:5,id:\"SOULWEAVER_GLOVES\",uuid:\"c715fb0c-904a-4b8e-8c99-8217f5aae365\",donated_museum:1b,timestamp:1738552346899L}}",
+            "damage": 3,
+            "lore": [
+              "§7Strength: §c+11 §8(+42.1)",
+              "§7Crit Chance: §c+6% §9(+6%) §8(+9.24%)",
+              "§7Crit Damage: §c+11% §8(+42.1%)",
+              "§7Health: §a+12 §9(+12) §8(+50.52)",
+              "",
+              "§7While in §cThe Catacombs§7, summon a",
+              "§7§cHaunted Skull §7that slowly revolves",
+              "§7around you every §a15 §7seconds or",
+              "§7when you kill a mob with melee damage.",
+              "",
+              "§7When an enemy is hit by a §cHaunted",
+              "§cSkull§7, they are stunned for §b2",
+              "§b§7seconds and deal §c5% §7less damage.",
+              "",
+              "§8§l* §8Co-op Soulbound §8§l*",
+              "§6§l§ka§r §6§lLEGENDARY DUNGEON GLOVES §6§l§ka"
+            ],
+            "internalname": "_"
+          },
+          "10": {
+            "itemid": "minecraft:skull",
+            "displayname": "§6⚚ Waxed Bone Necklace §6✪✪✪✪✪",
+            "nbttag": "{ench:[],HideFlags:254,SkullOwner:{Id:\"3fd8519b-ba99-3b4f-aab0-3ebe38682919\",hypixelPopulated:1b,Properties:{textures:[0:{Signature:\"fl5NarauXfV4z/d2DtUpy8SNLDmswvnwDnLF/1lFNUyrBE7MVI4imLTuucSgQ322sJnZ44zqpE+y3XUsXgW1tU/A9Gy01DrchCrQ7kcLJ2irartx5na/vEKoQR+GnZA31J+bPUKVB6/H0NqhevkUVukDqpalukxxL6ZxA8JmyA4TtmlU7/WsI6/b4MYrKRN+Kl/EUbNdk+J7ny82bTmc1O1NA2qDkr3UneT9Deh0a1cw0ISxQ504IHXqUw8AZE90voGFVp/zu+LHgrWkO1N3Vu20qDINLxD1RrpoiY24lIThs5q0bmgdLcYtnkE4kTyWPWYOK/Zu5VoaTYP0jkg8JlKa7mme0bItIw0AaaqdDu3W5yrqg+PgHBRpb22zkEdlw1e+/nOkMy9YFQjyAao3rGNMThb0qXxhezsNIEySAZkaPrGpCGzVvnM7Offmkq2vvfTDZCVbZeQRw4W14tbcCcDxJCPkY114SqzM+w5dont4OibEJtnPizyfzndn7q6R71HQCR8yEIoXjmajbMTkhkyLw/XdkjYPSjRvOgDwTrTpaBVV7G5yD2Hbmc7Fo0uwEckyY8l744Omv0x37OzgaLLDHDy2N+41q5BJOx6+TBAIRWb/fdVF1IDBRlnXIXu45yq0mvGF3FJG+17wVYdts7UyQUhAHDwaw5V4Hxza00w\u003d\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY5MjI5ODE4Nzc4NiwKICAicHJvZmlsZUlkIiA6ICI1MWIyZGY3NWEyYWM0OTA5YmM4YzlkMzM3Y2EwNDNkYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJMaWNvcm5lQXVCZXVycmUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWEzNjFhNjdiNjNkMDQ1YTBhNjNiNTI1YzFhNzAxMjhmNjkwOWVmMWFjN2JjYzZlNDYzMWViODk1ZjA3NTAyZCIKICAgIH0KICB9Cn0\u003d\"}]}},display:{Lore:[0:\"§7Crit Chance: §c+11.5% §9(+6%) §8(+16.94%)\",1:\"§7Health: §a+12 §9(+12) §8(+50.52)\",2:\"§7Defense: §a+52.5 §8(+202.08)\",3:\"§7Vitality: §a+4 §8(+6.16)\",4:\"\",5:\"§9Quantum V\",6:\"\",7:\"§6Ability: Gladiator\u0027s Will \",8:\"§7Gain §a+3❈ Defense §7for each enemy\",9:\"§7within §e10 §7blocks up to §a+30❈ Defense§7.\",10:\"§7Range increases to §e30 §7blocks and\",11:\"§7the cap increases to §a+60❈ Defense\",12:\"§a§7when you play as a §aTank §7in dungeons.\",13:\"\",14:\"§7Increases the range of your\",15:\"§7§aDiversion §7passive by §e15 §7blocks.\",16:\"\",17:\"§8§l* §8Co-op Soulbound §8§l*\",18:\"§6§l§ka§r §6§lLEGENDARY DUNGEON NECKLACE §6§l§ka\"],Name:\"§6⚚ Waxed Bone Necklace §6✪✪✪✪✪\"},ExtraAttributes:{rarity_upgrades:1,modifier:\"waxed\",upgrade_level:5,id:\"STARRED_BONE_NECKLACE\",enchantments:{quantum:5},uuid:\"2a639708-9912-498e-8a66-bbd9ddb997bf\",donated_museum:1b,timestamp:1740962633651L}}",
+            "damage": 3,
+            "lore": [
+              "§7Crit Chance: §c+11.5% §9(+6%) §8(+16.94%)",
+              "§7Health: §a+12 §9(+12) §8(+50.52)",
+              "§7Defense: §a+52.5 §8(+202.08)",
+              "§7Vitality: §a+4 §8(+6.16)",
+              "",
+              "§9Quantum V",
+              "",
+              "§6Ability: Gladiator\u0027s Will ",
+              "§7Gain §a+3❈ Defense §7for each enemy",
+              "§7within §e10 §7blocks up to §a+30❈ Defense§7.",
+              "§7Range increases to §e30 §7blocks and",
+              "§7the cap increases to §a+60❈ Defense",
+              "§a§7when you play as a §aTank §7in dungeons.",
+              "",
+              "§7Increases the range of your",
+              "§7§aDiversion §7passive by §e15 §7blocks.",
+              "",
+              "§8§l* §8Co-op Soulbound §8§l*",
+              "§6§l§ka§r §6§lLEGENDARY DUNGEON NECKLACE §6§l§ka"
+            ],
+            "internalname": "_"
+          },
+          "28": {
+            "itemid": "minecraft:skull",
+            "displayname": "§6⚚ Waxed Adaptive Belt §6✪✪✪✪✪",
+            "nbttag": "{HideFlags:254,SkullOwner:{Id:\"4bb0501d-0ae5-3099-b138-aed4293e17c8\",hypixelPopulated:1b,Properties:{textures:[0:{Signature:\"tzy5n27v67pfb6vcQ2y0YXI1CK60UBzYVBMluZVr7M/7l6L5hZkxVg5fcViEi8gcL26rCPc4QEJth6jW2kzmgjt1HOVrmenBY5/p+m0U0GD2jk4Zny6IHC0cAE8Pbi8zQwfRgi7au5Jv+N9WnbN3UMJ9W+VcSNG4DgYy6nO8aO/VwuFDoPwjqVOi3m4oXwGWTo/qWBSRQtNXPGeOfu+x4MGKKIAi4HyV5YsJCWA3NDBP4I02ntOIBw1jOHmn+Bsbc2mE+WV+nsuGUez1wQigDKJ1RUiNMc3Dv35bnZd3l86UwbX63M28KcLCSNmx+VBLyGXu4IxnMRWJ+foeOFLtwZZZ5Ia1LPO5dstNxpUgAIWOVWVDxJTx0z4K48CO7oNj9q82jNlfDLjg6ciXdYfCqKdXouUBZDxGgAabywyUxEzKrVsWj4M9AG0RnRhpppBzzUrSowUqavq+oqsL+vt3z4pI1GT/S2eWcPSkShfXmQNyjdwPD1T/hNzpe8rW8DQcwn18NHFTcS05lVBJ/SctfliPoTmG51IZtQhckZGlNi1j0mfWVG9juB99wGnGOb0DFo5hnVm1AtDRPQI0abFia8F2g8SE/gD/c8ApgcLQ7YDYyMRqZY+Igy2x/gPlLb2WU/baD2PgaZt3CnftwI2nvUm4QBwjRSkjX7FvadtP9Vk\u003d\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY5MjI5ODI2MTU3NCwKICAicHJvZmlsZUlkIiA6ICIwOWQ3YmJjNGYxZmU0ZjlkYjRiZmE1MTY2NDA3OTcyYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJlemtkIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzcwYmY2ZDc2ZjJhMDNmMzE5ZmZmZTcyNWY4MmI4MGI5MjUyOTFlZmRhMzZkNGRiMjViYWNkN2VhODZhNjU3YyIKICAgIH0KICB9Cn0\u003d\"}]}},display:{Lore:[0:\"§7Strength: §c+11 §8(+42.1)\",1:\"§7Crit Chance: §c+6% §9(+6%) §8(+9.24%)\",2:\"§7Health: §a+28.5 §9(+12) §8(+113.67)\",3:\"§7Defense: §a+11 §8(+42.1)\",4:\"\",5:\"§7Grants additional bonuses based on your\",6:\"§7selected dungeon class!\",7:\"\",8:\"§7§bBerserk§7: §7+§c10❁ Strength\",9:\"§7§bHealer§7: §7+§c10❤ Health§7, +§a5☄ Mending\",10:\"§7§bMage§7: §7+§b25✎ Intelligence\",11:\"§7§bTank§7: §7+§c5❤ Health§7, +§a10❈ Defense\",12:\"§7§bArcher§7: §7+§92☣ Crit Chance§7, +§95☠ Crit Damage\",13:\"\",14:\"§6§l§ka§r §6§lLEGENDARY DUNGEON BELT §6§l§ka\"],Name:\"§6⚚ Waxed Adaptive Belt §6✪✪✪✪✪\"},ExtraAttributes:{rarity_upgrades:1,modifier:\"waxed\",upgrade_level:5,id:\"STARRED_ADAPTIVE_BELT\",uuid:\"e2ad0bbb-93a0-4e3b-9e24-b3f0ceb5f733\",timestamp:1738606624981L}}",
+            "damage": 3,
+            "lore": [
+              "§7Strength: §c+11 §8(+42.1)",
+              "§7Crit Chance: §c+6% §9(+6%) §8(+9.24%)",
+              "§7Health: §a+28.5 §9(+12) §8(+113.67)",
+              "§7Defense: §a+11 §8(+42.1)",
+              "",
+              "§7Grants additional bonuses based on your",
+              "§7selected dungeon class!",
+              "",
+              "§7§bBerserk§7: §7+§c10❁ Strength",
+              "§7§bHealer§7: §7+§c10❤ Health§7, +§a5☄ Mending",
+              "§7§bMage§7: §7+§b25✎ Intelligence",
+              "§7§bTank§7: §7+§c5❤ Health§7, +§a10❈ Defense",
+              "§7§bArcher§7: §7+§92☣ Crit Chance§7, +§95☠ Crit Damage",
+              "",
+              "§6§l§ka§r §6§lLEGENDARY DUNGEON BELT §6§l§ka"
+            ],
+            "internalname": "_"
+          }
+        },
+        "magicalPower": 1025,
+        "chestCount": 106,
+        "openedChestCount": 14,
+        "mithrilPowderFound": 0,
+        "gemstonePowderFound": 8532,
+        "abiphoneFavouriteContacts": [],
+        "abiphoneShowOnlyFavourites": false,
+        "hotmTree": {
+          "Mole": 41,
+          "Efficient Miner": 42,
+          "Quick Forge": 12,
+          "Precision Mining": 1,
+          "Mining Fortune": 17,
+          "Titanium Insanium": 16,
+          "Mining Speed": 32
+        },
+        "hasConsumedRiftPrism": false,
+        "abiphoneMagicPower": 2
+      },
+      "Raspberry": {
+        "godPotionDuration": 25200000,
+        "puzzlerCompleted": 1741887503701,
+        "firstCakeAte": 1741887679435,
+        "fetchurCompleted": 0,
+        "commissionsCompleted": 0,
+        "lastFreeRiftInfusionApplied": 1741466099709,
+        "experimentsCompleted": 1741978504279,
+        "cookieBuffRemaining": 0,
+        "forgeItems": [
+          {
+            "finishTime": 0,
+            "status": 0,
+            "forgeID": 0,
+            "fromScoreBoard": true
+          },
+          {
+            "finishTime": 0,
+            "status": 0,
+            "forgeID": 1,
+            "fromScoreBoard": true
+          },
+          {
+            "finishTime": 0,
+            "status": 1,
+            "forgeID": 2,
+            "fromScoreBoard": true
+          },
+          {
+            "finishTime": 0,
+            "status": 1,
+            "forgeID": 3,
+            "fromScoreBoard": true
+          },
+          {
+            "finishTime": 0,
+            "status": 1,
+            "forgeID": 4,
+            "fromScoreBoard": true
+          },
+          {
+            "finishTime": 0,
+            "status": 1,
+            "forgeID": 5,
+            "fromScoreBoard": true
+          },
+          {
+            "finishTime": 0,
+            "status": 1,
+            "forgeID": 6,
+            "fromScoreBoard": true
+          }
+        ],
+        "hotmDesires": {},
+        "commissionMilestone": 0,
+        "automatonParts": {
+          "Electron Transmitter": false,
+          "Robotron Reflector": false,
+          "Superlite Motor": false,
+          "Synthetic Heart": false,
+          "Control Switch": false,
+          "FTX 3070": false
+        },
+        "divanMinesParts": {
+          "Scavenged Lapis Sword": false,
+          "Scavenged Diamond Axe": false,
+          "Scavenged Golden Hammer": false,
+          "Scavenged Emerald Hammer": false
+        },
+        "crystals": {
+          "Amber": 0,
+          "Sapphire": 0,
+          "Jade": 0,
+          "Amethyst": 0,
+          "Topaz": 0
+        },
+        "dailyGemstonePowderCompleted": 0,
+        "dailyMithrilPowerCompleted": 0,
+        "nonUnlockedWarpScrolls": [],
+        "dailyHeavyPearlCompleted": 1741971553240,
+        "questBoardCompleted": 0,
+        "dailyShopLimitCompleted": 0,
+        "savedEquipment": {
+          "19": {
+            "itemid": "minecraft:skull",
+            "displayname": "§6⚚ Brilliant Shadow Assassin Cloak §6✪✪✪✪✪",
+            "nbttag": "{HideFlags:254,SkullOwner:{Id:\"0df7b9de-be8c-3836-9cda-9e6ca546daf8\",hypixelPopulated:1b,Properties:{textures:[0:{Signature:\"E2+21vF+mbIwzzwWnQ7d8N7/Sr5cisgTlW5NCJGY1hjpB/wOlO5cswKUzTdeWP7Z8Z31TmEyPs0gfC9Cje4c+a2XpVTssJYzSlXx7K811nP93ygJGLTKz/+B/tX5s3Ij7cLr3INwBd9aSFPfJzi5JszZyop6wuXDau4miB0WDAF2AW1Ln+PFUpWmrR/h9gvYqQxj/qKRyyZN8gYfRRdDeQjO/TEujIHanNMCcDW1Qp5h9HkSTXcq7SvXWNh09q8mDuGpB4tOg41DGND+CeQCQr6MAjIwYLQC8KeIkwBc3c0GAIzAUtCWrY0hNvRmd1EPcdQqbE6qn50NoJEpBMHKXh4RmCL7zhDeK1hGq3NcHXdfn6EOtu6+FPe0iSJ3aZ2Qquzyr72DUWKtbKp4eps7YUGuOZ+kZNR0dNBp67Ki9zCn9IN84fsgFTP/DT2vFix2jdVqhlX1AadmPVZfZBiH6CZ+B1drQMHaHoz1kqPBLNCSNJpeBikiGc4/LCnjXayNswqbRHKs06BPBlCbN6w1yyR/bYdqpn9l3t2o7/kRSVXMRP16hyK4ZnzBATgg0p5dzt5yp2cP+FC9UIidaDjc6klDo3GHdbUCC8IJ436QB7yvO80SUupayFtcEI4k/tJH8s3OP5Rexn6J5tNlENYlFlX3roGqDWUTAty1Xnvk2c8\u003d\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY5MjI5ODIwNzA1MywKICAicHJvZmlsZUlkIiA6ICIzZWUxYWRlMzljZDI0ZjFkOWYwODliYjA2ZTkzNTY5YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSdXNvR01SIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2ZhMjQzMTE0ODU3MmZlZDdiYzFlYWNmMGQyMjlkZGIyMTE1ZDFhMmNhMTgxZDMyM2QzZmNhNTIyNmU1MTZhMWQiCiAgICB9CiAgfQp9\"}]}},display:{Lore:[0:\"§7Strength: §c+27.5 §8(+82.75)\",1:\"§7Health: §a+4 §9(+4) §8(+13.24)\",2:\"§7Speed: §a+7.5 §9(+2) §8(+23.17)\",3:\"§7Intelligence: §a+12 §9(+12) §8(+39.72)\",4:\"\",5:\"§7On teleport: Your next melee hit\",6:\"§7within §a5s §7deals §c10% §7more damage.\",7:\"\",8:\"§6§lLEGENDARY DUNGEON CLOAK\"],Name:\"§6⚚ Brilliant Shadow Assassin Cloak §6✪✪✪✪✪\"},ExtraAttributes:{modifier:\"brilliant\",upgrade_level:5,id:\"STARRED_SHADOW_ASSASSIN_CLOAK\",uuid:\"0a234883-4a9a-4a19-8276-64aeabfb26d7\",timestamp:1741258403986L}}",
+            "damage": 3,
+            "lore": [
+              "§7Strength: §c+27.5 §8(+82.75)",
+              "§7Health: §a+4 §9(+4) §8(+13.24)",
+              "§7Speed: §a+7.5 §9(+2) §8(+23.17)",
+              "§7Intelligence: §a+12 §9(+12) §8(+39.72)",
+              "",
+              "§7On teleport: Your next melee hit",
+              "§7within §a5s §7deals §c10% §7more damage.",
+              "",
+              "§6§lLEGENDARY DUNGEON CLOAK"
+            ],
+            "internalname": "_"
+          },
+          "37": {
+            "itemid": "minecraft:skull",
+            "displayname": "§5Brilliant Soulweaver Gloves §6✪✪✪✪",
+            "nbttag": "{HideFlags:254,SkullOwner:{Id:\"bbbc2dc3-afa0-3a6d-a13c-c0a123252fba\",hypixelPopulated:1b,Properties:{textures:[0:{Signature:\"byaUid/txh6NGDuBC9Po4p1Mf9bqhzI4BmPYk3rchzlfUISAvIz4p9JgHg01FUoPEThj0b6ulOsdmMyWXsXztyLIq8iXrgcfYI1e8VJrJVEkV+z93spf63QDNTz2jlM7t2gpcMQU25WiJZeE2YZ2i7TlL5jjCDQf24XQDv+jFrzamZPhUq8K3lwC5iwbPAXtT7T9RygE/ylLQbyHVknJiOEovnB20ueDn/wE5UmDNQQueLqmEHY65YiQvYPNtIk/8zMeTfeX5WyXh/AkJ7PIgeFSujXwz4ymGJvE12LlfHqDO5r3u6JlqyeW6BtEp2H+Eyz7meOqdFXYXB6FQGiolSHHcgCBeEQqc3CQQVI84PtHrVGjSFAHRRs0u+Ch+yJHA+XGhCJewZjEDteV3VMHHxWl7Pu1rDY6cYW5KNPiPS5v7MTdTHsvFs0em+q31PmJThRpgpDiNd884lYINXRZh6hi8hWCsQ1zV59WtMfL/UFs3qoaVuexs3iJX/qVQ0plfAQjZKju+cfB5ir/DBGgoKItJfVrwQLPsB/aYv9gp+TnT5pyXwEwVjLZIDjrqXmQ8nG0XG1cm9IOu7DvajIpP+eHB+NJTM3Lq/RikFZJ/nLINLZsvwjwuMsyBFGCbg67KgVhNwSrp15BrahHI/KGsmHSSd182DEuobODlhW+x64\u003d\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY5MjI5ODIyMjY4MywKICAicHJvZmlsZUlkIiA6ICI4NzE3ZGFhNmM3OTU0NzE2YmJlYWQ0MDRkYzg0NDQzZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTa3VsbDAwMDAiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTUyMjg2NzcyMTJiZTQzZWFhZDIzZDQ3ZWQ4NDNlMTVmYjFlNjgzODQ1OTRjMDliNThiMjNmODI0MjdlNTQ5YSIKICAgIH0KICB9Cn0\u003d\"}]}},display:{Lore:[0:\"§7Strength: §c+10.8 §8(+32.1)\",1:\"§7Crit Damage: §c+10.8% §8(+32.1%)\",2:\"§7Health: §a+3 §9(+3) §8(+9.63)\",3:\"§7Speed: §a+2 §9(+2) §8(+6.42)\",4:\"§7Intelligence: §a+9 §9(+9) §8(+28.89)\",5:\"\",6:\"§7While in §cThe Catacombs§7, summon a\",7:\"§7§cHaunted Skull §7that slowly revolves\",8:\"§7around you every §a15 §7seconds or\",9:\"§7when you kill a mob with melee damage.\",10:\"\",11:\"§7When an enemy is hit by a §cHaunted\",12:\"§cSkull§7, they are stunned for §b2\",13:\"§b§7seconds and deal §c5% §7less damage.\",14:\"\",15:\"§5§lEPIC DUNGEON GLOVES\"],Name:\"§5Brilliant Soulweaver Gloves §6✪✪✪✪\"},ExtraAttributes:{modifier:\"brilliant\",upgrade_level:4,id:\"SOULWEAVER_GLOVES\",uuid:\"b6ae83d5-bdeb-4e18-bbb3-a1969b274f7d\",timestamp:1741089884823L}}",
+            "damage": 3,
+            "lore": [
+              "§7Strength: §c+10.8 §8(+32.1)",
+              "§7Crit Damage: §c+10.8% §8(+32.1%)",
+              "§7Health: §a+3 §9(+3) §8(+9.63)",
+              "§7Speed: §a+2 §9(+2) §8(+6.42)",
+              "§7Intelligence: §a+9 §9(+9) §8(+28.89)",
+              "",
+              "§7While in §cThe Catacombs§7, summon a",
+              "§7§cHaunted Skull §7that slowly revolves",
+              "§7around you every §a15 §7seconds or",
+              "§7when you kill a mob with melee damage.",
+              "",
+              "§7When an enemy is hit by a §cHaunted",
+              "§cSkull§7, they are stunned for §b2",
+              "§b§7seconds and deal §c5% §7less damage.",
+              "",
+              "§5§lEPIC DUNGEON GLOVES"
+            ],
+            "internalname": "_"
+          },
+          "10": {
+            "itemid": "minecraft:skull",
+            "displayname": "§5⚚ Brilliant Bone Necklace §6✪✪✪✪✪",
+            "nbttag": "{HideFlags:254,SkullOwner:{Id:\"3fd8519b-ba99-3b4f-aab0-3ebe38682919\",hypixelPopulated:1b,Properties:{textures:[0:{Signature:\"fl5NarauXfV4z/d2DtUpy8SNLDmswvnwDnLF/1lFNUyrBE7MVI4imLTuucSgQ322sJnZ44zqpE+y3XUsXgW1tU/A9Gy01DrchCrQ7kcLJ2irartx5na/vEKoQR+GnZA31J+bPUKVB6/H0NqhevkUVukDqpalukxxL6ZxA8JmyA4TtmlU7/WsI6/b4MYrKRN+Kl/EUbNdk+J7ny82bTmc1O1NA2qDkr3UneT9Deh0a1cw0ISxQ504IHXqUw8AZE90voGFVp/zu+LHgrWkO1N3Vu20qDINLxD1RrpoiY24lIThs5q0bmgdLcYtnkE4kTyWPWYOK/Zu5VoaTYP0jkg8JlKa7mme0bItIw0AaaqdDu3W5yrqg+PgHBRpb22zkEdlw1e+/nOkMy9YFQjyAao3rGNMThb0qXxhezsNIEySAZkaPrGpCGzVvnM7Offmkq2vvfTDZCVbZeQRw4W14tbcCcDxJCPkY114SqzM+w5dont4OibEJtnPizyfzndn7q6R71HQCR8yEIoXjmajbMTkhkyLw/XdkjYPSjRvOgDwTrTpaBVV7G5yD2Hbmc7Fo0uwEckyY8l744Omv0x37OzgaLLDHDy2N+41q5BJOx6+TBAIRWb/fdVF1IDBRlnXIXu45yq0mvGF3FJG+17wVYdts7UyQUhAHDwaw5V4Hxza00w\u003d\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY5MjI5ODE4Nzc4NiwKICAicHJvZmlsZUlkIiA6ICI1MWIyZGY3NWEyYWM0OTA5YmM4YzlkMzM3Y2EwNDNkYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJMaWNvcm5lQXVCZXVycmUiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWEzNjFhNjdiNjNkMDQ1YTBhNjNiNTI1YzFhNzAxMjhmNjkwOWVmMWFjN2JjYzZlNDYzMWViODk1ZjA3NTAyZCIKICAgIH0KICB9Cn0\u003d\"}]}},display:{Lore:[0:\"§7Crit Chance: §c+5.5% §8(+7.65%)\",1:\"§7Health: §a+3 §9(+3) §8(+9.93)\",2:\"§7Defense: §a+49.5 §8(+148.95)\",3:\"§7Speed: §a+2 §9(+2) §8(+6.62)\",4:\"§7Intelligence: §a+9 §9(+9) §8(+29.79)\",5:\"\",6:\"§6Ability: Gladiator\u0027s Will \",7:\"§7Gain §a+3❈ Defense §7for each enemy\",8:\"§7within §e10 §7blocks up to §a+30❈ Defense§7.\",9:\"§7Range increases to §e30 §7blocks and\",10:\"§7the cap increases to §a+60❈ Defense\",11:\"§a§7when you play as a §aTank §7in dungeons.\",12:\"\",13:\"§7Increases the range of your\",14:\"§7§aDiversion §7passive by §e15 §7blocks.\",15:\"\",16:\"§5§lEPIC DUNGEON NECKLACE\"],Name:\"§5⚚ Brilliant Bone Necklace §6✪✪✪✪✪\"},ExtraAttributes:{modifier:\"brilliant\",upgrade_level:5,id:\"STARRED_BONE_NECKLACE\",uuid:\"df530911-aba5-44fa-a411-e0c8725bdd7e\",timestamp:1741203427053L}}",
+            "damage": 3,
+            "lore": [
+              "§7Crit Chance: §c+5.5% §8(+7.65%)",
+              "§7Health: §a+3 §9(+3) §8(+9.93)",
+              "§7Defense: §a+49.5 §8(+148.95)",
+              "§7Speed: §a+2 §9(+2) §8(+6.62)",
+              "§7Intelligence: §a+9 §9(+9) §8(+29.79)",
+              "",
+              "§6Ability: Gladiator\u0027s Will ",
+              "§7Gain §a+3❈ Defense §7for each enemy",
+              "§7within §e10 §7blocks up to §a+30❈ Defense§7.",
+              "§7Range increases to §e30 §7blocks and",
+              "§7the cap increases to §a+60❈ Defense",
+              "§a§7when you play as a §aTank §7in dungeons.",
+              "",
+              "§7Increases the range of your",
+              "§7§aDiversion §7passive by §e15 §7blocks.",
+              "",
+              "§5§lEPIC DUNGEON NECKLACE"
+            ],
+            "internalname": "_"
+          },
+          "28": {
+            "itemid": "minecraft:skull",
+            "displayname": "§5⚚ Brilliant Adaptive Belt §6✪✪✪✪✪",
+            "nbttag": "{HideFlags:254,SkullOwner:{Id:\"4bb0501d-0ae5-3099-b138-aed4293e17c8\",hypixelPopulated:1b,Properties:{textures:[0:{Signature:\"tzy5n27v67pfb6vcQ2y0YXI1CK60UBzYVBMluZVr7M/7l6L5hZkxVg5fcViEi8gcL26rCPc4QEJth6jW2kzmgjt1HOVrmenBY5/p+m0U0GD2jk4Zny6IHC0cAE8Pbi8zQwfRgi7au5Jv+N9WnbN3UMJ9W+VcSNG4DgYy6nO8aO/VwuFDoPwjqVOi3m4oXwGWTo/qWBSRQtNXPGeOfu+x4MGKKIAi4HyV5YsJCWA3NDBP4I02ntOIBw1jOHmn+Bsbc2mE+WV+nsuGUez1wQigDKJ1RUiNMc3Dv35bnZd3l86UwbX63M28KcLCSNmx+VBLyGXu4IxnMRWJ+foeOFLtwZZZ5Ia1LPO5dstNxpUgAIWOVWVDxJTx0z4K48CO7oNj9q82jNlfDLjg6ciXdYfCqKdXouUBZDxGgAabywyUxEzKrVsWj4M9AG0RnRhpppBzzUrSowUqavq+oqsL+vt3z4pI1GT/S2eWcPSkShfXmQNyjdwPD1T/hNzpe8rW8DQcwn18NHFTcS05lVBJ/SctfliPoTmG51IZtQhckZGlNi1j0mfWVG9juB99wGnGOb0DFo5hnVm1AtDRPQI0abFia8F2g8SE/gD/c8ApgcLQ7YDYyMRqZY+Igy2x/gPlLb2WU/baD2PgaZt3CnftwI2nvUm4QBwjRSkjX7FvadtP9Vk\u003d\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY5MjI5ODI2MTU3NCwKICAicHJvZmlsZUlkIiA6ICIwOWQ3YmJjNGYxZmU0ZjlkYjRiZmE1MTY2NDA3OTcyYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJlemtkIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzcwYmY2ZDc2ZjJhMDNmMzE5ZmZmZTcyNWY4MmI4MGI5MjUyOTFlZmRhMzZkNGRiMjViYWNkN2VhODZhNjU3YyIKICAgIH0KICB9Cn0\u003d\"}]}},display:{Lore:[0:\"§7Strength: §c+11 §8(+33.1)\",1:\"§7Health: §a+19.5 §9(+3) §8(+59.58)\",2:\"§7Defense: §a+11 §8(+33.1)\",3:\"§7Speed: §a+2 §9(+2) §8(+6.62)\",4:\"§7Intelligence: §a+9 §9(+9) §8(+29.79)\",5:\"\",6:\"§7Grants additional bonuses based on your\",7:\"§7selected dungeon class!\",8:\"\",9:\"§7§bBerserk§7: §7+§c10❁ Strength\",10:\"§7§bHealer§7: §7+§c10❤ Health§7, +§a5☄ Mending\",11:\"§7§bMage§7: §7+§b25✎ Intelligence\",12:\"§7§bTank§7: §7+§c5❤ Health§7, +§a10❈ Defense\",13:\"§7§bArcher§7: §7+§92☣ Crit Chance§7, +§95☠ Crit Damage\",14:\"\",15:\"§5§lEPIC DUNGEON BELT\"],Name:\"§5⚚ Brilliant Adaptive Belt §6✪✪✪✪✪\"},ExtraAttributes:{modifier:\"brilliant\",upgrade_level:5,id:\"STARRED_ADAPTIVE_BELT\",uuid:\"c236bc5e-6e9b-4a4a-a255-d28cd4dcef04\",timestamp:1739991426875L}}",
+            "damage": 3,
+            "lore": [
+              "§7Strength: §c+11 §8(+33.1)",
+              "§7Health: §a+19.5 §9(+3) §8(+59.58)",
+              "§7Defense: §a+11 §8(+33.1)",
+              "§7Speed: §a+2 §9(+2) §8(+6.62)",
+              "§7Intelligence: §a+9 §9(+9) §8(+29.79)",
+              "",
+              "§7Grants additional bonuses based on your",
+              "§7selected dungeon class!",
+              "",
+              "§7§bBerserk§7: §7+§c10❁ Strength",
+              "§7§bHealer§7: §7+§c10❤ Health§7, +§a5☄ Mending",
+              "§7§bMage§7: §7+§b25✎ Intelligence",
+              "§7§bTank§7: §7+§c5❤ Health§7, +§a10❈ Defense",
+              "§7§bArcher§7: §7+§92☣ Crit Chance§7, +§95☠ Crit Damage",
+              "",
+              "§5§lEPIC DUNGEON BELT"
+            ],
+            "internalname": "_"
+          }
+        },
+        "magicalPower": 360,
+        "chestCount": 0,
+        "openedChestCount": 0,
+        "mithrilPowderFound": 0,
+        "gemstonePowderFound": 0,
+        "abiphoneFavouriteContacts": [],
+        "abiphoneShowOnlyFavourites": false,
+        "hotmTree": {
+          "Mining Speed": 17
+        },
+        "hasConsumedRiftPrism": false,
+        "abiphoneMagicPower": 0
+      },
+      "Pineapple": {
+        "godPotionDuration": 0,
+        "puzzlerCompleted": 0,
+        "firstCakeAte": 0,
+        "fetchurCompleted": 0,
+        "commissionsCompleted": 0,
+        "lastFreeRiftInfusionApplied": 0,
+        "experimentsCompleted": 0,
+        "cookieBuffRemaining": 0,
+        "forgeItems": [],
+        "hotmDesires": {},
+        "commissionMilestone": 0,
+        "automatonParts": {
+          "Electron Transmitter": false,
+          "Robotron Reflector": false,
+          "Superlite Motor": false,
+          "Synthetic Heart": false,
+          "Control Switch": false,
+          "FTX 3070": false
+        },
+        "divanMinesParts": {
+          "Scavenged Lapis Sword": false,
+          "Scavenged Diamond Axe": false,
+          "Scavenged Golden Hammer": false,
+          "Scavenged Emerald Hammer": false
+        },
+        "crystals": {
+          "Amber": 0,
+          "Sapphire": 0,
+          "Jade": 0,
+          "Amethyst": 0,
+          "Topaz": 0
+        },
+        "dailyGemstonePowderCompleted": 0,
+        "dailyMithrilPowerCompleted": 0,
+        "nonUnlockedWarpScrolls": [],
+        "dailyHeavyPearlCompleted": 0,
+        "questBoardCompleted": 0,
+        "dailyShopLimitCompleted": 0,
+        "savedEquipment": {
+          "19": {
+            "itemid": "minecraft:stained_glass_pane",
+            "displayname": "§7Empty Equipment Slot",
+            "nbttag": "{display:{Lore:[0:\" §8\u003e Cloak\"],Name:\"§7Empty Equipment Slot\"}}",
+            "damage": 8,
+            "lore": [
+              " §8\u003e Cloak"
+            ],
+            "internalname": "_"
+          },
+          "37": {
+            "itemid": "minecraft:stained_glass_pane",
+            "displayname": "§7Empty Equipment Slot",
+            "nbttag": "{display:{Lore:[0:\" §8\u003e Gloves\",1:\" §8\u003e Bracelet\"],Name:\"§7Empty Equipment Slot\"}}",
+            "damage": 8,
+            "lore": [
+              " §8\u003e Gloves",
+              " §8\u003e Bracelet"
+            ],
+            "internalname": "_"
+          },
+          "10": {
+            "itemid": "minecraft:stained_glass_pane",
+            "displayname": "§7Empty Equipment Slot",
+            "nbttag": "{display:{Lore:[0:\" §8\u003e Necklace\"],Name:\"§7Empty Equipment Slot\"}}",
+            "damage": 8,
+            "lore": [
+              " §8\u003e Necklace"
+            ],
+            "internalname": "_"
+          },
+          "28": {
+            "itemid": "minecraft:stained_glass_pane",
+            "displayname": "§7Empty Equipment Slot",
+            "nbttag": "{display:{Lore:[0:\" §8\u003e Belt\"],Name:\"§7Empty Equipment Slot\"}}",
+            "damage": 8,
+            "lore": [
+              " §8\u003e Belt"
+            ],
+            "internalname": "_"
+          }
+        },
+        "magicalPower": 0,
+        "chestCount": 0,
+        "openedChestCount": 0,
+        "mithrilPowderFound": 0,
+        "gemstonePowderFound": 0,
+        "abiphoneFavouriteContacts": [],
+        "abiphoneShowOnlyFavourites": false,
+        "hotmTree": {},
+        "hasConsumedRiftPrism": false,
+        "abiphoneMagicPower": 0
+      },
+      "Orange": {
+        "godPotionDuration": 10800000,
+        "puzzlerCompleted": 0,
+        "firstCakeAte": 1747779075192,
+        "fetchurCompleted": 0,
+        "commissionsCompleted": 0,
+        "lastFreeRiftInfusionApplied": 0,
+        "experimentsCompleted": 0,
+        "cookieBuffRemaining": 1748192984182,
+        "forgeItems": [],
+        "hotmDesires": {},
+        "commissionMilestone": 0,
+        "automatonParts": {
+          "Electron Transmitter": false,
+          "Robotron Reflector": false,
+          "Superlite Motor": false,
+          "Synthetic Heart": false,
+          "Control Switch": false,
+          "FTX 3070": false
+        },
+        "divanMinesParts": {
+          "Scavenged Lapis Sword": false,
+          "Scavenged Diamond Axe": false,
+          "Scavenged Golden Hammer": false,
+          "Scavenged Emerald Hammer": false
+        },
+        "crystals": {
+          "Amber": 0,
+          "Sapphire": 0,
+          "Jade": 0,
+          "Amethyst": 0,
+          "Topaz": 0
+        },
+        "dailyGemstonePowderCompleted": 0,
+        "dailyMithrilPowerCompleted": 0,
+        "nonUnlockedWarpScrolls": [],
+        "dailyHeavyPearlCompleted": 0,
+        "questBoardCompleted": 0,
+        "dailyShopLimitCompleted": 0,
+        "savedEquipment": {
+          "19": {
+            "itemid": "minecraft:stained_glass_pane",
+            "displayname": "§7Empty Equipment Slot",
+            "nbttag": "{display:{Lore:[0:\" §8\u003e Cloak\"],Name:\"§7Empty Equipment Slot\"}}",
+            "damage": 8,
+            "lore": [
+              " §8\u003e Cloak"
+            ],
+            "internalname": "_"
+          },
+          "37": {
+            "itemid": "minecraft:skull",
+            "displayname": "§aLuminous Bracelet",
+            "nbttag": "{HideFlags:254,SkullOwner:{Id:\"e9cbbe5b-4433-3bdc-99d3-f49568e4ef1b\",hypixelPopulated:1b,Properties:{textures:[0:{Signature:\"MR1HeMhwiiqbQwUXyIJfA0y32BRc1b38ZMKkP1Ck9PfVkPuPT9KHbZfnKxghvROi0TSMX26F4852LijIfJ0EJMWItpToaYyJqJcWNRb6azFS7mYQOhOEX0y6gFYQ/zNtW72Shg+yA3cKb4RAFqTbxXfa5j95y/Tzxa1sz4pCqtpNEwUCQS+BYxldj2h+q/N3HPqIsxZm3JG6r7UQSqO2aGSd1vraLlIjz8MY0X4kxHLW0Odd5f/K0mQ8Ve/q6YzbfB+JrArb4s4UW8wsbRE6zhZNte5LYZXD3HVxbRl+usD6OYV6kE8AaN+a7e0mDtohk8XKwoX2zX8wcQr5AwmlksJWLRAI/fcOewGOqkCKe2WXxlH0XzG/bvYI69PlovEv/euHrXljPo41nZ0xEsW2Tp5tw+f2cDwnOAbv8MlRDk7MqYLhNEeLQl6vtt2nUGgfC1qVbfDZXtmWSx/dFhJaPVZKdfJc55ovEhkRiAdYWfIxdNK5ohMEOktoiaWyiUl0hroqP6oN1vEWIetevV0c4M1kK8U8gZKMKOA+KnpoVOl0hmYubhYvAJ8//Ho1xAAdn4Ceu0A9mvCeYIfincbDlbusO0uxn3agMImiFNO3zKGgATy82LQp45pE75s2PIuZz7H0Q24+PFMT3cMBoWGJbS4MOwpJiBzfg3EJtCsiUYs\u003d\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY2MTgwMTIzMDIwMiwKICAicHJvZmlsZUlkIiA6ICIxOTQzY2VmYzM4NWM0YTJjYWJiZGViODBjZTIwM2RjZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJzb29vb29vb29vb29vb29wIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFlOTdmOTllOWVkYjg5ZWQ3YjEzMDkwYjkxODM5N2RhYzQ3ZmE3YTZlYTEwODBlNDM5Y2QzMzgwYTE2MDMxYzgiCiAgICB9CiAgfQp9\"}]}},display:{Lore:[0:\"§7Sea Creature Chance: §c+1%\",1:\"§7Fishing Speed: §a+1\",2:\"\",3:\"§7Earn §6+20 Coins §7and §3+10 Fishing XP\",4:\"§3§7when depositing §aChum §7in someone\",5:\"§7ELSE\u0027s bucket.\",6:\"\",7:\"§7§8This item can be reforged!\",8:\"§a§lUNCOMMON BRACELET\"],Name:\"§aLuminous Bracelet\"},ExtraAttributes:{id:\"LUMINOUS_BRACELET\",uuid:\"9e4b2c1c-01d3-44a6-bf6c-3882150a70f1\",timestamp:\"12/21/22 9:51 PM\"}}",
+            "damage": 3,
+            "lore": [
+              "§7Sea Creature Chance: §c+1%",
+              "§7Fishing Speed: §a+1",
+              "",
+              "§7Earn §6+20 Coins §7and §3+10 Fishing XP",
+              "§3§7when depositing §aChum §7in someone",
+              "§7ELSE\u0027s bucket.",
+              "",
+              "§7§8This item can be reforged!",
+              "§a§lUNCOMMON BRACELET"
+            ],
+            "internalname": "_"
+          },
+          "10": {
+            "itemid": "minecraft:stained_glass_pane",
+            "displayname": "§7Empty Equipment Slot",
+            "nbttag": "{display:{Lore:[0:\" §8\u003e Necklace\"],Name:\"§7Empty Equipment Slot\"}}",
+            "damage": 8,
+            "lore": [
+              " §8\u003e Necklace"
+            ],
+            "internalname": "_"
+          },
+          "28": {
+            "itemid": "minecraft:stained_glass_pane",
+            "displayname": "§7Empty Equipment Slot",
+            "nbttag": "{display:{Lore:[0:\" §8\u003e Belt\"],Name:\"§7Empty Equipment Slot\"}}",
+            "damage": 8,
+            "lore": [
+              " §8\u003e Belt"
+            ],
+            "internalname": "_"
+          }
+        },
+        "magicalPower": 873,
+        "chestCount": 0,
+        "openedChestCount": 0,
+        "mithrilPowderFound": 0,
+        "gemstonePowderFound": 0,
+        "abiphoneFavouriteContacts": [],
+        "abiphoneShowOnlyFavourites": false,
+        "hotmTree": {},
+        "hasConsumedRiftPrism": false,
+        "abiphoneMagicPower": 0
+      },
+      "Pomegranate": {
+        "godPotionDuration": 0,
+        "puzzlerCompleted": 1737806380017,
+        "firstCakeAte": 1737981576313,
+        "fetchurCompleted": 1737806732121,
+        "commissionsCompleted": 0,
+        "lastFreeRiftInfusionApplied": 0,
+        "experimentsCompleted": 1738086549765,
+        "cookieBuffRemaining": 0,
+        "forgeItems": [
+          {
+            "finishTime": 0,
+            "status": 0,
+            "forgeID": 0,
+            "fromScoreBoard": true
+          },
+          {
+            "finishTime": 0,
+            "status": 0,
+            "forgeID": 1,
+            "fromScoreBoard": true
+          },
+          {
+            "finishTime": 0,
+            "status": 1,
+            "forgeID": 2,
+            "fromScoreBoard": true
+          },
+          {
+            "finishTime": 0,
+            "status": 1,
+            "forgeID": 3,
+            "fromScoreBoard": true
+          },
+          {
+            "finishTime": 0,
+            "status": 1,
+            "forgeID": 4,
+            "fromScoreBoard": true
+          },
+          {
+            "finishTime": 0,
+            "status": 1,
+            "forgeID": 5,
+            "fromScoreBoard": true
+          },
+          {
+            "finishTime": 0,
+            "status": 1,
+            "forgeID": 6,
+            "fromScoreBoard": true
+          }
+        ],
+        "hotmDesires": {},
+        "commissionMilestone": 1,
+        "automatonParts": {
+          "Electron Transmitter": false,
+          "Robotron Reflector": false,
+          "Superlite Motor": false,
+          "Synthetic Heart": false,
+          "Control Switch": false,
+          "FTX 3070": false
+        },
+        "divanMinesParts": {
+          "Scavenged Lapis Sword": false,
+          "Scavenged Diamond Axe": false,
+          "Scavenged Golden Hammer": false,
+          "Scavenged Emerald Hammer": false
+        },
+        "crystals": {
+          "Amber": 0,
+          "Sapphire": 0,
+          "Jade": 0,
+          "Amethyst": 0,
+          "Topaz": 0
+        },
+        "dailyGemstonePowderCompleted": 0,
+        "dailyMithrilPowerCompleted": 0,
+        "nonUnlockedWarpScrolls": [],
+        "dailyHeavyPearlCompleted": 0,
+        "questBoardCompleted": 0,
+        "dailyShopLimitCompleted": 1737571477700,
+        "savedEquipment": {
+          "19": {
+            "itemid": "minecraft:skull",
+            "displayname": "§5Menacing Ender Cloak",
+            "nbttag": "{HideFlags:254,SkullOwner:{Id:\"d0be59b0-a7ec-3f48-aa64-8c6f854ce9e8\",hypixelPopulated:1b,Properties:{textures:[0:{Signature:\"ZUhgbfBwEjQrOa7Z/PHhCYjU+7fjDWjFnyR6Da4CWoVWTIYuc/8POqIbElUMUbIYmmxqKqzx4yoLFOLuqJvxlB3hMx6vsnkEz5PbORzd0prZsuQWL9buzqXU6cald/2akHYq2NNsIbdgIjlB8Wc/8zc5RU/Eunf+9WU5HsDJeK2bwEESj6263tR29JBKOzYvNwsXat55WI5Am4h1f9Sm4wrJYjYBZUmc+ybCiP2Lu8UuF1t/wSeoRcb6TVrh2Y3v1u8muBzExJKPAMIxlrDEpz6ZsLp9sFsfXMXttu8s3TtlhZlISBjpsiVk3772hfJe9FH+psx3alH/Ko2n+6P8bzbH6ziUvYwccPdB0qq4tM30dCUS0gmoDGC5vAaldqcn4WpFRGDKspn5CZBRvLgo3Z02nobR5hqzfd+jr9cgCJD/WQHwbry7m4I+nh6kAlwIEtzFIa+12csFna+3eYx5aANTJ4NmOpxkeaos6Egl1+nXMk364zHDo0LCGvk/f/EwNLEiGLH88NYzc0ZPrR3w0oHaG4WxvR0Eu4DI7jKPd/fr4haPYKhORysPvRXbSQXwzV4MSV/hDNZhjcBJTFbXtSp+wWjZoAetys+tAewGBhN6/gRjep2jwjT1XMsPAKKOdkBx8p8uEFcPA9c0/z9/2kcE9RY1SBKLDhjFW+bF618\u003d\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY1NjUzNzc2NzM4NywKICAicHJvZmlsZUlkIiA6ICIzYWJkYjI5ZDI2MTU0YTAxOWEzZWQ3OGRlMzI4OWUxNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJFcmljSHViZXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzc3OGZiNmYyZTY0OWMwYWRhYmY1MWVmNDVjN2NlMzIzZmUxNzU4ZjZkYWM0ZjhjZDEzYWRkMWUyYWYyOWZmNiIKICAgIH0KICB9Cn0\u003d\"}]}},display:{Lore:[0:\"§7Crit Chance: §c+1% §9(+1%)\",1:\"§7Crit Damage: §c+4% §9(+4%)\",2:\"§7Health: §a+15\",3:\"§7Defense: §a+10\",4:\"\",5:\"§7All stats on this piece of equipment\",6:\"§7are multiplied by §52x §7while on the End\",7:\"§7Island!\",8:\"\",9:\"§8§l* §8Co-op Soulbound §8§l*\",10:\"§5§lEPIC CLOAK\"],Name:\"§5Menacing Ender Cloak\"},ExtraAttributes:{modifier:\"menacing\",id:\"ENDER_CLOAK\",uuid:\"2abc0129-9d4f-4478-bcdb-f82d679bba8b\",donated_museum:1b,timestamp:1737653646289L}}",
+            "damage": 3,
+            "lore": [
+              "§7Crit Chance: §c+1% §9(+1%)",
+              "§7Crit Damage: §c+4% §9(+4%)",
+              "§7Health: §a+15",
+              "§7Defense: §a+10",
+              "",
+              "§7All stats on this piece of equipment",
+              "§7are multiplied by §52x §7while on the End",
+              "§7Island!",
+              "",
+              "§8§l* §8Co-op Soulbound §8§l*",
+              "§5§lEPIC CLOAK"
+            ],
+            "internalname": "_"
+          },
+          "37": {
+            "itemid": "minecraft:skull",
+            "displayname": "§5Menacing Ender Gauntlet",
+            "nbttag": "{HideFlags:254,SkullOwner:{Id:\"566b049e-3cb3-3bea-a21c-620eb658c15a\",hypixelPopulated:1b,Properties:{textures:[0:{Signature:\"RWFqag3M/zjtaU+d4uoGPVbEFx0duGQdKukUZncUiSsB7ey3gJfYYGlQPbRCJqTAtQvYnAiQDa3lqe/qQ6DG6urM7KhtWdbE2Zqg9iwfCS4prBHnIQ0Bdc1TYja9XXhnGXtAzXi6QsrzYYWPEpT0oJgVReBLu7THoIm5fQr+qtxNFfpK5/26QjngRXlh7d8qMd7snBx/xsYAIAVCqTAsxz87UMdULKfug5umEGvKrNJDdnO3kdUMNoExyHWbSUaVxMcWsZ5/beXzgxeX+7FgYgiDayk24YTlA+f98+DGINlOuSk+pFd1icdE70bNO+nfgV/GTjoS4TkHSuPQUFTBAttmo+bUtyp3Ns4OzEq1kR9KNSUgoxjPsHpuhCetFk9sjjawBFis9fmfY4alPIGQdJ9zVZ3OCtRKzRvsGoL23fHfu1nP5cWxpas2I1dywa/EU3V8x93OotmxkEt5HxHWn/Q6OXgyb9Ize9NEhAwSCuxy76bmtlnYLkAjv2KPTlM5tXyMOHz8UXcmLUKdnJbmJ04XtLCmS9J8rYGmbf6WwXqtU9ugIOgCmQZ4UEy1F2pskKUDElPdCn1fpJEF3Ra2Hk2sASNIA6jZZeWDZZBS1/oJj2bFayPZq6j8Ge1/q8ZByOEpzYMP3Xmak1OOVYQN7gUDjr5X/+Av2VtexrUTTns\u003d\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY1NjUzNzgyMzQ3NCwKICAicHJvZmlsZUlkIiA6ICIyMWUzNjdkNzI1Y2Y0ZTNiYjI2OTJjNGEzMDBhNGRlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHZXlzZXJNQyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yMmI4ODEzZmJkOGEwNDlkMGU0MmE3Nzk5ZjhkYjY5ZGZlZDljZGQ0NGU3MzUwY2FlZWM1ZjAyM2M3MTUxYzJmIgogICAgfQogIH0KfQ\u003d\u003d\"}]}},display:{Lore:[0:\"§7Crit Chance: §c+1% §9(+1%)\",1:\"§7Crit Damage: §c+4% §9(+4%)\",2:\"§7Health: §a+15\",3:\"§7Defense: §a+10\",4:\"\",5:\"§7All stats on this piece of equipment\",6:\"§7are multiplied by §52x §7while on the End\",7:\"§7Island!\",8:\"\",9:\"§8§l* §8Co-op Soulbound §8§l*\",10:\"§5§lEPIC GLOVES\"],Name:\"§5Menacing Ender Gauntlet\"},ExtraAttributes:{modifier:\"menacing\",id:\"ENDER_GAUNTLET\",uuid:\"c9ccae1d-6c11-4dd1-8947-2e7997ba1949\",donated_museum:1b,timestamp:1737622195554L}}",
+            "damage": 3,
+            "lore": [
+              "§7Crit Chance: §c+1% §9(+1%)",
+              "§7Crit Damage: §c+4% §9(+4%)",
+              "§7Health: §a+15",
+              "§7Defense: §a+10",
+              "",
+              "§7All stats on this piece of equipment",
+              "§7are multiplied by §52x §7while on the End",
+              "§7Island!",
+              "",
+              "§8§l* §8Co-op Soulbound §8§l*",
+              "§5§lEPIC GLOVES"
+            ],
+            "internalname": "_"
+          },
+          "10": {
+            "itemid": "minecraft:skull",
+            "displayname": "§5Menacing Ender Necklace",
+            "nbttag": "{HideFlags:254,SkullOwner:{Id:\"6d8130a5-c017-34cd-92d8-c160f3ad30c2\",hypixelPopulated:1b,Properties:{textures:[0:{Signature:\"DoEVE+WZ88Ovzk8nZU68D0pAkWXIc7ilEaazoxRac2UQjXI0ErXJ0QQ603gu/1O1lsVUEokNoRHphh0tH/seOd2gLkW6czLMSUO3m1on5MhcQFl3fjjZIxDrW5ojdbzKWc5sAud/OR++mh7Pko2bctPiqbEET08Sgo7rzBwZObKYmEmmHCYqy/44l/HdYafaiPU41LRpawC8CTS/HgY6BqBsRJLHKg/kRdvGQXPj9J03tuNF3Lchr/pJ2sckIJsG2KRpjVJV06Xiel3XEE+DOtKJE7t/pbUGxD0gxNYTAB4cIg1KtN8r74O1ydJzNYrlyp90Up8HvV6OZcr2k4PZt/rYZHlQspLtB7KTUu8Kb4Au0nymW/HpPofSvFcRNC1qMbN78nPgPrQ/GwfyonqXFegZbzWcbZRfvM54L0ZLObS8u28lLS2qdrUCUz5z/pm5QrQ5Fl7r6KGxNIoOjUw02D2b7A+4ZtA1qX3bOHkrfP7YhCjZ5jVACIOH/atnd5hMLKYvDD0Z+RQgVUF7bEDDRkWYyviFja/36sNMZ9duTn9SyjfHFJURRtSsDO0jKvp8ExQ9bQ3adRC2yYx9+zOwG8Dz2SD+0eYwbSrJixXboXd6qpaz6qea/Xxlxcvelbgsfht2Wu1NODXZbKNvTPyqJaq+wg7ltkcbGlW+ncAhf2k\u003d\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY1NjUzNzc4NTE1MCwKICAicHJvZmlsZUlkIiA6ICIwODFiZTAxZmZlMmU0ODMyODI3MDIwMjBlNmI1M2ExNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJMeXJpY1BsYXRlMjUyNDIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzZkYTdiOTU3YjgyMTAzYjE3MTQwZTcxMTc5MTE0NjQ4YTAwMjkxYjA1NjU3YzI3ZDNmOTNkNzI2ZTg3ZTY0MCIKICAgIH0KICB9Cn0\u003d\"}]}},display:{Lore:[0:\"§7Crit Chance: §c+1% §9(+1%)\",1:\"§7Crit Damage: §c+4% §9(+4%)\",2:\"§7Health: §a+15\",3:\"§7Defense: §a+10\",4:\"\",5:\"§7All stats on this piece of equipment\",6:\"§7are multiplied by §52x §7while on the End\",7:\"§7Island!\",8:\"\",9:\"§8§l* §8Co-op Soulbound §8§l*\",10:\"§5§lEPIC NECKLACE\"],Name:\"§5Menacing Ender Necklace\"},ExtraAttributes:{modifier:\"menacing\",id:\"ENDER_NECKLACE\",uuid:\"871beab3-0e35-4726-b3f9-e1471d6f5101\",donated_museum:1b,timestamp:1737635473750L}}",
+            "damage": 3,
+            "lore": [
+              "§7Crit Chance: §c+1% §9(+1%)",
+              "§7Crit Damage: §c+4% §9(+4%)",
+              "§7Health: §a+15",
+              "§7Defense: §a+10",
+              "",
+              "§7All stats on this piece of equipment",
+              "§7are multiplied by §52x §7while on the End",
+              "§7Island!",
+              "",
+              "§8§l* §8Co-op Soulbound §8§l*",
+              "§5§lEPIC NECKLACE"
+            ],
+            "internalname": "_"
+          },
+          "28": {
+            "itemid": "minecraft:skull",
+            "displayname": "§5Menacing Ender Belt",
+            "nbttag": "{HideFlags:254,SkullOwner:{Id:\"aaebec27-4dca-3f2b-9de5-6ad7373ff578\",hypixelPopulated:1b,Properties:{textures:[0:{Signature:\"Bq00jnR6GvTizVYuXrpRl/XFNMQp1b7tSexOOadcsPpSHvj6GtVV4DkF0qI8IbMyfE4yxu4cLUI9XhoSLoNGFF3xwjyxs0+147mZgEL5BMfPT4AKukToggE6xDuxMJt2hHBTbKBydhIGRwB0WJbe8O3WirxXvXayGFvMACAI0afALpzSKurehCFHnwMtV5p/hD+z74/eNxXHmIlshnxJPPToU2XNqkXPwBTp4t74dTpWMUhIsc3BBtE8JfzefVaGiAKu/TXb3pWnk+7bZYCDRBoPi6ZFro+sbKpf2yCafNh0xcSyhm8cVNv1SGonUZF/rekiHqUm+dFuVuBHWVXIcmI/w9tp+iUkq75Uwl3pHM4EdNrB38g2vCKoWzQXupGTi5YxKDoDxV2yoC9YRXQK5W3NdTY4Qn9byC/2ijAi2PLnSNo7Ff9rR+Q+6hdmEIth5yHChiLDrBBo48DE3qjRWvYapEQtuWChHR5iIDEufpKzkCvUWMiClclZMS90Nox0boZj0M5DE+iTwep91JzbbmKydcZ4lj4ElwbjTQMZ2ZmxI/S+PRDrAVDA2q7tB2CfaHHeCLNawVTAR91PN4n0L0ZeiDnWEXnYWgREhgILF8Epm7JW0ZqYcFyOHkYbQzJUgQl6hKoRQUk4OSEmT+yn9FBXH1+kgNbPYcRxwxaLtZ4\u003d\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY1NjUzNzgwNDIwNywKICAicHJvZmlsZUlkIiA6ICJlZDUzZGQ4MTRmOWQ0YTNjYjRlYjY1MWRjYmE3N2U2NiIsCiAgInByb2ZpbGVOYW1lIiA6ICI0MTQxNDE0MWgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjAzMmEwMTY2MjFlMTI2ODcwZmEwMGMyOWM1MWQ5NDJhZmRiYTVhOTRhMjMyN2YyNjRmZTFhOTQwOWU0NTVhZSIKICAgIH0KICB9Cn0\u003d\"}]}},display:{Lore:[0:\"§7Crit Chance: §c+1% §9(+1%)\",1:\"§7Crit Damage: §c+4% §9(+4%)\",2:\"§7Health: §a+15\",3:\"§7Defense: §a+10\",4:\"\",5:\"§7All stats on this piece of equipment\",6:\"§7are multiplied by §52x §7while on the End\",7:\"§7Island!\",8:\"\",9:\"§8§l* §8Co-op Soulbound §8§l*\",10:\"§5§lEPIC BELT\"],Name:\"§5Menacing Ender Belt\"},ExtraAttributes:{modifier:\"menacing\",id:\"ENDER_BELT\",uuid:\"2ec6cc3c-77b1-4bf3-a4f0-fd173761c1cc\",donated_museum:1b,timestamp:1737654026140L}}",
+            "damage": 3,
+            "lore": [
+              "§7Crit Chance: §c+1% §9(+1%)",
+              "§7Crit Damage: §c+4% §9(+4%)",
+              "§7Health: §a+15",
+              "§7Defense: §a+10",
+              "",
+              "§7All stats on this piece of equipment",
+              "§7are multiplied by §52x §7while on the End",
+              "§7Island!",
+              "",
+              "§8§l* §8Co-op Soulbound §8§l*",
+              "§5§lEPIC BELT"
+            ],
+            "internalname": "_"
+          }
+        },
+        "magicalPower": 45,
+        "chestCount": 0,
+        "openedChestCount": 0,
+        "mithrilPowderFound": 0,
+        "gemstonePowderFound": 0,
+        "abiphoneFavouriteContacts": [],
+        "abiphoneShowOnlyFavourites": false,
+        "hotmTree": {
+          "Mining Speed": 17,
+          "Mining Fortune": 10,
+          "Titanium Insanium": 6,
+          "Precision Mining": 1
+        },
+        "hasConsumedRiftPrism": false,
+        "abiphoneMagicPower": 0
+      },
+      "Banana": {
+        "godPotionDuration": 36000000,
+        "puzzlerCompleted": 0,
+        "firstCakeAte": 0,
+        "fetchurCompleted": 0,
+        "commissionsCompleted": 0,
+        "lastFreeRiftInfusionApplied": 0,
+        "experimentsCompleted": 0,
+        "cookieBuffRemaining": 1737453769683,
+        "forgeItems": [
+          {
+            "finishTime": 0,
+            "status": 0,
+            "forgeID": 0,
+            "fromScoreBoard": true
+          },
+          {
+            "finishTime": 0,
+            "status": 0,
+            "forgeID": 1,
+            "fromScoreBoard": true
+          },
+          {
+            "finishTime": 0,
+            "status": 1,
+            "forgeID": 2,
+            "fromScoreBoard": true
+          },
+          {
+            "finishTime": 0,
+            "status": 1,
+            "forgeID": 3,
+            "fromScoreBoard": true
+          },
+          {
+            "finishTime": 0,
+            "status": 1,
+            "forgeID": 4,
+            "fromScoreBoard": true
+          },
+          {
+            "finishTime": 0,
+            "status": 1,
+            "forgeID": 5,
+            "fromScoreBoard": true
+          },
+          {
+            "finishTime": 0,
+            "status": 1,
+            "forgeID": 6,
+            "fromScoreBoard": true
+          }
+        ],
+        "hotmDesires": {},
+        "commissionMilestone": 0,
+        "automatonParts": {
+          "Electron Transmitter": false,
+          "Robotron Reflector": false,
+          "Superlite Motor": false,
+          "Synthetic Heart": false,
+          "Control Switch": false,
+          "FTX 3070": false
+        },
+        "divanMinesParts": {
+          "Scavenged Lapis Sword": false,
+          "Scavenged Diamond Axe": false,
+          "Scavenged Golden Hammer": false,
+          "Scavenged Emerald Hammer": false
+        },
+        "crystals": {
+          "Amber": 0,
+          "Sapphire": 0,
+          "Jade": 0,
+          "Amethyst": 0,
+          "Topaz": 0
+        },
+        "dailyGemstonePowderCompleted": 0,
+        "dailyMithrilPowerCompleted": 0,
+        "nonUnlockedWarpScrolls": [],
+        "dailyHeavyPearlCompleted": 0,
+        "questBoardCompleted": 0,
+        "dailyShopLimitCompleted": 0,
+        "savedEquipment": {
+          "19": {
+            "itemid": "minecraft:skull",
+            "displayname": "§5Menacing Ender Cloak",
+            "nbttag": "{HideFlags:254,SkullOwner:{Id:\"d0be59b0-a7ec-3f48-aa64-8c6f854ce9e8\",hypixelPopulated:1b,Properties:{textures:[0:{Signature:\"ZUhgbfBwEjQrOa7Z/PHhCYjU+7fjDWjFnyR6Da4CWoVWTIYuc/8POqIbElUMUbIYmmxqKqzx4yoLFOLuqJvxlB3hMx6vsnkEz5PbORzd0prZsuQWL9buzqXU6cald/2akHYq2NNsIbdgIjlB8Wc/8zc5RU/Eunf+9WU5HsDJeK2bwEESj6263tR29JBKOzYvNwsXat55WI5Am4h1f9Sm4wrJYjYBZUmc+ybCiP2Lu8UuF1t/wSeoRcb6TVrh2Y3v1u8muBzExJKPAMIxlrDEpz6ZsLp9sFsfXMXttu8s3TtlhZlISBjpsiVk3772hfJe9FH+psx3alH/Ko2n+6P8bzbH6ziUvYwccPdB0qq4tM30dCUS0gmoDGC5vAaldqcn4WpFRGDKspn5CZBRvLgo3Z02nobR5hqzfd+jr9cgCJD/WQHwbry7m4I+nh6kAlwIEtzFIa+12csFna+3eYx5aANTJ4NmOpxkeaos6Egl1+nXMk364zHDo0LCGvk/f/EwNLEiGLH88NYzc0ZPrR3w0oHaG4WxvR0Eu4DI7jKPd/fr4haPYKhORysPvRXbSQXwzV4MSV/hDNZhjcBJTFbXtSp+wWjZoAetys+tAewGBhN6/gRjep2jwjT1XMsPAKKOdkBx8p8uEFcPA9c0/z9/2kcE9RY1SBKLDhjFW+bF618\u003d\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY1NjUzNzc2NzM4NywKICAicHJvZmlsZUlkIiA6ICIzYWJkYjI5ZDI2MTU0YTAxOWEzZWQ3OGRlMzI4OWUxNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJFcmljSHViZXIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzc3OGZiNmYyZTY0OWMwYWRhYmY1MWVmNDVjN2NlMzIzZmUxNzU4ZjZkYWM0ZjhjZDEzYWRkMWUyYWYyOWZmNiIKICAgIH0KICB9Cn0\u003d\"}]}},display:{Lore:[0:\"§7Crit Chance: §c+1% §9(+1%)\",1:\"§7Crit Damage: §c+4% §9(+4%)\",2:\"§7Health: §a+15\",3:\"§7Defense: §a+10\",4:\"\",5:\"§7All stats on this piece of equipment\",6:\"§7are multiplied by §52x §7while on the End\",7:\"§7Island!\",8:\"\",9:\"§8§l* §8Co-op Soulbound §8§l*\",10:\"§5§lEPIC CLOAK\"],Name:\"§5Menacing Ender Cloak\"},ExtraAttributes:{modifier:\"menacing\",id:\"ENDER_CLOAK\",uuid:\"28d8a14f-04bc-45d5-9561-ee027781a889\",timestamp:1737034886077L}}",
+            "damage": 3,
+            "lore": [
+              "§7Crit Chance: §c+1% §9(+1%)",
+              "§7Crit Damage: §c+4% §9(+4%)",
+              "§7Health: §a+15",
+              "§7Defense: §a+10",
+              "",
+              "§7All stats on this piece of equipment",
+              "§7are multiplied by §52x §7while on the End",
+              "§7Island!",
+              "",
+              "§8§l* §8Co-op Soulbound §8§l*",
+              "§5§lEPIC CLOAK"
+            ],
+            "internalname": "_"
+          },
+          "37": {
+            "itemid": "minecraft:skull",
+            "displayname": "§5Menacing Ender Gauntlet",
+            "nbttag": "{HideFlags:254,SkullOwner:{Id:\"566b049e-3cb3-3bea-a21c-620eb658c15a\",hypixelPopulated:1b,Properties:{textures:[0:{Signature:\"RWFqag3M/zjtaU+d4uoGPVbEFx0duGQdKukUZncUiSsB7ey3gJfYYGlQPbRCJqTAtQvYnAiQDa3lqe/qQ6DG6urM7KhtWdbE2Zqg9iwfCS4prBHnIQ0Bdc1TYja9XXhnGXtAzXi6QsrzYYWPEpT0oJgVReBLu7THoIm5fQr+qtxNFfpK5/26QjngRXlh7d8qMd7snBx/xsYAIAVCqTAsxz87UMdULKfug5umEGvKrNJDdnO3kdUMNoExyHWbSUaVxMcWsZ5/beXzgxeX+7FgYgiDayk24YTlA+f98+DGINlOuSk+pFd1icdE70bNO+nfgV/GTjoS4TkHSuPQUFTBAttmo+bUtyp3Ns4OzEq1kR9KNSUgoxjPsHpuhCetFk9sjjawBFis9fmfY4alPIGQdJ9zVZ3OCtRKzRvsGoL23fHfu1nP5cWxpas2I1dywa/EU3V8x93OotmxkEt5HxHWn/Q6OXgyb9Ize9NEhAwSCuxy76bmtlnYLkAjv2KPTlM5tXyMOHz8UXcmLUKdnJbmJ04XtLCmS9J8rYGmbf6WwXqtU9ugIOgCmQZ4UEy1F2pskKUDElPdCn1fpJEF3Ra2Hk2sASNIA6jZZeWDZZBS1/oJj2bFayPZq6j8Ge1/q8ZByOEpzYMP3Xmak1OOVYQN7gUDjr5X/+Av2VtexrUTTns\u003d\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY1NjUzNzgyMzQ3NCwKICAicHJvZmlsZUlkIiA6ICIyMWUzNjdkNzI1Y2Y0ZTNiYjI2OTJjNGEzMDBhNGRlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHZXlzZXJNQyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yMmI4ODEzZmJkOGEwNDlkMGU0MmE3Nzk5ZjhkYjY5ZGZlZDljZGQ0NGU3MzUwY2FlZWM1ZjAyM2M3MTUxYzJmIgogICAgfQogIH0KfQ\u003d\u003d\"}]}},display:{Lore:[0:\"§7Crit Chance: §c+1% §9(+1%)\",1:\"§7Crit Damage: §c+4% §9(+4%)\",2:\"§7Health: §a+15\",3:\"§7Defense: §a+10\",4:\"\",5:\"§7All stats on this piece of equipment\",6:\"§7are multiplied by §52x §7while on the End\",7:\"§7Island!\",8:\"\",9:\"§8§l* §8Co-op Soulbound §8§l*\",10:\"§5§lEPIC GLOVES\"],Name:\"§5Menacing Ender Gauntlet\"},ExtraAttributes:{modifier:\"menacing\",id:\"ENDER_GAUNTLET\",uuid:\"74651592-bad5-4e2f-8362-dccb265300c9\",timestamp:1736875079412L}}",
+            "damage": 3,
+            "lore": [
+              "§7Crit Chance: §c+1% §9(+1%)",
+              "§7Crit Damage: §c+4% §9(+4%)",
+              "§7Health: §a+15",
+              "§7Defense: §a+10",
+              "",
+              "§7All stats on this piece of equipment",
+              "§7are multiplied by §52x §7while on the End",
+              "§7Island!",
+              "",
+              "§8§l* §8Co-op Soulbound §8§l*",
+              "§5§lEPIC GLOVES"
+            ],
+            "internalname": "_"
+          },
+          "10": {
+            "itemid": "minecraft:skull",
+            "displayname": "§5Menacing Ender Necklace",
+            "nbttag": "{HideFlags:254,SkullOwner:{Id:\"6d8130a5-c017-34cd-92d8-c160f3ad30c2\",hypixelPopulated:1b,Properties:{textures:[0:{Signature:\"DoEVE+WZ88Ovzk8nZU68D0pAkWXIc7ilEaazoxRac2UQjXI0ErXJ0QQ603gu/1O1lsVUEokNoRHphh0tH/seOd2gLkW6czLMSUO3m1on5MhcQFl3fjjZIxDrW5ojdbzKWc5sAud/OR++mh7Pko2bctPiqbEET08Sgo7rzBwZObKYmEmmHCYqy/44l/HdYafaiPU41LRpawC8CTS/HgY6BqBsRJLHKg/kRdvGQXPj9J03tuNF3Lchr/pJ2sckIJsG2KRpjVJV06Xiel3XEE+DOtKJE7t/pbUGxD0gxNYTAB4cIg1KtN8r74O1ydJzNYrlyp90Up8HvV6OZcr2k4PZt/rYZHlQspLtB7KTUu8Kb4Au0nymW/HpPofSvFcRNC1qMbN78nPgPrQ/GwfyonqXFegZbzWcbZRfvM54L0ZLObS8u28lLS2qdrUCUz5z/pm5QrQ5Fl7r6KGxNIoOjUw02D2b7A+4ZtA1qX3bOHkrfP7YhCjZ5jVACIOH/atnd5hMLKYvDD0Z+RQgVUF7bEDDRkWYyviFja/36sNMZ9duTn9SyjfHFJURRtSsDO0jKvp8ExQ9bQ3adRC2yYx9+zOwG8Dz2SD+0eYwbSrJixXboXd6qpaz6qea/Xxlxcvelbgsfht2Wu1NODXZbKNvTPyqJaq+wg7ltkcbGlW+ncAhf2k\u003d\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY1NjUzNzc4NTE1MCwKICAicHJvZmlsZUlkIiA6ICIwODFiZTAxZmZlMmU0ODMyODI3MDIwMjBlNmI1M2ExNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJMeXJpY1BsYXRlMjUyNDIiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzZkYTdiOTU3YjgyMTAzYjE3MTQwZTcxMTc5MTE0NjQ4YTAwMjkxYjA1NjU3YzI3ZDNmOTNkNzI2ZTg3ZTY0MCIKICAgIH0KICB9Cn0\u003d\"}]}},display:{Lore:[0:\"§7Crit Chance: §c+1% §9(+1%)\",1:\"§7Crit Damage: §c+4% §9(+4%)\",2:\"§7Health: §a+15\",3:\"§7Defense: §a+10\",4:\"\",5:\"§7All stats on this piece of equipment\",6:\"§7are multiplied by §52x §7while on the End\",7:\"§7Island!\",8:\"\",9:\"§8§l* §8Co-op Soulbound §8§l*\",10:\"§5§lEPIC NECKLACE\"],Name:\"§5Menacing Ender Necklace\"},ExtraAttributes:{modifier:\"menacing\",id:\"ENDER_NECKLACE\",uuid:\"e480b7d4-b805-4dcf-8f40-1c77fe009138\",timestamp:1737015858673L}}",
+            "damage": 3,
+            "lore": [
+              "§7Crit Chance: §c+1% §9(+1%)",
+              "§7Crit Damage: §c+4% §9(+4%)",
+              "§7Health: §a+15",
+              "§7Defense: §a+10",
+              "",
+              "§7All stats on this piece of equipment",
+              "§7are multiplied by §52x §7while on the End",
+              "§7Island!",
+              "",
+              "§8§l* §8Co-op Soulbound §8§l*",
+              "§5§lEPIC NECKLACE"
+            ],
+            "internalname": "_"
+          },
+          "28": {
+            "itemid": "minecraft:skull",
+            "displayname": "§5Menacing Ender Belt",
+            "nbttag": "{HideFlags:254,SkullOwner:{Id:\"aaebec27-4dca-3f2b-9de5-6ad7373ff578\",hypixelPopulated:1b,Properties:{textures:[0:{Signature:\"Bq00jnR6GvTizVYuXrpRl/XFNMQp1b7tSexOOadcsPpSHvj6GtVV4DkF0qI8IbMyfE4yxu4cLUI9XhoSLoNGFF3xwjyxs0+147mZgEL5BMfPT4AKukToggE6xDuxMJt2hHBTbKBydhIGRwB0WJbe8O3WirxXvXayGFvMACAI0afALpzSKurehCFHnwMtV5p/hD+z74/eNxXHmIlshnxJPPToU2XNqkXPwBTp4t74dTpWMUhIsc3BBtE8JfzefVaGiAKu/TXb3pWnk+7bZYCDRBoPi6ZFro+sbKpf2yCafNh0xcSyhm8cVNv1SGonUZF/rekiHqUm+dFuVuBHWVXIcmI/w9tp+iUkq75Uwl3pHM4EdNrB38g2vCKoWzQXupGTi5YxKDoDxV2yoC9YRXQK5W3NdTY4Qn9byC/2ijAi2PLnSNo7Ff9rR+Q+6hdmEIth5yHChiLDrBBo48DE3qjRWvYapEQtuWChHR5iIDEufpKzkCvUWMiClclZMS90Nox0boZj0M5DE+iTwep91JzbbmKydcZ4lj4ElwbjTQMZ2ZmxI/S+PRDrAVDA2q7tB2CfaHHeCLNawVTAR91PN4n0L0ZeiDnWEXnYWgREhgILF8Epm7JW0ZqYcFyOHkYbQzJUgQl6hKoRQUk4OSEmT+yn9FBXH1+kgNbPYcRxwxaLtZ4\u003d\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY1NjUzNzgwNDIwNywKICAicHJvZmlsZUlkIiA6ICJlZDUzZGQ4MTRmOWQ0YTNjYjRlYjY1MWRjYmE3N2U2NiIsCiAgInByb2ZpbGVOYW1lIiA6ICI0MTQxNDE0MWgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjAzMmEwMTY2MjFlMTI2ODcwZmEwMGMyOWM1MWQ5NDJhZmRiYTVhOTRhMjMyN2YyNjRmZTFhOTQwOWU0NTVhZSIKICAgIH0KICB9Cn0\u003d\"}]}},display:{Lore:[0:\"§7Crit Chance: §c+1% §9(+1%)\",1:\"§7Crit Damage: §c+4% §9(+4%)\",2:\"§7Health: §a+15\",3:\"§7Defense: §a+10\",4:\"\",5:\"§7All stats on this piece of equipment\",6:\"§7are multiplied by §52x §7while on the End\",7:\"§7Island!\",8:\"\",9:\"§8§l* §8Co-op Soulbound §8§l*\",10:\"§5§lEPIC BELT\"],Name:\"§5Menacing Ender Belt\"},ExtraAttributes:{modifier:\"menacing\",id:\"ENDER_BELT\",uuid:\"6cc1e41b-ec43-4b8c-b1b0-7a742ead7d9a\",timestamp:1737039830012L}}",
+            "damage": 3,
+            "lore": [
+              "§7Crit Chance: §c+1% §9(+1%)",
+              "§7Crit Damage: §c+4% §9(+4%)",
+              "§7Health: §a+15",
+              "§7Defense: §a+10",
+              "",
+              "§7All stats on this piece of equipment",
+              "§7are multiplied by §52x §7while on the End",
+              "§7Island!",
+              "",
+              "§8§l* §8Co-op Soulbound §8§l*",
+              "§5§lEPIC BELT"
+            ],
+            "internalname": "_"
+          }
+        },
+        "magicalPower": 61,
+        "chestCount": 0,
+        "openedChestCount": 0,
+        "mithrilPowderFound": 0,
+        "gemstonePowderFound": 0,
+        "abiphoneFavouriteContacts": [],
+        "abiphoneShowOnlyFavourites": false,
+        "hotmTree": {},
+        "hasConsumedRiftPrism": false,
+        "abiphoneMagicPower": 0
+      }
+    },
+    "locationSpecific": {
+      "crystal_hollows": {
+        "commissionMaxes": {
+          "Topaz Gemstone Collector": 1000,
+          "Ruby Gemstone Collector": 1000,
+          "Amethyst Gemstone Collector": 1000,
+          "Boss Corleone Slayer": 1,
+          "Goblin Slayer": 13,
+          "Yog Slayer": 13
+        }
+      },
+      "mining_3": {
+        "commissionMaxes": {
+          "Cliffside Veins Mithril": 250,
+          "Lucky Raffle": 20,
+          "Upper Mines Titanium": 10,
+          "Star Sentry Puncher": 10,
+          "Mithril Miner": 350,
+          "Royal Mines Titanium": 10,
+          "Lava Springs Titanium": 10,
+          "Royal Mines Mithril": 250,
+          "Goblin Slayer": 100,
+          "Cliffside Veins Titanium": 10,
+          "Lava Springs Mithril": 250,
+          "Upper Mines Mithril": 250,
+          "Rampart\u0027s Quarry Titanium": 10,
+          "Rampart\u0027s Quarry Mithril": 250,
+          "Goblin Raid Slayer": 20
+        }
+      }
+    },
+    "inventoryButtons": [
+      {
+        "x": 87,
+        "y": 63,
+        "playerInvOnly": true,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 108,
+        "y": 63,
+        "playerInvOnly": true,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 129,
+        "y": 63,
+        "playerInvOnly": true,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 150,
+        "y": 63,
+        "playerInvOnly": true,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 87,
+        "y": 5,
+        "playerInvOnly": true,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 108,
+        "y": 5,
+        "playerInvOnly": true,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 129,
+        "y": 5,
+        "playerInvOnly": true,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 150,
+        "y": 5,
+        "playerInvOnly": true,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 87,
+        "y": 25,
+        "playerInvOnly": true,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 105,
+        "y": 25,
+        "playerInvOnly": true,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 87,
+        "y": 43,
+        "playerInvOnly": true,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 105,
+        "y": 43,
+        "playerInvOnly": true,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 143,
+        "y": 35,
+        "playerInvOnly": true,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 60,
+        "y": 8,
+        "playerInvOnly": true,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 60,
+        "y": 60,
+        "playerInvOnly": true,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 26,
+        "y": 8,
+        "playerInvOnly": true,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 26,
+        "y": 60,
+        "playerInvOnly": true,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 2,
+        "y": 2,
+        "playerInvOnly": false,
+        "anchorRight": true,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 2,
+        "y": 22,
+        "playerInvOnly": false,
+        "anchorRight": true,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 2,
+        "y": 42,
+        "playerInvOnly": false,
+        "anchorRight": true,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 2,
+        "y": 62,
+        "playerInvOnly": false,
+        "anchorRight": true,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 2,
+        "y": -84,
+        "playerInvOnly": false,
+        "anchorRight": true,
+        "anchorBottom": true,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 2,
+        "y": -64,
+        "playerInvOnly": false,
+        "anchorRight": true,
+        "anchorBottom": true,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 2,
+        "y": -44,
+        "playerInvOnly": false,
+        "anchorRight": true,
+        "anchorBottom": true,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 2,
+        "y": -24,
+        "playerInvOnly": false,
+        "anchorRight": true,
+        "anchorBottom": true,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 4,
+        "y": -19,
+        "playerInvOnly": false,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 25,
+        "y": -19,
+        "playerInvOnly": false,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 46,
+        "y": -19,
+        "playerInvOnly": false,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 67,
+        "y": -19,
+        "playerInvOnly": false,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 88,
+        "y": -19,
+        "playerInvOnly": false,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 109,
+        "y": -19,
+        "playerInvOnly": false,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 130,
+        "y": -19,
+        "playerInvOnly": false,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 151,
+        "y": -19,
+        "playerInvOnly": false,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": -19,
+        "y": 2,
+        "playerInvOnly": false,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": -19,
+        "y": 22,
+        "playerInvOnly": false,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": -19,
+        "y": 42,
+        "playerInvOnly": false,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": -19,
+        "y": 62,
+        "playerInvOnly": false,
+        "anchorRight": false,
+        "anchorBottom": false,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": -19,
+        "y": -84,
+        "playerInvOnly": false,
+        "anchorRight": false,
+        "anchorBottom": true,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": -19,
+        "y": -64,
+        "playerInvOnly": false,
+        "anchorRight": false,
+        "anchorBottom": true,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": -19,
+        "y": -44,
+        "playerInvOnly": false,
+        "anchorRight": false,
+        "anchorBottom": true,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": -19,
+        "y": -24,
+        "playerInvOnly": false,
+        "anchorRight": false,
+        "anchorBottom": true,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 4,
+        "y": 2,
+        "playerInvOnly": false,
+        "anchorRight": false,
+        "anchorBottom": true,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 25,
+        "y": 2,
+        "playerInvOnly": false,
+        "anchorRight": false,
+        "anchorBottom": true,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 46,
+        "y": 2,
+        "playerInvOnly": false,
+        "anchorRight": false,
+        "anchorBottom": true,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 67,
+        "y": 2,
+        "playerInvOnly": false,
+        "anchorRight": false,
+        "anchorBottom": true,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 88,
+        "y": 2,
+        "playerInvOnly": false,
+        "anchorRight": false,
+        "anchorBottom": true,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 109,
+        "y": 2,
+        "playerInvOnly": false,
+        "anchorRight": false,
+        "anchorBottom": true,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 130,
+        "y": 2,
+        "playerInvOnly": false,
+        "anchorRight": false,
+        "anchorBottom": true,
+        "backgroundIndex": 0,
+        "command": ""
+      },
+      {
+        "x": 151,
+        "y": 2,
+        "playerInvOnly": false,
+        "anchorRight": false,
+        "anchorBottom": true,
+        "backgroundIndex": 0,
+        "command": ""
+      }
+    ],
+    "debugFlags": [],
+    "cacheRenderedItempane": true,
+    "overlaySearchBar": "",
+    "overlayQuickCommand": "",
+    "dev": false,
+    "loadedModBefore": true,
+    "compareMode": 0,
+    "sortMode": 0,
+    "compareAscending": [
+      true,
+      true,
+      true
+    ],
+    "favourites": [
+      "RIFT_WIZARD_TOWER_PORTAL"
+    ],
+    "previousAuctionSearches": [
+      "Green Jerry Talisman",
+      "Monkey",
+      "Bat Person Helmet",
+      "Aurora Helmet",
+      "Aurora Staff"
+    ],
+    "previousBazaarSearches": [
+      "Fishing Minion XII Upgrade Stone",
+      "Clay Minion XII Upgrade Stone",
+      "Enchanted Jungle Wood",
+      "jungle",
+      "Bejeweled Handle"
+    ],
+    "previousProfileSearches": [
+      "noiltisere",
+      "sainx_",
+      "bartekk55",
+      "matteke42",
+      "thomasbaguette",
+      "plohish000"
+    ],
+    "previousRecipeSearches": [
+      "Challenging Rod",
+      "Potion Affinity Artifact",
+      "Haste Artifact",
+      "Sea Creature Ring",
+      "Small Mining Sack",
+      "Enchanted Gold Block",
+      "Cactus Minion I",
+      "Enchanted Sand",
+      "Chicken Minion I",
+      "Pig Minion I",
+      "Enchanted Emerald",
+      "Emerald Minion I",
+      "Redstone Minion I",
+      "Lapis Minion I",
+      "Iron Minion I"
+    ],
+    "eventFavourites": [],
+    "quickCommands": [
+      "/warp home:Warp Home:eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzljODg4MWU0MjkxNWE5ZDI5YmI2MWExNmZiMjZkMDU5OTEzMjA0ZDI2NWRmNWI0MzliM2Q3OTJhY2Q1NiJ9fX0\u003d",
+      "/warp hub:Warp Hub:eyJ0aW1lc3RhbXAiOjE1NTkyMTU0MTY5MDksInByb2ZpbGVJZCI6IjQxZDNhYmMyZDc0OTQwMGM5MDkwZDU0MzRkMDM4MzFiIiwicHJvZmlsZU5hbWUiOiJNZWdha2xvb24iLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Q3Y2M2Njg3NDIzZDA1NzBkNTU2YWM1M2UwNjc2Y2I1NjNiYmRkOTcxN2NkODI2OWJkZWJlZDZmNmQ0ZTdiZjgifX19",
+      "/warp dungeon_hub:Dungeon Hub:eyJ0aW1lc3RhbXAiOjE1Nzg0MDk0MTMxNjksInByb2ZpbGVJZCI6IjQxZDNhYmMyZDc0OTQwMGM5MDkwZDU0MzRkMDM4MzFiIiwicHJvZmlsZU5hbWUiOiJNZWdha2xvb24iLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzliNTY4OTViOTY1OTg5NmFkNjQ3ZjU4NTk5MjM4YWY1MzJkNDZkYjljMWIwMzg5YjhiYmViNzA5OTlkYWIzM2QiLCJtZXRhZGF0YSI6eyJtb2RlbCI6InNsaW0ifX19fQ\u003d\u003d",
+      "/craft:Crafting Table:CRAFTING_TABLE",
+      "/storage:Storage:CHEST",
+      "/wardrobe:Wardrobe:LEATHER_CHESTPLATE",
+      "/pets:Pets:BONE",
+      "/bz:Bazaar:GOLD_BARDING"
+    ],
+    "enchantColours": [
+      "[a-zA-Z\\- ]+:\u003e:9:6:0",
+      "[a-zA-Z\\- ]+:\u003e:6:c:0",
+      "[a-zA-Z\\- ]+:\u003e:5:5:0",
+      "Experience:\u003e:3:5:0",
+      "Life Steal:\u003e:3:5:0",
+      "Scavenger:\u003e:3:5:0",
+      "Looting:\u003e:3:5:0"
+    ],
+    "dynamicLightItems": [],
+    "firstTimeSearchFocus": false,
+    "disableBrokenCapes": false,
+    "npcRetextureOnSelf": false,
+    "hasOpenedWaypointMenu": false,
+    "disableClientSideSearch": false
+  },
+  "dungeonMap": {
+    "dmBorderSize": 1.0,
+    "dmRoomSize": 1.0,
+    "dmIconScale": 1.125,
+    "dmBorderStyle": 8,
+    "dmEnable": false,
+    "dmCenterPlayer": true,
+    "dmRotatePlayer": true,
+    "dmOrientCheck": true,
+    "dmCenterCheck": true,
+    "dmPlayerHeads": 2,
+    "dmPlayerInterp": true,
+    "dmCompat": 0,
+    "dmBackgroundColour": "00:170:75:75:75",
+    "dmBorderColour": "00:0:0:0:0",
+    "dmChromaBorder": false,
+    "dmBackgroundBlur": 0.0,
+    "dmPosition": {
+      "x": 0,
+      "y": 17,
+      "centerX": false,
+      "centerY": false
+    }
+  }
+}

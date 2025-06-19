@@ -1,0 +1,257 @@
+{
+  "players": {
+    "2ffaf83d-eaac-4eb2-8d74-42cf9599d49c": {
+      "profiles": {
+        "raspberry": {
+          "sackContents": {
+            "SPIDER_EYE": {
+              "amount": 11,
+              "lastChange": 1,
+              "status": "CORRECT"
+            },
+            "STRING": {
+              "amount": 35,
+              "lastChange": 2,
+              "status": "CORRECT"
+            },
+            "TARANTULA_WEB": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "OUTDATED"
+            },
+            "ROTTEN_FLESH": {
+              "amount": 43,
+              "lastChange": 1,
+              "status": "CORRECT"
+            },
+            "SPIDER_CATALYST": {
+              "amount": 0,
+              "lastChange": -1,
+              "status": "OUTDATED"
+            },
+            "BLAZE_ROD": {
+              "amount": 28,
+              "lastChange": 8,
+              "status": "CORRECT"
+            },
+            "BONE": {
+              "amount": 54,
+              "lastChange": 2,
+              "status": "CORRECT"
+            },
+            "CHILI_PEPPER": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "ENDER_PEARL": {
+              "amount": 42,
+              "lastChange": 14,
+              "status": "CORRECT"
+            },
+            "GHAST_TEAR": {
+              "amount": 1,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "SULPHUR": {
+              "amount": 48,
+              "lastChange": 1,
+              "status": "CORRECT"
+            },
+            "MAGMA_CREAM": {
+              "amount": 83,
+              "lastChange": 4,
+              "status": "CORRECT"
+            },
+            "SLIME_BALL": {
+              "amount": 9,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "WOLF_TOOTH": {
+              "amount": 0,
+              "lastChange": -1247,
+              "status": "OUTDATED"
+            },
+            "REVENANT_FLESH": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "OUTDATED"
+            },
+            "COAL": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "COBBLESTONE": {
+              "amount": 185,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "DIAMOND": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "EMERALD": {
+              "amount": 3140,
+              "lastChange": 240,
+              "status": "CORRECT"
+            },
+            "ENDER_STONE": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "FLINT": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "GLACITE": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "GLOSSY_GEMSTONE": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "GLOWSTONE_DUST": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "GOLD_INGOT": {
+              "amount": 135,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "GRAVEL": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "HARD_STONE": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "ICE": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "IRON_INGOT": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "INK_SACK-4": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "MITHRIL_ORE": {
+              "amount": 144,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "MYCEL": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "QUARTZ": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "NETHERRACK": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "OBSIDIAN": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "OIL_BARREL": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "PLASMA": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "SAND-1": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "REDSTONE": {
+              "amount": 2,
+              "lastChange": 1,
+              "status": "CORRECT"
+            },
+            "REFINED_MINERAL": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "SAND": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "SNOW_BLOCK": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "STARFALL": {
+              "amount": 7,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "STONE": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "TITANIUM_ORE": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "TREASURITE": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "TUNGSTEN": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "UMBER": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            },
+            "VOLTA": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "CORRECT"
+            }
+          }
+        }
+      }
+    }
+  }
+}

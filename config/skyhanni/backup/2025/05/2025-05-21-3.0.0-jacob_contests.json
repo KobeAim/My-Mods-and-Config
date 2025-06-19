@@ -1,0 +1,59 @@
+{
+  "contestTimes": {
+    "1747802100000": [
+      "CARROT",
+      "MELON",
+      "PUMPKIN"
+    ],
+    "1747805700000": [
+      "MUSHROOM",
+      "SUGAR_CANE",
+      "WHEAT"
+    ],
+    "1747809300000": [
+      "COCOA_BEANS",
+      "NETHER_WART",
+      "PUMPKIN"
+    ],
+    "1747812900000": [
+      "CACTUS",
+      "POTATO",
+      "WHEAT"
+    ],
+    "1747816500000": [
+      "CARROT",
+      "MELON",
+      "MUSHROOM"
+    ],
+    "1747820100000": [
+      "CARROT",
+      "COCOA_BEANS",
+      "MELON"
+    ],
+    "1747823700000": [
+      "NETHER_WART",
+      "SUGAR_CANE",
+      "WHEAT"
+    ],
+    "1747827300000": [
+      "CACTUS",
+      "MUSHROOM",
+      "PUMPKIN"
+    ],
+    "1747830900000": [
+      "COCOA_BEANS",
+      "PUMPKIN",
+      "WHEAT"
+    ],
+    "1747834500000": [
+      "MELON",
+      "MUSHROOM",
+      "NETHER_WART"
+    ],
+    "1747838100000": [
+      "CARROT",
+      "POTATO",
+      "SUGAR_CANE"
+    ]
+  }
+}

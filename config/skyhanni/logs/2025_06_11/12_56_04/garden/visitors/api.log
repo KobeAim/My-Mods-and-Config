@@ -1,0 +1,8 @@
+13:08:41 Visitor status change for '§aXalx': NEW -> READY (tooltipClickToGive)
+13:08:43 Visitor status change for '§aXalx': READY -> ACCEPTED (accepted)
+13:08:44 Visitor status change for '§aAnita': NEW -> READY (tooltipClickToGive)
+13:08:46 Visitor status change for '§aAnita': READY -> REFUSED (refused)
+13:08:47 Visitor status change for '§aArthur': NEW -> WAITING (tooltipMissingItems)
+13:08:52 Visitor status change for '§9Puzzler': NEW -> WAITING (tooltipMissingItems)
+13:08:54 Visitor status change for '§9Puzzler': WAITING -> REFUSED (refused)
+13:08:56 Visitor status change for '§aArthur': WAITING -> REFUSED (refused)

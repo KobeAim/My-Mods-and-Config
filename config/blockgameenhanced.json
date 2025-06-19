@@ -1,0 +1,37 @@
+{
+  "ingameHudConfig": {
+    "enableCustomHud": true,
+    "showAdvancedStats": false,
+    "showCooldownsInHotbar": true,
+    "showProfessionExpInChat": false,
+    "enablePickupStream": true,
+    "enableDrownFx": true
+  },
+  "partyHudConfig": {
+    "showHud": true,
+    "showSelf": true,
+    "position": "TOP_LEFT",
+    "deathNotify": true,
+    "markNotify": true,
+    "outlineMembers": true
+  },
+  "privacyConfig": {
+    "enableDiscordRpc": true,
+    "discordRpcShowIngameStatus": true,
+    "discordRpcShowPartyStatus": true
+  },
+  "accessibilityConfig": {
+    "enableAutoRespawn": true,
+    "enableItemLabels": true,
+    "enableCustomTitleScreen": true,
+    "enableUpdateChecker": true,
+    "enableLootAllButton": true,
+    "enableAutofillDeposit": true
+  },
+  "chatChannelsConfig": {
+    "enable": true,
+    "showPartyMessageInChat": true,
+    "closeChatAfterMessage": true,
+    "compactButton": true
+  }
+}
