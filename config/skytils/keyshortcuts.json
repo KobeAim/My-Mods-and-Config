@@ -1,5 +1,9 @@
 [
     {
+        "message": "/gfs ender pearl 10",
+        "keyCode": 37
+    },
+    {
         "message": "/p warp",
         "keyCode": 50
     }

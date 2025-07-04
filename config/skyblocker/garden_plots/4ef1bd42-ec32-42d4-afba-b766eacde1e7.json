@@ -1,0 +1,66 @@
+[
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  {
+    "icon": "minecraft:carved_pumpkin",
+    "name": "5"
+  },
+  {
+    "icon": "minecraft:bedrock",
+    "name": "1"
+  },
+  null,
+  null,
+  null,
+  {
+    "icon": "minecraft:cocoa_beans",
+    "name": "2"
+  },
+  null,
+  {
+    "icon": "minecraft:cactus",
+    "name": "3"
+  },
+  null,
+  {
+    "icon": "minecraft:gold_ingot",
+    "name": "17"
+  },
+  {
+    "icon": "minecraft:gold_ingot",
+    "name": "7"
+  },
+  {
+    "icon": "minecraft:gold_ingot",
+    "name": "4"
+  },
+  {
+    "icon": "minecraft:gold_ingot",
+    "name": "8"
+  },
+  {
+    "icon": "minecraft:gold_ingot",
+    "name": "18"
+  },
+  {
+    "icon": "minecraft:bedrock",
+    "name": "23"
+  },
+  {
+    "icon": "minecraft:sugar_cane",
+    "name": "19"
+  },
+  {
+    "icon": "minecraft:sugar_cane",
+    "name": "12"
+  },
+  {
+    "icon": "minecraft:cactus",
+    "name": "20"
+  },
+  null
+]

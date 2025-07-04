@@ -1,0 +1,24 @@
+{
+  "@skyblockapi:version": 0,
+  "@skyblockapi:data": {
+    "668fa29e-0ac4-47eb-80d4-86344efc3d36": {
+      "Coconut": {
+        "data": {
+          "BLOBFISH": {
+            "BRONZE": 12,
+            "SILVER": 3,
+            "GOLD": 1
+          },
+          "GOLDEN_FISH": {
+            "BRONZE": 10,
+            "GOLD": 1,
+            "SILVER": 1
+          },
+          "LAVA_HORSE": {
+            "SILVER": 1
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,277 @@
+{
+    // The version of the config file. Do not change this unless you know what you are doing.
+    "rconfig:version": 0,
+    "misc_config": {
+        "scrollable_tooltips": true,
+        "sign_enter_submits": false,
+        "enable_storage_preview": false,
+        "show_ping": false,
+        "show_museum_armor_sets": true,
+        "primal_fear": {
+            "enabled": false,
+            // Valid Values: CHAT, TOAST, BOTH, NONE
+            "type": "TOAST",
+            "enable_sound": true
+        },
+        "item_creation_date": false,
+        "item_npc_value": false,
+        "hide_own_armour": false,
+        "hide_other_armour": false,
+        "show_dyed_armour": false,
+        "hide_fire_on_entities": false,
+        "hide_lightning_bolt": false,
+        "hide_potion_effects": false,
+        "hide_health": false,
+        "hide_armour": false,
+        "hide_food": false,
+        "show_pet_level": false,
+        "show_pet_rarity_in_level_text": false,
+        "show_item_upgrades": false,
+        "show_forge_recipes": false,
+        // Type: Integer
+        "forge_slot": 47,
+        "party_commands": {
+            "party_transfer": true,
+            "warp": true,
+            "join_instance": true,
+            "coin_flip": true,
+            "down_time": true,
+            "send_downtime_message": false
+        }
+    },
+    "item_search": {
+        "enable_craftable_items": true,
+        "enable_non_craftable_items": false,
+        "show_only_missing_items": true,
+        "show_in_museum": true,
+        "persist_search": false,
+        // [Color Format: RGB]
+        "highlightColor": -1466946,
+        // Range: 0 - 300
+        "highlight_time": 10
+    },
+    "helpers_category": {
+        "anvil_helper": false,
+        "chest_tracker": true,
+        "craft_helper": {
+            "enabled": true,
+            "sources": {
+                "chests": true,
+                "storage": true,
+                "sacks": true,
+                "inventory": true,
+                "forge": true,
+                "vault": true,
+                "sack_of_sacks": true,
+                "potion_bag": true,
+                "accessory_bag": true
+            },
+            // Type: Integer
+            "slot": 14,
+            // Valid Values: LEFT, LEFT_INVENTORY, RIGHT_INVENTORY, RIGHT
+            "location": "RIGHT_INVENTORY"
+        }
+    },
+    "mining": {
+        "modify_commissions": false,
+        "puzzler_solver": false,
+        "mod_helper": false,
+        "glossy_gemstone_message": true,
+        "show_hotm_perk_level_as_stack_size": false,
+        "highlight_disabled_hotm_perks": false,
+        "show_next_10_cost": false,
+        "show_total_cost": false,
+        "shaft": {
+            // Valid Values: OFF, CHAT, PARTY
+            "type": "CHAT",
+            "enabled": true,
+            "text": true,
+            "box": true,
+            "beam": true,
+            // [Color Format: RGBA]
+            "color": -1466946
+        }
+    },
+    "farming_category": {
+        "show_plot_price_breakdown": false,
+        "yaw_pitch_display": false,
+        "pest_timer": {
+            // Valid Values: FIRST, CURRENT, LATEST
+            "timer_type": "FIRST",
+            "enabled": false,
+            // Valid Values: CHAT, TOAST, BOTH, NONE
+            "type": "TOAST",
+            "enable_sound": true
+        },
+        // Valid Values: ON_GARDEN, IF_KEYBIND_ENABLED, HOLDING_FARMING_TOOL
+        "keybind_predicate": "ON_GARDEN",
+        "show_rancher_speed": false,
+        "show_rancher_optimal_speed": false,
+        "rancher_speeds": {
+            "sugar_cane": 327,
+            "cactus": 400,
+            "mushroom": 200,
+            "pumpkin": 258,
+            "melon": 258,
+            "cocoa_beans": 155,
+            "carrot": 93,
+            "potato": 93,
+            "nether_wart": 93,
+            "uuids": [],
+            "wheat": 93
+        },
+        "visitor_drop_protection": true,
+        "visitor_common_protection": false,
+        "mousemat_overlay": false,
+        "squeaky_mousemat_data": {
+            "use_profile": [],
+            "data": {
+                "sugar_cane": {
+                    "yaw": 45.0,
+                    "pitch": 0.0
+                },
+                "cactus": {
+                    "yaw": 90.0,
+                    "pitch": 0.0
+                },
+                "mushroom": {
+                    "yaw": 0.0,
+                    "pitch": 0.0
+                },
+                "melon": {
+                    "yaw": 90.0,
+                    "pitch": 0.0
+                },
+                "cocoa_beans": {
+                    "yaw": 0.0,
+                    "pitch": 45.0
+                },
+                "potato": {
+                    "yaw": 90.0,
+                    "pitch": 0.0
+                },
+                "nether_wart": {
+                    "yaw": 90.0,
+                    "pitch": 0.0
+                },
+                "pumpkin": {
+                    "yaw": 90.0,
+                    "pitch": 0.0
+                },
+                "wheat": {
+                    "yaw": 90.0,
+                    "pitch": 0.0
+                },
+                "carrot": {
+                    "yaw": 90.0,
+                    "pitch": 0.0
+                }
+            }
+        },
+        "compost_price_breakdown": false,
+        // Valid Values: ASCENDING, DESCENDING, UNSORTED
+        "compost_sort_order": "ASCENDING",
+        "highlight_unclaimed_jacob_contests": false,
+        "highlight_glowing_mushrooms": false
+    },
+    "dungeon": {
+        "use_dungeon_features": true,
+        "relay_to_backend": true,
+        "glow_in_class_color": true,
+        "highlight_unclaimed_chests": false,
+        "replace_chest_item_with_highest_rarity_item": false,
+        "render_map": true,
+        "show_player_skulls": true,
+        "rotate_player_heads": true,
+        "show_player_names": true,
+        "render_over_room_text": true,
+        "keep_wither_doors": true,
+        "show_secrets": true,
+        "show_puzzle_name": true,
+        "show_room_status": true,
+        "show_trap_as_cleared": false,
+        // [Color Format: RGBA]
+        "map_background_color": -12566464,
+        "terminals": {
+            "prevent_missclicks": true,
+            "change_all_to_same_color": true,
+            "click_in_order_terminal": true,
+            "correct_all_the_panes": true,
+            "select_all_colors": true,
+            "starts_with": true,
+            "melody": true,
+            "melody_notifier": true
+        },
+        "spirit_leap": {
+            "color_in_class_color": false,
+            "announce_leaps": false,
+            "announce_coords": false,
+            "modify_normal": true,
+            "use_player_heads": false,
+            "spirit_leap_ui": true,
+            "show_map": true,
+            "sort_by_class_name": false,
+            // [Color Format: RGBA]
+            "fallback_color": -2305025
+        },
+        "puzzles": {
+            "creeper_beams": true,
+            "higher_lower": true,
+            "quiz": true,
+            "three_weirdos": true,
+            "water_board": true
+        },
+        "class_color": {
+            // [Color Format: RGB]
+            "healer": 11088860,
+            // [Color Format: RGB]
+            "mage": 7255551,
+            // [Color Format: RGB]
+            "bers": 15638311,
+            // [Color Format: RGB]
+            "arch": 16737894,
+            // [Color Format: RGB]
+            "tank": -8921737
+        }
+    },
+    "cleanup": {
+        // Valid Values: UNCHANGED, EMPTY, ALL, OTHER
+        "coop_cleanup": "UNCHANGED",
+        "hide_watcher_messages": false,
+        "hide_potion_effect_message": false,
+        "hide_class_messages": false,
+        "hide_ultimate_ready": false,
+        "hide_blessing_messages": false,
+        "hide_silverfish_message": false,
+        "hide_dungeon_key_message": false,
+        "remove_dungeon_stats": false,
+        "remove_reforge_stats": false,
+        "remove_hpb_stats": false,
+        "remove_gemstone_stats": false,
+        "remove_gear_score": false,
+        "remove_blank_line": false,
+        "remove_full_set_bonus": false,
+        "remove_gemstone_line": false,
+        "remove_ability": false,
+        "remove_piece_bonus": false,
+        "remove_enchants": false,
+        "remove_reforge": false,
+        "remove_soulbound": false,
+        "remove_runes": false,
+        "remove_max_level": false,
+        "remove_actions": false,
+        "remove_held_item": false
+    },
+    "dev": {
+        "hide_console_spam": true,
+        "data_repo": "cookies-mod/data",
+        "data_repo_branch": "main",
+        "connect_to_backend": true,
+        /*
+         * Regex: [^\n]+
+         * [Allows newlines]
+         */
+        "backend_url": "https://api.cookies-mod.cloud/",
+        "use_version_suffix": true
+    }
+}

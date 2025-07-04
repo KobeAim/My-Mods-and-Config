@@ -1,0 +1,9 @@
+{
+	"favorites": [
+		"{data:{type:\"firmament:skyblockitems\",value:{count:1,skyblockId:\"STRETCHING_STICKS\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"firmament:skyblockitems\",value:{count:1,skyblockId:\"GLOWSTONE_GAUNTLET\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"firmament:skyblockitems\",value:{count:1,skyblockId:\"null\"}},type:\"roughlyenoughitems:entry_stack\"}"
+	],
+	"hiddenFavorites": [],
+	"displays": []
+}

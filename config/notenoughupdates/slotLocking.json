@@ -1,20 +1,110 @@
 {
   "profileData": {
+    "Raspberry": {
+      "slotLockData": [
+        {
+          "lockedSlots": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          "riftLockedSlots": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        }
+      ]
+    },
     "Coconut": {
       "slotLockData": [
         {
           "lockedSlots": [
             {
               "locked": false,
-              "boundTo": 27
+              "boundTo": -1
             },
             {
               "locked": false,
-              "boundTo": 28
+              "boundTo": -1
             },
             {
               "locked": false,
-              "boundTo": 29
+              "boundTo": 30
             },
             {
               "locked": false,
@@ -26,7 +116,7 @@
             },
             {
               "locked": false,
-              "boundTo": -1
+              "boundTo": 32
             },
             {
               "locked": false,
@@ -41,8 +131,6 @@
             null,
             null,
             null,
-            null,
-            null,
             {
               "locked": false,
               "boundTo": -1
@@ -53,6 +141,11 @@
               "boundTo": -1
             },
             null,
+            {
+              "locked": true,
+              "boundTo": -1
+            },
+            null,
             null,
             null,
             null,
@@ -63,24 +156,27 @@
             null,
             {
               "locked": false,
-              "boundTo": 0
+              "boundTo": -1
             },
             {
               "locked": false,
-              "boundTo": 1
+              "boundTo": -1
             },
             {
               "locked": false,
               "boundTo": 2
             },
-            null,
+            {
+              "locked": false,
+              "boundTo": 2
+            },
             {
               "locked": false,
               "boundTo": 4
             },
             {
               "locked": false,
-              "boundTo": -1
+              "boundTo": 5
             },
             {
               "locked": false,

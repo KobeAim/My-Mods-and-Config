@@ -1,0 +1,11 @@
+.vscode/
+config.toml
+dianaLootCounter.json
+dianaTrackerMayor.json
+dianaTrackerTotal.json
+dianaTrackerSession.json
+guiSettings.json
+SboConstants.json
+SboData.json
+pastDianaEvents.json
+assets/

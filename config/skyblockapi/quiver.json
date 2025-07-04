@@ -1,0 +1,13 @@
+{
+  "@skyblockapi:version": 0,
+  "@skyblockapi:data": {
+    "668fa29e-0ac4-47eb-80d4-86344efc3d36": {
+      "Coconut": {
+        "current": "BOUNCY_ARROW",
+        "arrows": {
+          "BOUNCY_ARROW": 2525
+        }
+      }
+    }
+  }
+}

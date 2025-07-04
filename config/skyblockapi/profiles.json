@@ -1,0 +1,20 @@
+{
+  "@skyblockapi:version": 0,
+  "@skyblockapi:data": {
+    "668fa29e-0ac4-47eb-80d4-86344efc3d36": {
+      "profileType": {
+        "Coconut": "NORMAL",
+        "tunocoC": "NORMAL"
+      },
+      "sbLevel": {
+        "Coconut": 284
+      },
+      "sbLevelProgress": {
+        "Coconut": 64
+      },
+      "coop": {
+        "Coconut": true
+      }
+    }
+  }
+}

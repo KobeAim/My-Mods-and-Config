@@ -1,0 +1,308 @@
+[
+  {
+    "name": "shulkers",
+    "island": "foraging_2",
+    "waypoints": [
+      {
+        "colorComponents": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "alpha": 0.49803922,
+        "shouldRender": false,
+        "pos": [
+          -594,
+          119,
+          -47
+        ],
+        "name": "1"
+      },
+      {
+        "colorComponents": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "alpha": 0.49803922,
+        "shouldRender": false,
+        "pos": [
+          -670,
+          114,
+          -76
+        ],
+        "name": "2"
+      },
+      {
+        "colorComponents": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "alpha": 0.49803922,
+        "shouldRender": false,
+        "pos": [
+          -582,
+          97,
+          57
+        ],
+        "name": "3"
+      },
+      {
+        "colorComponents": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "alpha": 0.49803922,
+        "shouldRender": false,
+        "pos": [
+          -609,
+          113,
+          -36
+        ],
+        "name": "4"
+      },
+      {
+        "colorComponents": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "alpha": 0.49803922,
+        "shouldRender": false,
+        "pos": [
+          -601,
+          113,
+          14
+        ],
+        "name": "5"
+      },
+      {
+        "colorComponents": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "alpha": 0.49803922,
+        "shouldRender": false,
+        "pos": [
+          -625,
+          96,
+          62
+        ],
+        "name": "6"
+      },
+      {
+        "colorComponents": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "alpha": 0.49803922,
+        "shouldRender": false,
+        "pos": [
+          -660,
+          97,
+          62
+        ],
+        "name": "7"
+      },
+      {
+        "colorComponents": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "alpha": 0.49803922,
+        "shouldRender": false,
+        "pos": [
+          -728,
+          94,
+          29
+        ],
+        "name": "8"
+      },
+      {
+        "colorComponents": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "alpha": 0.49803922,
+        "shouldRender": false,
+        "pos": [
+          -703,
+          94,
+          78
+        ],
+        "name": "9"
+      },
+      {
+        "colorComponents": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "alpha": 0.49803922,
+        "shouldRender": false,
+        "pos": [
+          -666,
+          88,
+          49
+        ],
+        "name": "10"
+      },
+      {
+        "colorComponents": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "alpha": 0.49803922,
+        "shouldRender": false,
+        "pos": [
+          -603,
+          99,
+          20
+        ],
+        "name": "11"
+      },
+      {
+        "colorComponents": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "alpha": 0.49803922,
+        "shouldRender": false,
+        "pos": [
+          -591,
+          113,
+          38
+        ],
+        "name": "12"
+      },
+      {
+        "colorComponents": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "alpha": 0.49803922,
+        "shouldRender": false,
+        "pos": [
+          -668,
+          118,
+          87
+        ],
+        "name": "13"
+      },
+      {
+        "colorComponents": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "alpha": 0.49803922,
+        "shouldRender": false,
+        "pos": [
+          -542,
+          122,
+          -12
+        ],
+        "name": "14"
+      },
+      {
+        "colorComponents": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "alpha": 0.49803922,
+        "shouldRender": false,
+        "pos": [
+          -592,
+          95,
+          91
+        ],
+        "name": "15"
+      },
+      {
+        "colorComponents": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "alpha": 0.49803922,
+        "shouldRender": false,
+        "pos": [
+          -762,
+          119,
+          -15
+        ],
+        "name": "16"
+      },
+      {
+        "colorComponents": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "alpha": 0.49803922,
+        "shouldRender": false,
+        "pos": [
+          -596,
+          112,
+          -39
+        ],
+        "name": "17"
+      },
+      {
+        "colorComponents": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "alpha": 0.49803922,
+        "shouldRender": false,
+        "pos": [
+          -629,
+          116,
+          -39
+        ],
+        "name": "18"
+      },
+      {
+        "colorComponents": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "alpha": 0.49803922,
+        "shouldRender": false,
+        "pos": [
+          -592,
+          95,
+          39
+        ],
+        "name": "19"
+      },
+      {
+        "colorComponents": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "alpha": 0.49803922,
+        "shouldRender": false,
+        "pos": [
+          -632,
+          89,
+          43
+        ],
+        "name": "20"
+      }
+    ]
+  }
+]

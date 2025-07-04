@@ -364,7 +364,7 @@
   },
   {
     "name": "Dungeon Waypoints",
-    "enabled": false,
+    "enabled": true,
     "settings": [
       {
         "Allow Edits": false
@@ -394,10 +394,10 @@
         "Color pallet": "None"
       },
       {
-        "Color": "#00FF00FF"
+        "Color": "#FF0000FF"
       },
       {
-        "Filled": false
+        "Filled": true
       },
       {
         "Through walls": false
@@ -415,7 +415,7 @@
         "Debug Waypoint": false
       },
       {
-        "Keybind": 0
+        "Keybind": 38
       }
     ]
   },
@@ -1309,46 +1309,46 @@
         "First join": true
       },
       {
-        "DUNGEON,x": 10.0
+        "DUNGEON,x": 108.0
       },
       {
-        "DUNGEON,y": 10.0
+        "DUNGEON,y": 119.0
       },
       {
         "DUNGEON,extended": true
       },
       {
-        "FLOOR7,x": 270.0
+        "FLOOR7,x": 365.0
       },
       {
-        "FLOOR7,y": 10.0
+        "FLOOR7,y": 123.0
       },
       {
         "FLOOR7,extended": true
       },
       {
-        "RENDER,x": 530.0
+        "RENDER,x": 616.0
       },
       {
-        "RENDER,y": 10.0
+        "RENDER,y": 119.0
       },
       {
         "RENDER,extended": true
       },
       {
-        "SKYBLOCK,x": 790.0
+        "SKYBLOCK,x": 866.0
       },
       {
-        "SKYBLOCK,y": 10.0
+        "SKYBLOCK,y": 119.0
       },
       {
         "SKYBLOCK,extended": true
       },
       {
-        "NETHER,x": 1050.0
+        "NETHER,x": 1122.0
       },
       {
-        "NETHER,y": 10.0
+        "NETHER,y": 117.0
       },
       {
         "NETHER,extended": true
@@ -2146,7 +2146,7 @@
   },
   {
     "name": "Auto Sprint",
-    "enabled": false,
+    "enabled": true,
     "settings": [
       {
         "Keybind": 0

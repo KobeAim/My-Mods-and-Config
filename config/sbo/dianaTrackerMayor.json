@@ -1,0 +1,42 @@
+{
+    "year": 429,
+    "items": {
+        "coins": 0,
+        "Griffin Feather": 0,
+        "Crown of Greed": 0,
+        "Washed-up Souvenir": 0,
+        "Chimera": 0,
+        "ChimeraLs": 0,
+        "Daedalus Stick": 0,
+        "DWARF_TURTLE_SHELMET": 0,
+        "CROCHET_TIGER_PLUSHIE": 0,
+        "ANTIQUE_REMEDIES": 0,
+        "ENCHANTED_ANCIENT_CLAW": 0,
+        "ANCIENT_CLAW": 0,
+        "MINOS_RELIC": 0,
+        "ENCHANTED_GOLD": 0,
+        "ENCHANTED_IRON": 0,
+        "Total Burrows": 0,
+        "scavengerCoins": 0,
+        "fishCoins": 0,
+        "mayorTime": 0
+    },
+    "mobs": {
+        "Minos Inquisitor": 0,
+        "Minos Champion": 0,
+        "Minotaur": 0,
+        "Gaia Construct": 0,
+        "Siamese Lynxes": 0,
+        "Minos Hunter": 0,
+        "TotalMobs": 0,
+        "Minos Inquisitor Ls": 0
+    },
+    "inquis": {
+        "DWARF_TURTLE_SHELMET": 0,
+        "CROCHET_TIGER_PLUSHIE": 0,
+        "ANTIQUE_REMEDIES": 0,
+        "DWARF_TURTLE_SHELMET_LS": 0,
+        "CROCHET_TIGER_PLUSHIE_LS": 0,
+        "ANTIQUE_REMEDIES_LS": 0
+    }
+}

@@ -1,1 +1,8 @@
-[]
+[
+    {
+        "regex": "Bonzo's Mask",
+        "text": "Bonzo",
+        "ticks": 100,
+        "enabled": true
+    }
+]
