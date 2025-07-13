@@ -4,7 +4,7 @@
     "enabled": true,
     "settings": [
       {
-        "Delay": 4.0
+        "Delay": 0.0
       },
       {
         "Type": true
@@ -946,7 +946,7 @@
         "Melody Message": "Melody Terminal start!"
       },
       {
-        "Melody Progress": false
+        "Melody Progress": true
       },
       {
         "Melody Send Coords": false
@@ -958,7 +958,7 @@
   },
   {
     "name": "Tick Timers",
-    "enabled": false,
+    "enabled": true,
     "settings": [
       {
         "Display in Ticks": false

@@ -153,7 +153,7 @@
 
 	[performance.text_rendering]
 		cache_font_data = true
-		optimized_font_renderer = true
+		optimized_font_renderer = false
 
 	[performance.resources]
 		downscale_pack_images = true

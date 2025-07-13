@@ -276,7 +276,7 @@
 		hide_opened_croesus_chests = false
 		dungeon_timer = false
 		show_decimal_seconds_on_timers = false
-		highlight_unopened_croesus_chests = false
+		highlight_unopened_croesus_chests = true
 		necron_phase_timer = false
 		death_counter = false
 		dungeon_chest_profit_includes_essence = true

@@ -1,5 +1,26 @@
 [
   {
+    "name": "Bosses",
+    "island": "crimson_isle",
+    "waypoints": [
+      {
+        "colorComponents": [
+          0.0,
+          1.0,
+          0.0
+        ],
+        "alpha": 0.5,
+        "shouldRender": true,
+        "pos": [
+          -534,
+          116,
+          -904
+        ],
+        "name": "Barb Dukey"
+      }
+    ]
+  },
+  {
     "name": "shulkers",
     "island": "foraging_2",
     "waypoints": [

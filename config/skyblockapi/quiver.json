@@ -3,9 +3,10 @@
   "@skyblockapi:data": {
     "668fa29e-0ac4-47eb-80d4-86344efc3d36": {
       "Coconut": {
-        "current": "BOUNCY_ARROW",
+        "current": "ARROW",
         "arrows": {
-          "BOUNCY_ARROW": 2525
+          "BOUNCY_ARROW": 2525,
+          "ARROW": 2388
         }
       }
     }

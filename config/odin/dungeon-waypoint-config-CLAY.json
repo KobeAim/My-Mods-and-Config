@@ -251,7 +251,24 @@
   "Fairy": [],
   "Diagonal": [],
   "Perch": [],
-  "Lower Blaze": [],
+  "Lower Blaze": [
+    {
+      "x": 10.0,
+      "y": 68.0,
+      "z": 23.0,
+      "color": "#FF0000FF",
+      "filled": true,
+      "depth": true,
+      "aabb": {
+        "minX": -0.0020000000949949026,
+        "minY": -0.0020000000949949026,
+        "minZ": -0.0020000000949949026,
+        "maxX": 1.002000000094995,
+        "maxY": 1.002000000094995,
+        "maxZ": 1.002000000094995
+      }
+    }
+  ],
   "Doors": [],
   "Water": [],
   "Painting": [],
@@ -363,6 +380,22 @@
         "minZ": -0.0020000000949949026,
         "maxX": 1.002000000094995,
         "maxY": 1.002000000094995,
+        "maxZ": 1.002000000094995
+      }
+    },
+    {
+      "x": 25.0,
+      "y": 84.0,
+      "z": 11.0,
+      "color": "#FF0000FF",
+      "filled": true,
+      "depth": true,
+      "aabb": {
+        "minX": -0.0020000000949949026,
+        "minY": -0.0020000000949949026,
+        "minZ": -0.0020000000949949026,
+        "maxX": 1.002000000094995,
+        "maxY": 0.5020000000949949,
         "maxZ": 1.002000000094995
       }
     }
@@ -702,5 +735,113 @@
       }
     }
   ],
-  "Gold": []
+  "Gold": [],
+  "Atlas": [],
+  "Dino Site": [],
+  "Grass Ruin": [],
+  "Lots Of Floors": [],
+  "Mirror": [],
+  "Quartz Knight": [],
+  "Sloth": [],
+  "Spikes": [],
+  "Quiz": [],
+  "Ice Fill": [],
+  "Redstone Key": [],
+  "Long Hall": [],
+  "Hallway": [],
+  "Waterfall": [],
+  "Well": [],
+  "Dragon": [],
+  "Tomioka": [],
+  "Scaffolding": [],
+  "Rails": [],
+  "Bridges": [],
+  "Creeper Beams": [],
+  "Big Red Flag": [],
+  "Layers": [],
+  "Sarcophagus": [],
+  "Red Blue": [],
+  "Pirate": [],
+  "Higher Blaze": [],
+  "Mage": [],
+  "Pressure Plates": [],
+  "Ritual": [],
+  "Crypt": [],
+  "Lava Ravine": [],
+  "Redstone Warrior": [],
+  "Steps": [],
+  "Chambers": [],
+  "Prison Cell": [],
+  "Duncan": [],
+  "Double Diamond": [],
+  "Pit": [],
+  "Cobble Wall Pillar": [],
+  "Deathmite": [],
+  "Cages": [],
+  "Purple Flags": [],
+  "Altar": [],
+  "Silver Sword": [],
+  "Mines": [],
+  "Spider": [],
+  "Chains": [],
+  "Archway": [],
+  "Buttons": [],
+  "Dome": [],
+  "Overgrown": [],
+  "Slabs": [],
+  "Cathedral": [],
+  "Wizard": [],
+  "Blood": [],
+  "Zodd": [],
+  "Leaves": [],
+  "Pedestal": [
+    {
+      "x": 7.0,
+      "y": 92.0,
+      "z": 18.0,
+      "color": "#FF0000FF",
+      "filled": true,
+      "depth": true,
+      "aabb": {
+        "minX": -0.0020000000949949026,
+        "minY": -0.0020000000949949026,
+        "minZ": -0.0020000000949949026,
+        "maxX": 1.002000000094995,
+        "maxY": 1.002000000094995,
+        "maxZ": 1.002000000094995
+      }
+    },
+    {
+      "x": 6.0,
+      "y": 93.0,
+      "z": 18.0,
+      "color": "#FF0000FF",
+      "filled": true,
+      "depth": true,
+      "aabb": {
+        "minX": -0.0020000000949949026,
+        "minY": -0.0020000000949949026,
+        "minZ": -0.0020000000949949026,
+        "maxX": 1.002000000094995,
+        "maxY": 1.002000000094995,
+        "maxZ": 1.002000000094995
+      }
+    },
+    {
+      "x": 5.0,
+      "y": 94.0,
+      "z": 18.0,
+      "color": "#FF0000FF",
+      "filled": true,
+      "depth": true,
+      "aabb": {
+        "minX": -0.0020000000949949026,
+        "minY": -0.0020000000949949026,
+        "minZ": -0.0020000000949949026,
+        "maxX": 1.002000000094995,
+        "maxY": 1.002000000094995,
+        "maxZ": 1.002000000094995
+      }
+    }
+  ]
 }

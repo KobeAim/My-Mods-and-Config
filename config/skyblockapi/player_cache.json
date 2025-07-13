@@ -2,33 +2,21 @@
   "@skyblockapi:version": 0,
   "@skyblockapi:data": {
     "players": {
+      "4262f65f-3926-496d-8f36-a777e9613cff": {
+        "name": "spaisuiker",
+        "time": 1752011330549
+      },
       "b63c08e1-f24c-493b-9f59-da0cc865b6e6": {
         "name": "Matteke42",
-        "time": 1750888362341
+        "time": 1752091799510
+      },
+      "a93aa17f-5550-40c4-9fb8-38df4a5e9d6d": {
+        "name": "MalteKH",
+        "time": 1752092944767
       },
       "668fa29e-0ac4-47eb-80d4-86344efc3d36": {
         "name": "KobeAim",
-        "time": 1750977670722
-      },
-      "f1d5c22b-7d47-4857-a7c9-deca74d74174": {
-        "name": "Hypah",
-        "time": 1750805846797
-      },
-      "2ffaf83d-eaac-4eb2-8d74-42cf9599d49c": {
-        "name": "BlazeKickers",
-        "time": 1750892730195
-      },
-      "eaf36664-fd72-4610-ba26-7e0c8c7075b5": {
-        "name": "KobesButler",
-        "time": 1750973318009
-      },
-      "a4c896d1-922a-4e9d-aede-cada425ec853": {
-        "name": "Tendite",
-        "time": 1750970217953
-      },
-      "3dcc6fa6-5c7c-457f-8cdf-88baca1ea0c4": {
-        "name": "Emmy0174",
-        "time": 1750977665726
+        "time": 1752093122117
       }
     }
   }
