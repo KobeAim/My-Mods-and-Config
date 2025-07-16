@@ -1,11 +1,10 @@
 {
   "668fa29e0ac447eb80d486344efc3d36": {
     "4ef1bd42-ec32-42d4-afba-b766eacde1e7": {
-      "uuid": "91e09e60-079a-4904-8f46-ee5c7404b893",
-      "heldItem": "PET_ITEM_COMBAT_SKILL_BOOST_RARE",
-      "type": "TARANTULA",
-      "exp": 386496.22955947666,
-      "tier": "MYTHIC"
+      "uuid": "c2551cca-4c33-4047-bcaa-77a4eea290fc",
+      "type": "GOLDEN_DRAGON",
+      "exp": 1.1927656642537428E7,
+      "tier": "LEGENDARY"
     }
   }
 }

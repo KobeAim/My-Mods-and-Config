@@ -523,5 +523,55 @@
     "Potato",
     "Wheat",
     "Cocoa Beans"
+  ],
+  "1752563700000": [
+    "Carrot",
+    "Mushroom",
+    "Potato"
+  ],
+  "1752567300000": [
+    "Nether Wart",
+    "Melon",
+    "Wheat"
+  ],
+  "1752570900000": [
+    "Wheat",
+    "Melon",
+    "Cocoa Beans"
+  ],
+  "1752574500000": [
+    "Nether Wart",
+    "Pumpkin",
+    "Carrot"
+  ],
+  "1752578100000": [
+    "Sugar Cane",
+    "Cactus",
+    "Mushroom"
+  ],
+  "1752581700000": [
+    "Sugar Cane",
+    "Cactus",
+    "Cocoa Beans"
+  ],
+  "1752585300000": [
+    "Pumpkin",
+    "Nether Wart",
+    "Wheat"
+  ],
+  "1752588900000": [
+    "Melon",
+    "Potato",
+    "Carrot"
+  ],
+  "1752592500000": [
+    "Sugar Cane",
+    "Melon",
+    "Cocoa Beans"
+  ],
+  "1752596100000": [
+    "Nether Wart",
+    "Wheat",
+    "Mushroom"
   ]
 }

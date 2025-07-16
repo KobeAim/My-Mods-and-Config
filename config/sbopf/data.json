@@ -1,9 +1,9 @@
 {
-    "playerStatsUpdated": 1752431547824,
+    "playerStatsUpdated": 1752678349798,
     "sboKey": "",
     "playerStats": {
         "name": "KobeAim",
-        "sbLvl": 323,
+        "sbLvl": 324,
         "eman9": false,
         "looting5daxe": true,
         "emanLvl": 7,
@@ -13,12 +13,12 @@
         "daxeLootingLvl": 5,
         "daxeChimLvl": 0,
         "invApi": true,
-        "magicalPower": 1084,
-        "enrichments": 31,
+        "magicalPower": 1088,
+        "enrichments": 32,
         "missingEnrichments": 1,
         "griffinRarity": "LEGENDARY",
         "griffinItem": "ANTIQUE_REMEDIES",
-        "killLeaderboard": 10354,
+        "killLeaderboard": 10353,
         "mythosKills": 5898
     }
 }
