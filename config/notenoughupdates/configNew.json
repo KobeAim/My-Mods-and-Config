@@ -24,7 +24,7 @@
     "disableSkullRetexturing": false,
     "disableNPCRetexturing": false,
     "wiki": 0,
-    "keybindWaypoint": 0,
+    "keybindWaypoint": 53,
     "untrackCloseWaypoints": true,
     "warpTwice": true,
     "calculationMode": 2,
@@ -248,8 +248,8 @@
     ],
     "miningPauseTimer": 3,
     "miningPosition": {
-      "x": 81,
-      "y": -142,
+      "x": 10,
+      "y": -144,
       "centerX": false,
       "centerY": false
     },
@@ -287,8 +287,8 @@
     ],
     "combatPauseTimer": 3,
     "combatPosition": {
-      "x": 131,
-      "y": 279,
+      "x": 133,
+      "y": 252,
       "centerX": false,
       "centerY": false
     },
@@ -303,15 +303,11 @@
       0,
       1,
       2,
-      3,
-      4,
       5,
       6,
       7,
       8,
       9,
-      10,
-      11,
       12
     ],
     "experimentationDisplay": 0,
@@ -355,8 +351,8 @@
       6
     ],
     "slayerPosition": {
-      "x": 75,
-      "y": 296,
+      "x": -417,
+      "y": 201,
       "centerX": false,
       "centerY": false
     },
@@ -464,8 +460,8 @@
       7
     ],
     "overlayPosition": {
-      "x": 78,
-      "y": 135,
+      "x": 9,
+      "y": 185,
       "centerX": false,
       "centerY": false
     },
@@ -530,8 +526,8 @@
       6
     ],
     "powderGrindingTrackerPosition": {
-      "x": 10,
-      "y": 265,
+      "x": -211,
+      "y": 208,
       "centerX": false,
       "centerY": false
     },
@@ -539,7 +535,7 @@
     "powderGrindingTrackerResetMode": 2,
     "resetPowderGrindingTracker": 0,
     "puzzlerSolver": true,
-    "titaniumAlert": true,
+    "titaniumAlert": false,
     "titaniumAlertMustBeVisible": false,
     "dwarvenTextures": false,
     "crystalHollowTextures": false,
@@ -752,50 +748,56 @@
     "customTodos": [],
     "profileSpecific": {
       "Coconut": {
-        "godPotionDuration": 0,
-        "puzzlerCompleted": 1750509192386,
-        "firstCakeAte": 1752520618091,
-        "fetchurCompleted": 1750509174826,
-        "commissionsCompleted": 1752402541936,
-        "lastFreeRiftInfusionApplied": 1752335678789,
-        "experimentsCompleted": 0,
-        "cookieBuffRemaining": 1752964139998,
+        "godPotionDuration": 36000000,
+        "puzzlerCompleted": 1754748271671,
+        "firstCakeAte": 1754670440257,
+        "fetchurCompleted": 1754748096906,
+        "commissionsCompleted": 0,
+        "lastFreeRiftInfusionApplied": 1754738393691,
+        "experimentsCompleted": 1754738827686,
+        "cookieBuffRemaining": 1755037739756,
         "forgeItems": [
           {
-            "finishTime": 0,
-            "status": 0,
+            "itemName": "Golden Plate",
+            "finishTime": 1754834891927,
+            "status": 2,
             "forgeID": 0,
-            "fromScoreBoard": true
+            "fromScoreBoard": false
           },
           {
-            "finishTime": 0,
-            "status": 0,
+            "itemName": "Golden Plate",
+            "finishTime": 1754834893927,
+            "status": 2,
             "forgeID": 1,
-            "fromScoreBoard": true
+            "fromScoreBoard": false
           },
           {
-            "finishTime": 0,
-            "status": 0,
+            "itemName": "Golden Plate",
+            "finishTime": 1754834895927,
+            "status": 2,
             "forgeID": 2,
-            "fromScoreBoard": true
+            "fromScoreBoard": false
           },
           {
-            "finishTime": 0,
-            "status": 0,
+            "itemName": "Golden Plate",
+            "finishTime": 1754834897927,
+            "status": 2,
             "forgeID": 3,
-            "fromScoreBoard": true
+            "fromScoreBoard": false
           },
           {
-            "finishTime": 0,
-            "status": 0,
+            "itemName": "Golden Plate",
+            "finishTime": 1754834899927,
+            "status": 2,
             "forgeID": 4,
-            "fromScoreBoard": true
+            "fromScoreBoard": false
           },
           {
-            "finishTime": 0,
-            "status": 0,
+            "itemName": "Refined Titanium",
+            "finishTime": 1754850023927,
+            "status": 2,
             "forgeID": 5,
-            "fromScoreBoard": true
+            "fromScoreBoard": false
           },
           {
             "finishTime": 0,
@@ -805,7 +807,7 @@
           }
         ],
         "hotmDesires": {},
-        "commissionMilestone": 4,
+        "commissionMilestone": 5,
         "automatonParts": {
           "Electron Transmitter": false,
           "Robotron Reflector": false,
@@ -815,9 +817,9 @@
           "FTX 3070": false
         },
         "divanMinesParts": {
-          "Scavenged Lapis Sword": false,
-          "Scavenged Diamond Axe": false,
-          "Scavenged Golden Hammer": false,
+          "Scavenged Lapis Sword": true,
+          "Scavenged Diamond Axe": true,
+          "Scavenged Golden Hammer": true,
           "Scavenged Emerald Hammer": false
         },
         "crystals": {
@@ -827,152 +829,151 @@
           "Amethyst": 0,
           "Topaz": 0
         },
-        "dailyGemstonePowderCompleted": 0,
-        "dailyMithrilPowerCompleted": 0,
+        "dailyGemstonePowderCompleted": 1754150528916,
+        "dailyMithrilPowerCompleted": 1754122791923,
         "nonUnlockedWarpScrolls": [],
-        "dailyHeavyPearlCompleted": 1752252629161,
-        "questBoardCompleted": 0,
-        "dailyShopLimitCompleted": 1749383765033,
+        "dailyHeavyPearlCompleted": 1754738388638,
+        "questBoardCompleted": 1752847089644,
+        "dailyShopLimitCompleted": 1753444564083,
         "savedEquipment": {
           "19": {
             "itemid": "minecraft:skull",
-            "displayname": "§dGlistening David\u0027s Cloak",
-            "nbttag": "{HideFlags:254,SkullOwner:{Id:\"43261513-bf51-3d19-8a0a-0253439e7204\",hypixelPopulated:1b,Properties:{textures:[0:{Signature:\"CUuZcP0cXPm2S5Rzeh+0r1DBbDSmBjWb+SV09MvO6Y7ENoFO4+icEevQbQre8y7g7S0HPY4TjF17ZjNH3GC1J2e13Xtmsc8q9zW+SDTXuEBQhk5lUUptfgasL5lru/0Z/Uair2sExXD2MsBtKuUYP7QBzUy/KrQBgoLY4j9iEgt9dFZDC5+sA4pIdO/5rFpEi6lwN+mH8xjE+RS1gUot++PcbXDUM/S9IrVmtS8HRjimvBQqFk6afvqWfuf60H6l2x/6iCKTB2haRUwnDSOPI6VW0m5NJwBzFKhTWLxMne60lsjx0AyDCnLXqlxPfhr6zmfGcdgxg+7cG+4hE9Xa+ZI3DTrk2azmSKhde1iq5kx4v0jKQvKxLpxSAY+Ouv8AGFZsnhGxHTRgY3/juAsJUA8ijGW4tnCNk+pf2t5RKcYkjC9I8ajAR8EJCCN+JXcfhn7cZcAq5QKKo7aca/ZcA4MGE76y5RGV3r0vYEK0SCOYgTisZ+rX91ZcHB4rUZahF/gC1Y5dX+sZnti0iZHPUIoScwec9ujEfS7tg5UDYGlXq2rIYssbkRjKbv6T83MbzY/F5937jqJTcm9xPYuIUluEFsO+vFqK4nA95Q44MG+HP5ZqODE3SgdpGc4itV6KW9dY75DSKO6D5FBpV4zf5FgJOtyuPhRJfre9elugOgY\u003d\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcxOTI2MjI1MzkwNCwKICAicHJvZmlsZUlkIiA6ICI4ZTFjZTM2ZGE2Mzk0ZjgwOTFmZjZjYTZiZTNhZTA5NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJGdWxsY3JlbiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85OTIzZjM3YTBlN2M2MTJjZmQ0MDhlYzNkMTNhNzVkMDlhMmRiYjM5NTJjMWJhY2JjMzU4MDc0NDMyOGEyYjgzIgogICAgfQogIH0KfQ\u003d\u003d\"}]}},display:{Lore:[0:\"§7Strength: §c+50\",1:\"§7Health: §a+100\",2:\"§7Intelligence: §a+15 §9(+15)\",3:\"§7Magic Find: §a+2\",4:\"§7True Defense: §a+5.52 §9(+4.5)\",5:\"§7Foraging Fortune: §a+43 §b(+5)\",6:\"§7Foraging Wisdom: §a+5.5 §b(+0.5)\",7:\"§7Hunting Wisdom: §a+5\",8:\"§7Hunter Fortune: §a+26\",9:\"§7Sweep: §a+92 §b(+2)\",10:\"§7Boosters: §b§b⎋§8/§bꕮ§8/§b⸙\",11:\"\",12:\"§7The more you Hunt, the stronger this\",13:\"§7cloak gets!\",14:\"\",15:\"§7Talk to §bDavid §7to view your progress!\",16:\"\",17:\"§8§l* §8Soulbound §8§l*\",18:\"§d§lMYTHIC CLOAK\"],Name:\"§dGlistening David\u0027s Cloak\"},ExtraAttributes:{attributeMenuValue:28,modifier:\"glistening\",boosters:[0:\"sweep\",1:\"foraging_wisdom\",2:\"foraging_fortune\"],id:\"DAVIDS_CLOAK\",uuid:\"467978a0-c6f2-48e9-8873-ba0f5b5a7f0a\",timestamp:1750695728205L}}",
+            "displayname": "§9Royal Titanium Cloak",
+            "nbttag": "{HideFlags:254,SkullOwner:{Id:\"fcc18098-ba03-33b6-b1dd-110c64da3992\",hypixelPopulated:1b,Properties:{textures:[0:{Signature:\"wlwlN3YQtn6u3OVBalvFCatKFBGXPi5RHrwd6jP7o7TDX0o4eHqiRXMkEoEfuuAi54Qopmnz9GK7uA7ikbyDrLeW0zE7Jb8YNqRU0gT+eEw2NLEmuFYDJiYAuCd1TvBIVgkon39WODZNPrr0OxJqfyV+KBHIB3yVqC/W15DLKfwD6H/Enfv6RjiF5qQRXcvmq4VikBUIQAhtR4IhKYNcbuOdr190DkpwG9ULHFMV0VZWVDboQmVgxU9/chZf39SWM07vBbH6MYwk662StYU4gb9YKd4YJRjk7P1dDgOk9WWjr/PgEppY6NhXtPwKWO3PHw+DarVSAnMD2rUanLDtlUafMnaZd2Qp4bZsleX//7C34S2ZkUdYrfxi4VRr6HUoze9aSs6nL+B9HyG0E2E23tZReUey8WQX0aweV0tN0eCyX0BRHrz9Nj+Pu724TltTZ2t/hP1yTwE2cJ+PdA8l66W4NGmcivDgbAi7FmPT6kEinD/Fy8XpOIX0DsbOLj6wBRUrp5i/ZWJGpYdiFngULqbCkD7U7aFdg43f187SiodQegdCT+kLX5GGBYb+fQVxEaueYbPdYD6ulOGSFuBvugKSkzcp5D3tysXrIfC6uiMOpJgLzxw9bUrdHg9mAeNiQQmURerWGiuwi6ah/38NhfBDWM9ps//mUHqNNBVudkg\u003d\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjkyNzU1NywKICAicHJvZmlsZUlkIiA6ICIxNDU1MDNhNDRjZmI0NzcwYmM3NWNjMTRjYjUwMDE4NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJMaWtlbHlFcmljIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ5ODIxNDEwNjMxMTg2YzZmM2ZiYmFlNWYwZWY1Yjk0N2Y0NzVlYjMyMDI3YThhYWQwYTQ1NjUxMjU0N2MyMDkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ\u003d\u003d\"}]}},display:{Lore:[0:\"§7Mining Speed: §a+38 §9(+8)\",1:\"§7Mining Fortune: §a+12 §9(+2)\",2:\"\",3:\"§7Grants §6+10☘ Mining Fortune §7while\",4:\"§7mining §2Mithril §7and §fTitanium§7.\",5:\"§7\",6:\"§6Full Set Bonus: True Dwarf §7(3/4)\",7:\"§7Grants §6+50⸕ Mining Speed §7and §6+40☘\",8:\"§6Mining Fortune §7while in the §2Dwarven\",9:\"§2Mines§7.\",10:\"\",11:\"§9Royal Bonus\",12:\"§7Earn §2+5% ᠅ Mithril Powder §7from\",13:\"§7§bMining Events §7in the §2Dwarven Mines§7.\",14:\"\",15:\"§8§l* §8Co-op Soulbound §8§l*\",16:\"§9§lRARE CLOAK\"],Name:\"§9Royal Titanium Cloak\"},ExtraAttributes:{modifier:\"royal\",id:\"TITANIUM_CLOAK\",uuid:\"2822a59c-5043-4686-b1b1-890f5e2a3406\",donated_museum:1b,timestamp:1737328365609L}}",
             "damage": 3,
             "lore": [
-              "§7Strength: §c+50",
-              "§7Health: §a+100",
-              "§7Intelligence: §a+15 §9(+15)",
-              "§7Magic Find: §a+2",
-              "§7True Defense: §a+5.52 §9(+4.5)",
-              "§7Foraging Fortune: §a+43 §b(+5)",
-              "§7Foraging Wisdom: §a+5.5 §b(+0.5)",
-              "§7Hunting Wisdom: §a+5",
-              "§7Hunter Fortune: §a+26",
-              "§7Sweep: §a+92 §b(+2)",
-              "§7Boosters: §b§b⎋§8/§bꕮ§8/§b⸙",
+              "§7Mining Speed: §a+38 §9(+8)",
+              "§7Mining Fortune: §a+12 §9(+2)",
               "",
-              "§7The more you Hunt, the stronger this",
-              "§7cloak gets!",
+              "§7Grants §6+10☘ Mining Fortune §7while",
+              "§7mining §2Mithril §7and §fTitanium§7.",
+              "§7",
+              "§6Full Set Bonus: True Dwarf §7(3/4)",
+              "§7Grants §6+50⸕ Mining Speed §7and §6+40☘",
+              "§6Mining Fortune §7while in the §2Dwarven",
+              "§2Mines§7.",
               "",
-              "§7Talk to §bDavid §7to view your progress!",
+              "§9Royal Bonus",
+              "§7Earn §2+5% ᠅ Mithril Powder §7from",
+              "§7§bMining Events §7in the §2Dwarven Mines§7.",
               "",
-              "§8§l* §8Soulbound §8§l*",
-              "§d§lMYTHIC CLOAK"
+              "§8§l* §8Co-op Soulbound §8§l*",
+              "§9§lRARE CLOAK"
             ],
             "internalname": "_"
           },
           "37": {
             "itemid": "minecraft:skull",
-            "displayname": "§6Snowy Magma Lord Gauntlet",
-            "nbttag": "{HideFlags:254,SkullOwner:{Id:\"5aa6d1ce-ce5d-3695-99f7-4aeb5b77c956\",hypixelPopulated:1b,Properties:{textures:[0:{Signature:\"I9xFl5Njyycf/sobg4tQdtMnfWYfhKG9etiEbx96FRz/pbY0dsnC6f2JHyQugVIIRYtAme27BP+VXUkyvjyzHl6iLdcmCzoW0JCASYvx24phJfEmSQ0SnRlMV+aqu+JEVCBTjCxaztSj/UcwVRzwzHEJr9E4xjwszu/hHok9lI8BRT8QtaWHHBaF4+rdd6UQjkaey3xuJ5VwCP/V1ZioaHzOkfT62/3k5vBRXDkr7O3/ah5xd34P4+exnzVlcKYimjcmRlGe31G+yfqByivymA2K427aqE9NaQ5s/cwL428tSTjHNQKE0NqRju7y51GpF15hm6Bos595BDxyBlovZ+3xxtHSckEjHLzTE+w07NfGkUiSOnzn+6L83NDWbfSK0oEzpvrUtes1dwIPAdEgLW5D5fK6kG4Yey7UVUoadwxCcNbUUtYcilkW93cx/MGRNRM1KaMwNHM0Ee/NNZy7/pzT16BFB8Nhp6rVoEXF0SuH8T6RYxu7HgDUIjcBgauTpypYlprPihk0sCp3cIPXTHpC/2ThDu87SUjKO9J74eVstrHw+mGczhVDTTQ/DbrJ2LXJVmTGEkSi4v3wfqtGhR1K4Vi5qR8x2M3xdfmXkKymZmLuRpZdMJ1ezaW4N/ZE+5O2Emg97G06P480NIt3vQ1SxkSa9nXrRK67dD5tdP4\u003d\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY1MDM3OTExMjUxMywKICAicHJvZmlsZUlkIiA6ICJkOGNkMTNjZGRmNGU0Y2IzODJmYWZiYWIwOGIyNzQ4OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJaYWNoeVphY2giLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTY4YTJiZmU2ZTU2ZGRlYTEwM2RlOGNlYzAwMGVmYTgzZWJiOWE5NTljNjhkODI0MDI1NDNjMDFkNDEzN2QyNiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]}},display:{Lore:[0:\"§7Strength: §c+10\",1:\"§7Crit Damage: §c+30%\",2:\"§7Sea Creature Chance: §c+2.3% §9(+0.8%)\",3:\"§7Health: §a+35\",4:\"§7Fishing Speed: §a+2.5 §9(+2.5)\",5:\"§7Ferocity: §a+2\",6:\"\",7:\"§8Tiered Bonus: Fireproof (1/2)\",8:\"§7Provides immunity to §cCrimson Isle\",9:\"§cLava§7.\",10:\"\",11:\"§8Tiered Bonus: Lord\u0027s Blessing (1/5)\",12:\"§7Grants §3+1α Sea Creature Chance§7.\",13:\"§7Grants §b+15✯ Magic Find §7on Lava Sea\",14:\"§7Creatures.\",15:\"\",16:\"§7Damage taken by §cLava Sea\",17:\"§cCreatures §7is reduced by §a5% §7and\",18:\"§7damage dealt is increased by §c1.1x§7.\",19:\"\",20:\"§8§l* §8Co-op Soulbound §8§l*\",21:\"§6§l§ka§r §6§lLEGENDARY GLOVES §6§l§ka\"],Name:\"§6Snowy Magma Lord Gauntlet\"},ExtraAttributes:{rarity_upgrades:1,modifier:\"snowy\",id:\"MAGMA_LORD_GAUNTLET\",uuid:\"69920347-9428-471a-869b-41ec2faf48de\",donated_museum:1b,timestamp:1745861761730L}}",
+            "displayname": "§6Royal Dwarven Handwarmers",
+            "nbttag": "{HideFlags:254,SkullOwner:{Id:\"7832fa38-404c-3f31-a749-66fe3422bf4e\",hypixelPopulated:1b,Properties:{textures:[0:{Signature:\"qrE6sT7y5+VtWG/pWsUoxoTxp/aPXrpbbF5H6alxNRai2y3Syi1VvG380XLBqo5Pvsd/RAHq8AvkNYAJyFL0M4tkIdjmy4nCpIF0PC4vqf1Yph0opY55laeAhdbAzXBz9Bgx+yZDmVvqbIUWO30RwsHFlOPnqOH8VOOOEOdnYhdBcaRXhLlAY+yH1Hn5p9B2IfbZ9VEiAX5oXSuAxWvPbqumLtw+aQ21IF3Didu+RCM6OOmgbyxOL7HDQaKib8xeWzUGbHoX4K3I9c5cdbBFziOumh01droAULCptleJ/YX9hP3Gx9KBxtIZZNjB6ECN3QIX3i3ubYjzDiCNij5wJ8ZfuXuMv0b3BiaiQVcaQOTxFoygB/XD6bwidMxQxCTqZngCxK/oWyZ/KRuWNHJR+wcCM2UUpWcnrl4+vOvPjkWLCenZY1i5qYh3TfnUuFdKTvLFhNcDNZTcHxx99YugL4Bk8dDKbTvV//1iEQKHmAwqpEOTYBPo0XzQCZgB8dq1N9C7usRwoTvPtSzXR5yjnFMNQt6WGIElAva8JGSwXmpZiNNBgWVKzHSoT054yWp4AfMRw7dwXE1UCXQIuZ4Da+DL7SOEcLm0NiJiN6spAxxYkwIW2/jfdJ4SPcWYfy3CorkMSJsrXSczf16ugrFuAdoeRVTUNZIORAPkjae8PRc\u003d\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcwOTA2MTI0Njg1MywKICAicHJvZmlsZUlkIiA6ICJjYTU4NzNhYmY0Y2U0YWUxODAxZmVmODgzNjhlMWExNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJEZXRocm9uZXMiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzMwMWQ5ZjliNmYxOGRkZWVjYzU3YjUyMjkxNmNjNzU2NmMzOTdkNjQ5ZjIzYzMxOGUzZjVlZjY3Y2JjZjI2NiIKICAgIH0KICB9Cn0\u003d\"}]}},display:{Lore:[0:\"§7Cold Resistance: §a+5\",1:\"§7Mining Speed: §a+59 §9(+14)\",2:\"§7Mining Fortune: §a+33 §9(+3)\",3:\"\",4:\"§9Royal Bonus\",5:\"§7Earn §2+5% ᠅ Mithril Powder §7from\",6:\"§7§bMining Events §7in the §2Dwarven Mines§7.\",7:\"\",8:\"§6§l§ka§r §6§lLEGENDARY GLOVES §6§l§ka\"],Name:\"§6Royal Dwarven Handwarmers\"},ExtraAttributes:{rarity_upgrades:1,modifier:\"royal\",id:\"DWARVEN_HANDWARMERS\",uuid:\"ec150241-8048-4a98-a044-51efd77cc650\",timestamp:1754439115574L}}",
             "damage": 3,
             "lore": [
-              "§7Strength: §c+10",
-              "§7Crit Damage: §c+30%",
-              "§7Sea Creature Chance: §c+2.3% §9(+0.8%)",
-              "§7Health: §a+35",
-              "§7Fishing Speed: §a+2.5 §9(+2.5)",
-              "§7Ferocity: §a+2",
+              "§7Cold Resistance: §a+5",
+              "§7Mining Speed: §a+59 §9(+14)",
+              "§7Mining Fortune: §a+33 §9(+3)",
               "",
-              "§8Tiered Bonus: Fireproof (1/2)",
-              "§7Provides immunity to §cCrimson Isle",
-              "§cLava§7.",
+              "§9Royal Bonus",
+              "§7Earn §2+5% ᠅ Mithril Powder §7from",
+              "§7§bMining Events §7in the §2Dwarven Mines§7.",
               "",
-              "§8Tiered Bonus: Lord\u0027s Blessing (1/5)",
-              "§7Grants §3+1α Sea Creature Chance§7.",
-              "§7Grants §b+15✯ Magic Find §7on Lava Sea",
-              "§7Creatures.",
-              "",
-              "§7Damage taken by §cLava Sea",
-              "§cCreatures §7is reduced by §a5% §7and",
-              "§7damage dealt is increased by §c1.1x§7.",
-              "",
-              "§8§l* §8Co-op Soulbound §8§l*",
               "§6§l§ka§r §6§lLEGENDARY GLOVES §6§l§ka"
             ],
             "internalname": "_"
           },
           "10": {
             "itemid": "minecraft:skull",
-            "displayname": "§6Glistening §dRift Necklace",
-            "nbttag": "{HideFlags:254,SkullOwner:{Id:\"ad049247-1862-300f-a0db-dfd5cf5f6220\",hypixelPopulated:1b,Properties:{textures:[0:{Signature:\"FzgY6lZN6PQ1XTZPQoqvDUTMg6uM8Q5g6DMJi2LfxqOQKGgcV1exkBxRJDEzlPZafg/anFsxaovU6wocV+naHSqLiltkJAbTEByg3IKXfT3mThzVfVckZDJ1xo1SfspYlw60P15oquJ8oE9KLZDGTr4VL7r4ps51df8QyVDZ772qW5mOHzwTuarFoH6zJyz/DjFTAPBOKeV790yuGKIeS69K8L/cVHjR8c5SqEDvVYdjXNHEk9q4q+FX0FInxuw1JkjYOIHXrlYwj2OJpIAMjHXBbCyhCrkZnq7uEJ46XJ02SThjL6ozKUh3ueda7ReKtP7YypOTy96FScf7+jgPr6OlS/fKLNHowABLfC1nb7iKPWENTxE9l/EX6Q0GKoGzO0oxDxGk6YGk4XQjfTa9dOh2v8IBPVYayGlkHNaEkLgcq7z94a83X/NFq8kw6oD+nNb+COhVU7hDud2e+a7Ij79XdA2oziX/PZFq5vQNbKT9yAHPomhCrPszdbs5Re34kpo8z93UKRrWuPEWb+p1Xyr4kB8M5xkJlaYO/JIJ/C5/7/S7S+SvM5Eg7KS/KjBgnnt3hyVxdDTVCfUs9dvLs9ztbYnPoY0lL8BddGN6DnbV1Ejk1GzBGu2+AhRbICRy7/vx+2E3UrurIRJZs91hS2oSZAV6Jxh5RITzzDdwhs0\u003d\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0Nzg2ODQ3MDQxOCwKICAicHJvZmlsZUlkIiA6ICIwNjNhMTc2Y2RkMTU0ODRiYjU1MjRhNjQyMGM1YjdhNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJkYXZpcGF0dXJ5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzljMDg5NDkzMWE1MTAzODdlNGY2MTM4MjhmMDIzOWNhNGQ5MDg1MzQ5OTYzN2Y2MDc5ZDM5MzI3ZjE0NmYwZTkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ\u003d\u003d\"}]}},display:{Lore:[0:\"§7Strength: §c+25\",1:\"§7Health: §a+150\",2:\"§7Defense: §a+30\",3:\"§7Intelligence: §a+97 §9(+12)\",4:\"§7Magic Find: §a+8\",5:\"§7True Defense: §a+4 §9(+4)\",6:\"§7Combat Wisdom: §a+1\",7:\"§7Farming Wisdom: §a+1\",8:\"§7Enchanting Wisdom: §a+1\",9:\"\",10:\"§7A very powerful piece of equipment\",11:\"§7originating from the §dRift Dimension§7.\",12:\"\",13:\"§7Becomes more powerful as you fill\",14:\"§7the §dRift Gallery§7.\",15:\"§7Secured: §c8/8 Timecharms\",16:\"\",17:\"§8§l* §8Soulbound §8§l*\",18:\"§6§lLEGENDARY NECKLACE\"],Name:\"§6Glistening §dRift Necklace\"},ExtraAttributes:{modifier:\"glistening\",id:\"RIFT_NECKLACE_OUTSIDE\",uuid:\"e2a80371-3f5f-49ed-a186-faa7b04d239f\",donated_museum:1b,timestamp:1738426767908L}}",
+            "displayname": "§9Royal Titanium Necklace",
+            "nbttag": "{HideFlags:254,SkullOwner:{Id:\"76c2d18b-6cba-36a8-bd27-787014c91604\",hypixelPopulated:1b,Properties:{textures:[0:{Signature:\"oODHpPsVhDyPjRXl2OKTSUPBzjxUuU+u8o7Nu+ezlGDolA0FuQGK4E1s5CHxoCd0SPw8ayj9uTgMmQNGqiJ2kHTpVE4XA2s2dEmX1FK3q3UtveT7bA3B5t7j/IUO+jaKaEQq/czBRoHFeSvx2UShchGG71/M6U4mNYwEgzCj7qCIQr2nD8Sf+oZNnkRNVz4C3c5Wg3he+Ngs6unbCNkYPTBZySHPs/9RXGNka39hMZCQO0bo9nwjusyZ1ThJ5bYCCFpAKyilDcW8Oi0TFSJjf2UcghZq1BzBtsIYRJe4ap8EMUiZKoOCCVJJ053ArHmD27qA5MEUmFXGKmx2eDfmJQljxe5z4MKu0UxCmhNIFdorL8yhCuBL+xD54tFtjjuP1UusxwZbglCi+PPVy1JlO536HLEaEh+8TJhI803pTRYqGRGWs749NTW0QWvSdoWLqW9c1rP07J+UBw5dBKhndYdBoI0M1Z0YF4aaxCkpThVgK8ic3AVC8itWnKuSMH/f5064a+A8CnPCaqNYkYRBgue2r2SYxHhYgZgymaX2jw5syW5aJP+x7LVqXZmbSfvL+LfE3JEV10KpC4yNi2ykBdA2+epUDQDZ/jvXM7CsZMDRSPx/HCa9rtT717mbCYsvzt4KIhSCSnqi+eqCmRBr9B18QeK+x3CU1+WsqOOYkNA\u003d\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjQ5NzEwMiwKICAicHJvZmlsZUlkIiA6ICI3Mjc2ZThmYzVkNjE0ODNjYmMwN2IxYjIzNjI3MDA4ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJXYWJvV2ViaSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80ZjNiOTFiNmFhNzEyNGYzMGVkNGFkMWIyYmIwMTJhODI5ODVhMzM2NDA1NTVlMThlNzkyZjk2YWY4ZjU4ZWM2IgogICAgfQogIH0KfQ\u003d\u003d\"}]}},display:{Lore:[0:\"§7Mining Speed: §a+38 §9(+8)\",1:\"§7Mining Fortune: §a+12 §9(+2)\",2:\"\",3:\"§7Grants §6+10☘ Mining Fortune §7while\",4:\"§7mining §2Mithril §7and §fTitanium§7.\",5:\"§7\",6:\"§6Full Set Bonus: True Dwarf §7(3/4)\",7:\"§7Grants §6+50⸕ Mining Speed §7and §6+40☘\",8:\"§6Mining Fortune §7while in the §2Dwarven\",9:\"§2Mines§7.\",10:\"\",11:\"§9Royal Bonus\",12:\"§7Earn §2+5% ᠅ Mithril Powder §7from\",13:\"§7§bMining Events §7in the §2Dwarven Mines§7.\",14:\"\",15:\"§8§l* §8Co-op Soulbound §8§l*\",16:\"§9§lRARE NECKLACE\"],Name:\"§9Royal Titanium Necklace\"},ExtraAttributes:{modifier:\"royal\",id:\"TITANIUM_NECKLACE\",uuid:\"374a6bf8-eabd-487d-a8ab-c110d6c0364b\",donated_museum:1b,timestamp:1737328366159L}}",
             "damage": 3,
             "lore": [
-              "§7Strength: §c+25",
-              "§7Health: §a+150",
-              "§7Defense: §a+30",
-              "§7Intelligence: §a+97 §9(+12)",
-              "§7Magic Find: §a+8",
-              "§7True Defense: §a+4 §9(+4)",
-              "§7Combat Wisdom: §a+1",
-              "§7Farming Wisdom: §a+1",
-              "§7Enchanting Wisdom: §a+1",
+              "§7Mining Speed: §a+38 §9(+8)",
+              "§7Mining Fortune: §a+12 §9(+2)",
               "",
-              "§7A very powerful piece of equipment",
-              "§7originating from the §dRift Dimension§7.",
+              "§7Grants §6+10☘ Mining Fortune §7while",
+              "§7mining §2Mithril §7and §fTitanium§7.",
+              "§7",
+              "§6Full Set Bonus: True Dwarf §7(3/4)",
+              "§7Grants §6+50⸕ Mining Speed §7and §6+40☘",
+              "§6Mining Fortune §7while in the §2Dwarven",
+              "§2Mines§7.",
               "",
-              "§7Becomes more powerful as you fill",
-              "§7the §dRift Gallery§7.",
-              "§7Secured: §c8/8 Timecharms",
+              "§9Royal Bonus",
+              "§7Earn §2+5% ᠅ Mithril Powder §7from",
+              "§7§bMining Events §7in the §2Dwarven Mines§7.",
               "",
-              "§8§l* §8Soulbound §8§l*",
-              "§6§lLEGENDARY NECKLACE"
+              "§8§l* §8Co-op Soulbound §8§l*",
+              "§9§lRARE NECKLACE"
             ],
             "internalname": "_"
           },
           "28": {
             "itemid": "minecraft:skull",
-            "displayname": "§6⚚ Waxed Adaptive Belt §6✪✪✪✪✪",
-            "nbttag": "{HideFlags:254,SkullOwner:{Id:\"4bb0501d-0ae5-3099-b138-aed4293e17c8\",hypixelPopulated:1b,Properties:{textures:[0:{Signature:\"tzy5n27v67pfb6vcQ2y0YXI1CK60UBzYVBMluZVr7M/7l6L5hZkxVg5fcViEi8gcL26rCPc4QEJth6jW2kzmgjt1HOVrmenBY5/p+m0U0GD2jk4Zny6IHC0cAE8Pbi8zQwfRgi7au5Jv+N9WnbN3UMJ9W+VcSNG4DgYy6nO8aO/VwuFDoPwjqVOi3m4oXwGWTo/qWBSRQtNXPGeOfu+x4MGKKIAi4HyV5YsJCWA3NDBP4I02ntOIBw1jOHmn+Bsbc2mE+WV+nsuGUez1wQigDKJ1RUiNMc3Dv35bnZd3l86UwbX63M28KcLCSNmx+VBLyGXu4IxnMRWJ+foeOFLtwZZZ5Ia1LPO5dstNxpUgAIWOVWVDxJTx0z4K48CO7oNj9q82jNlfDLjg6ciXdYfCqKdXouUBZDxGgAabywyUxEzKrVsWj4M9AG0RnRhpppBzzUrSowUqavq+oqsL+vt3z4pI1GT/S2eWcPSkShfXmQNyjdwPD1T/hNzpe8rW8DQcwn18NHFTcS05lVBJ/SctfliPoTmG51IZtQhckZGlNi1j0mfWVG9juB99wGnGOb0DFo5hnVm1AtDRPQI0abFia8F2g8SE/gD/c8ApgcLQ7YDYyMRqZY+Igy2x/gPlLb2WU/baD2PgaZt3CnftwI2nvUm4QBwjRSkjX7FvadtP9Vk\u003d\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY5MjI5ODI2MTU3NCwKICAicHJvZmlsZUlkIiA6ICIwOWQ3YmJjNGYxZmU0ZjlkYjRiZmE1MTY2NDA3OTcyYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJlemtkIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzcwYmY2ZDc2ZjJhMDNmMzE5ZmZmZTcyNWY4MmI4MGI5MjUyOTFlZmRhMzZkNGRiMjViYWNkN2VhODZhNjU3YyIKICAgIH0KICB9Cn0\u003d\"}]}},display:{Lore:[0:\"§7Strength: §c+11 §8(+44.6)\",1:\"§7Crit Chance: §c+6% §9(+6%) §8(+9.3%)\",2:\"§7Health: §a+28.5 §9(+12) §8(+120.42)\",3:\"§7Defense: §a+11 §8(+44.6)\",4:\"\",5:\"§7Grants additional bonuses based on your\",6:\"§7selected dungeon class!\",7:\"\",8:\"§7§bBerserk§7: §7+§c10❁ Strength\",9:\"§7§bHealer§7: §7+§c10❤ Health§7, +§a5☄ Mending\",10:\"§7§bMage§7: §7+§b25✎ Intelligence\",11:\"§7§bTank§7: §7+§c5❤ Health§7, +§a10❈ Defense\",12:\"§7§bArcher§7: §7+§92☣ Crit Chance§7, +§95☠ Crit Damage\",13:\"\",14:\"§6§l§ka§r §6§lLEGENDARY DUNGEON BELT §6§l§ka\"],Name:\"§6⚚ Waxed Adaptive Belt §6✪✪✪✪✪\"},ExtraAttributes:{rarity_upgrades:1,modifier:\"waxed\",upgrade_level:5,id:\"STARRED_ADAPTIVE_BELT\",uuid:\"e2ad0bbb-93a0-4e3b-9e24-b3f0ceb5f733\",timestamp:1738606624981L}}",
+            "displayname": "§9Royal Titanium Belt",
+            "nbttag": "{HideFlags:254,SkullOwner:{Id:\"cf36dddd-8738-3b10-81e4-dde502d1c0bc\",hypixelPopulated:1b,Properties:{textures:[0:{Signature:\"rUoZSDXACzJhBV7GMsdvG/BvdEn4D3aSXsOpj2KKIG+OqeFtftWYcBaQtWjzQhRCi6nxr/a/Vvx8X4FdGlpBj/bnfERnCztknqu/hbOJDqlw1EzPUjTHqQzK0V24/Vude7sofOkKRXDT9n6+4Fj9mT/74QRQlWlKwtp8lOI3q6t2+HPtUAWQpBCPsSOt5+MQM/eHRFxDBYnyeGAuid1zD9LV3lufMd+5yyr1WTkUZOxvkKl+qBAtlGqC0kOkrkD3obYTmwqZq7cIeDHKDOghfXQIVGwZJmaMy22ucocgIXF2udB78qVhW86+UAXvkRdTmDlLmPj8X5WwwTLrtDRl2ZaiZ12/Q5LCDgJs9gUK4JZvwMQGMAJyeNkpdH326YBg7DSLdu6pdsautXXVspKfs+MGe89/W2HNDDytjukSoyh10cOjHwlt9ap3hTlLZRXP8N33dDl8WnrSoyoy4zug28EkON0/f8yO7mf7P9uoh2YqnNFnSli8+dcCBzE65w2uqgSl6jCfriIpIdQZnD1DTPCbrBqqtBFsbI4WlKuHAJnUGRy2NpRQxPXFBn46Frxb8opv2yL5rMkYHFPXD6amW0b2P2OTUqtGxmyIYMZjRkKoEQ+78E1MPOspl/KCYDv5k9S4uAcHHDcyb5sHQp3/0hRCJpq2amlixmVFov3eixg\u003d\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjU2MDkxNywKICAicHJvZmlsZUlkIiA6ICIyMDJiZWVlYWY4NTk0MmQ0ODI3NGJjNzYwM2VhYWZhZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSaWtvcjk4NiIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80MTYyMzAzYmNkZDc3MGFlYmU3ZmQxOWZhMjYzNzEzOTBhNzUxNTE0MDM1ODU0ODA4NDM2MWI1MDU2Y2RjNGU2IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0\u003d\"}]}},display:{Lore:[0:\"§7Mining Speed: §a+38 §9(+8)\",1:\"§7Mining Fortune: §a+12 §9(+2)\",2:\"\",3:\"§7Grants §6+10☘ Mining Fortune §7while\",4:\"§7mining §2Mithril §7and §fTitanium§7.\",5:\"§7\",6:\"§6Full Set Bonus: True Dwarf §7(3/4)\",7:\"§7Grants §6+50⸕ Mining Speed §7and §6+40☘\",8:\"§6Mining Fortune §7while in the §2Dwarven\",9:\"§2Mines§7.\",10:\"\",11:\"§9Royal Bonus\",12:\"§7Earn §2+5% ᠅ Mithril Powder §7from\",13:\"§7§bMining Events §7in the §2Dwarven Mines§7.\",14:\"\",15:\"§8§l* §8Co-op Soulbound §8§l*\",16:\"§9§lRARE BELT\"],Name:\"§9Royal Titanium Belt\"},ExtraAttributes:{modifier:\"royal\",id:\"TITANIUM_BELT\",uuid:\"4c32d515-9d6a-4def-b917-7c09a8ace296\",donated_museum:1b,timestamp:1737340244140L}}",
             "damage": 3,
             "lore": [
-              "§7Strength: §c+11 §8(+44.6)",
-              "§7Crit Chance: §c+6% §9(+6%) §8(+9.3%)",
-              "§7Health: §a+28.5 §9(+12) §8(+120.42)",
-              "§7Defense: §a+11 §8(+44.6)",
+              "§7Mining Speed: §a+38 §9(+8)",
+              "§7Mining Fortune: §a+12 §9(+2)",
               "",
-              "§7Grants additional bonuses based on your",
-              "§7selected dungeon class!",
+              "§7Grants §6+10☘ Mining Fortune §7while",
+              "§7mining §2Mithril §7and §fTitanium§7.",
+              "§7",
+              "§6Full Set Bonus: True Dwarf §7(3/4)",
+              "§7Grants §6+50⸕ Mining Speed §7and §6+40☘",
+              "§6Mining Fortune §7while in the §2Dwarven",
+              "§2Mines§7.",
               "",
-              "§7§bBerserk§7: §7+§c10❁ Strength",
-              "§7§bHealer§7: §7+§c10❤ Health§7, +§a5☄ Mending",
-              "§7§bMage§7: §7+§b25✎ Intelligence",
-              "§7§bTank§7: §7+§c5❤ Health§7, +§a10❈ Defense",
-              "§7§bArcher§7: §7+§92☣ Crit Chance§7, +§95☠ Crit Damage",
+              "§9Royal Bonus",
+              "§7Earn §2+5% ᠅ Mithril Powder §7from",
+              "§7§bMining Events §7in the §2Dwarven Mines§7.",
               "",
-              "§6§l§ka§r §6§lLEGENDARY DUNGEON BELT §6§l§ka"
+              "§8§l* §8Co-op Soulbound §8§l*",
+              "§9§lRARE BELT"
             ],
             "internalname": "_"
           }
         },
-        "magicalPower": 1088,
-        "chestCount": 267,
-        "openedChestCount": 130,
+        "magicalPower": 1195,
+        "chestCount": 18440,
+        "openedChestCount": 17241,
         "mithrilPowderFound": 0,
-        "gemstonePowderFound": 62403,
+        "gemstonePowderFound": 7984079,
         "abiphoneFavouriteContacts": [],
         "abiphoneShowOnlyFavourites": false,
         "hotmTree": {
-          "Mole": 1,
-          "Efficient Miner": 1,
-          "Quick Forge": 12,
+          "Mole": 200,
+          "Efficient Miner": 98,
+          "Quick Forge": 20,
           "Precision Mining": 1,
-          "Mining Fortune": 1,
-          "Titanium Insanium": 21,
-          "Mining Speed": 1,
-          "Keep It Cool": 1,
-          "Lonesome Miner": 1,
-          "Great Explorer": 13,
+          "Mining Fortune": 21,
+          "Titanium Insanium": 45,
+          "Mining Speed": 45,
+          "Keep It Cool": 41,
+          "Lonesome Miner": 45,
+          "Great Explorer": 1,
           "Daily Powder": 1,
-          "Seasoned Mineman": 1,
-          "Front Loaded": 1
+          "Seasoned Mineman": 100,
+          "Front Loaded": 1,
+          "Fortunate Mineman": 50,
+          "Speedy Mineman": 50,
+          "Powder Buff": 50,
+          "Blockhead": 20,
+          "Subterranean Fisher": 40,
+          "Gem Lover": 20,
+          "Daily Grind": 1,
+          "Professional": 140,
+          "Sky Mall": 1,
+          "Old-School": 20,
+          "Luck of the Cave": 40,
+          "No Stone Unturned": 1,
+          "Strong Arm": 72,
+          "Steady Hand": 1
         },
         "hasConsumedRiftPrism": false,
         "abiphoneMagicPower": 2
       },
       "Raspberry": {
-        "godPotionDuration": 10800000,
+        "godPotionDuration": 61200000,
         "puzzlerCompleted": 1741887503701,
         "firstCakeAte": 1750624057536,
         "fetchurCompleted": 0,
@@ -995,13 +996,13 @@
           },
           {
             "finishTime": 0,
-            "status": 1,
+            "status": 0,
             "forgeID": 2,
             "fromScoreBoard": true
           },
           {
             "finishTime": 0,
-            "status": 1,
+            "status": 0,
             "forgeID": 3,
             "fromScoreBoard": true
           },
@@ -1056,66 +1057,92 @@
         "savedEquipment": {
           "19": {
             "itemid": "minecraft:skull",
-            "displayname": "§5Enigma Cloak",
-            "nbttag": "{HideFlags:254,SkullOwner:{Id:\"0854e3e8-06e6-376d-8d07-5fef1705a666\",hypixelPopulated:1b,Properties:{textures:[0:{Signature:\"CfTVFXLxftB0CfAoZd5G3W6EwWHiJCtja3bIyB4vdjACtXP4vQ6Oy5A3lDP5Xig9f9QUt4rCs01VVex7JyLQi8EzOTPEq6fUupd7p4zA7UOld0oMkehlY//Tu1sNQku5tPACwio7RyYfrfuREHs6w1ftVm9484oQs88Yn8Q36dzh6+7HKc5a6EVVgD9VS9C0JFP8huyHB1tocZj5dkUsIw8MfT/BKPp1ClFLqFEJBDEpZcjY8ACJ8mTqFSWH/LBdTsqLY2GcDObsNP04XH5ybFg29xQgLE9GgXCehb/KzFwhWaxMwswS0kJvputV305GgPtI75BKzYpaZ6smxS2JLOLy3a8uB5bAknPiznynU5uWQOphJliWGP72X5If6DNFKt64b75K3hol5g2ArO0436Kfj9kZs+wMDmeT2LrUoW0X/6NEed41yv+IEpFiE1yh4fi57kKRVyPO1RFi+Z4TL4FiJ/K6y76k/OJ4F7xD3IYjMbntlfuDACxy6o7ZthkD1XUMN6myZ+6qrbUbneRj9rWQ19gGY50RRPCxfUX/un6o4Hl5tkCAwpAxC7IJIb2Pzg9MYS+WYBnDru5/PgvStCeW0MfIHG2IIhsBh09bZFTjSllhzPs8ZssKm8Yds6gSLyLTNsEZN0vM0hWiTfRQ2VksDOkoa5X9twt0/H+taoA\u003d\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY4NDMzODg4MzYzMSwKICAicHJvZmlsZUlkIiA6ICIzYTE5NDgyNTYyZTc0MzFkYmNmOGUwOWE4N2VhMmQ5OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNckxpYW0yNjE0IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzdjZDliOTNjODg4MmRjMmJlZmU5YzEzZDc2NTlhMzM4ZWI3NDU0YjhhMThlNzUzMTBkZjA1MTAxOTRlMmQ3YTEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ\u003d\u003d\"}]}},display:{Lore:[0:\"§7Find §5Enigma Souls §7across the Rift\",1:\"§7Dimension.\",2:\"\",3:\"§7Each adds §a+§a20ф Rift Time §7to this item.\",4:\"\",5:\"§7Every §54 Souls§7, go back to §5Enigma §7for\",6:\"§7more upgrades.\",7:\"\",8:\"§7You found: §d33§5/52 Souls\",9:\"\",10:\"§5§lEPIC CLOAK\"],Name:\"§5Enigma Cloak\"},ExtraAttributes:{id:\"ENIGMA_CLOAK\",uuid:\"92f7bc0e-71de-4d46-a884-21614ff0f4ee\",timestamp:1741973950154L}}",
+            "displayname": "§6⚚ Glistening Shadow Assassin Cloak §6✪✪✪✪✪",
+            "nbttag": "{HideFlags:254,SkullOwner:{Id:\"0df7b9de-be8c-3836-9cda-9e6ca546daf8\",hypixelPopulated:1b,Properties:{textures:[0:{Signature:\"E2+21vF+mbIwzzwWnQ7d8N7/Sr5cisgTlW5NCJGY1hjpB/wOlO5cswKUzTdeWP7Z8Z31TmEyPs0gfC9Cje4c+a2XpVTssJYzSlXx7K811nP93ygJGLTKz/+B/tX5s3Ij7cLr3INwBd9aSFPfJzi5JszZyop6wuXDau4miB0WDAF2AW1Ln+PFUpWmrR/h9gvYqQxj/qKRyyZN8gYfRRdDeQjO/TEujIHanNMCcDW1Qp5h9HkSTXcq7SvXWNh09q8mDuGpB4tOg41DGND+CeQCQr6MAjIwYLQC8KeIkwBc3c0GAIzAUtCWrY0hNvRmd1EPcdQqbE6qn50NoJEpBMHKXh4RmCL7zhDeK1hGq3NcHXdfn6EOtu6+FPe0iSJ3aZ2Qquzyr72DUWKtbKp4eps7YUGuOZ+kZNR0dNBp67Ki9zCn9IN84fsgFTP/DT2vFix2jdVqhlX1AadmPVZfZBiH6CZ+B1drQMHaHoz1kqPBLNCSNJpeBikiGc4/LCnjXayNswqbRHKs06BPBlCbN6w1yyR/bYdqpn9l3t2o7/kRSVXMRP16hyK4ZnzBATgg0p5dzt5yp2cP+FC9UIidaDjc6klDo3GHdbUCC8IJ436QB7yvO80SUupayFtcEI4k/tJH8s3OP5Rexn6J5tNlENYlFlX3roGqDWUTAty1Xnvk2c8\u003d\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY5MjI5ODIwNzA1MywKICAicHJvZmlsZUlkIiA6ICIzZWUxYWRlMzljZDI0ZjFkOWYwODliYjA2ZTkzNTY5YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSdXNvR01SIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2ZhMjQzMTE0ODU3MmZlZDdiYzFlYWNmMGQyMjlkZGIyMTE1ZDFhMmNhMTgxZDMyM2QzZmNhNTIyNmU1MTZhMWQiCiAgICB9CiAgfQp9\"}]}},display:{Lore:[0:\"§7Strength: §c+27.5 §8(+94.75)\",1:\"§7Speed: §a+5.5 §8(+18.95)\",2:\"§7Intelligence: §a+12 §9(+12) §8(+45.48)\",3:\"§7True Defense: §a+4 §9(+4) §8(+6.16)\",4:\"\",5:\"§7On teleport: Your next melee hit\",6:\"§7within §a5s §7deals §c10% §7more damage.\",7:\"\",8:\"§6§lLEGENDARY DUNGEON CLOAK\"],Name:\"§6⚚ Glistening Shadow Assassin Cloak §6✪✪✪✪✪\"},ExtraAttributes:{modifier:\"glistening\",upgrade_level:5,id:\"STARRED_SHADOW_ASSASSIN_CLOAK\",uuid:\"f7c390b4-4a35-49aa-870f-f2c6a065e4f6\",timestamp:1742038116288L}}",
             "damage": 3,
             "lore": [
-              "§7Find §5Enigma Souls §7across the Rift",
-              "§7Dimension.",
+              "§7Strength: §c+27.5 §8(+94.75)",
+              "§7Speed: §a+5.5 §8(+18.95)",
+              "§7Intelligence: §a+12 §9(+12) §8(+45.48)",
+              "§7True Defense: §a+4 §9(+4) §8(+6.16)",
               "",
-              "§7Each adds §a+§a20ф Rift Time §7to this item.",
+              "§7On teleport: Your next melee hit",
+              "§7within §a5s §7deals §c10% §7more damage.",
               "",
-              "§7Every §54 Souls§7, go back to §5Enigma §7for",
-              "§7more upgrades.",
-              "",
-              "§7You found: §d33§5/52 Souls",
-              "",
-              "§5§lEPIC CLOAK"
+              "§6§lLEGENDARY DUNGEON CLOAK"
             ],
             "internalname": "_"
           },
           "37": {
-            "itemid": "minecraft:stained_glass_pane",
-            "displayname": "§7Empty Equipment Slot",
-            "nbttag": "{display:{Lore:[0:\" §8\u003e Gloves\",1:\" §8\u003e Bracelet\"],Name:\"§7Empty Equipment Slot\"}}",
-            "damage": 8,
+            "itemid": "minecraft:skull",
+            "displayname": "§5Glistening Gauntlet of Contagion",
+            "nbttag": "{HideFlags:254,SkullOwner:{Id:\"b41b7bec-a56f-35cf-ab15-533505562b0e\",hypixelPopulated:1b,Properties:{textures:[0:{Signature:\"W5HllbRQ4F3zOr1zHL8PxcX7j30uuckKpZdo1wHlFDiB+5w5R8lzEKpSkNRosjoDSgPmwust8exfrJDSPNxkeST16q96xd1Reo8C83BVvZ3uldQk3FrF9XacEVpQVKt+TJCg/5FGefmbQFfwjCSuvoaM2Mn4RRCijKZj8Q8+sVhrDawMRhmOsYLsntPadPxCRO1aTOiVWRx+qxl4aFWiogsPi0veGt+QpbeyTd0nxY9lDPfW5WouZOgokvFO6Erk7RIqRDjnmes0bMyFcpyaUzq5gcI0mmMDU+X2ZEIKm/IJ+QLFSTTY3CZYii+N1cSeU+WjECCLHCPJSXL9fK9IfPo0i61rMBns5WUhXMl93EJ+s121NTh7vy71P5JGsNGIp/xB3qelqfCPuCBHYRp0fodGy5QHFBNiOEXjCy5vzmzhVUSvabKA78TrsHcgOIin1/6JnRmPG5wZAbR8WTUubi89C9kPP7UaIi2tlPWtz7hxvozUEtWkqnV3p6r8oNbNYy+Yy2uYWgVqPWVmtfS4gF9hXHrqyT21SpV3d8Sb6qMF5+pEAg7jEZqNfJjv4zdi88y/JjA0WHbiI5mji4a3qZzc01zMQMH/Dqx4oh1oHYdiIfepwfZsBYw0vwfunbhBjRFyooT7aU+GAV0iOJq7+w9LipGSCzyTvbfbFJCKyQw\u003d\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0NDUwMDQ1MTI0MCwKICAicHJvZmlsZUlkIiA6ICJjMDNlZTUxNjIzZTU0ZThhODc1NGM1NmVhZmJjZDA4ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJsYXltYW51ZWwiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzdkNzViOGNmNzY1N2IwZGI3YzhmMTJjOGM3MzgzN2FhYTQxMDQ4ZTIwZTMzZmQwNTJlODU1YTQ3YmMwOTc3NiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]}},display:{Lore:[0:\"§7Strength: §c+15\",1:\"§7Health: §a+20\",2:\"§7Defense: §a+10\",3:\"§7Intelligence: §a+10 §9(+10)\",4:\"§7True Defense: §a+3.5 §9(+3.5)\",5:\"\",6:\"§7§mArthropod Resistance I§r§7, §7§mBlazing Resistance I\",7:\"\",8:\"§6Ability: Contaminate\",9:\"§7Killing an enemy causes an explosion\",10:\"§7dealing §a10% §7of their total §c❤ Health\",11:\"§c§7as damage to all enemies within §a2\",12:\"§ablocks§7. Enemies in the blast radius\",13:\"§7will also be §6contaminated §7causing\",14:\"§7them to explode on death.\",15:\"\",16:\"§5§lEPIC GLOVES\"],Name:\"§5Glistening Gauntlet of Contagion\"},ExtraAttributes:{modifier:\"glistening\",attributes:{blazing_resistance:1,arachno_resistance:1},id:\"GAUNTLET_OF_CONTAGION\",uuid:\"a110feb7-70f8-426b-b348-29b2883bdd73\",timestamp:1740787007140L}}",
+            "damage": 3,
             "lore": [
-              " §8\u003e Gloves",
-              " §8\u003e Bracelet"
+              "§7Strength: §c+15",
+              "§7Health: §a+20",
+              "§7Defense: §a+10",
+              "§7Intelligence: §a+10 §9(+10)",
+              "§7True Defense: §a+3.5 §9(+3.5)",
+              "",
+              "§7§mArthropod Resistance I§r§7, §7§mBlazing Resistance I",
+              "",
+              "§6Ability: Contaminate",
+              "§7Killing an enemy causes an explosion",
+              "§7dealing §a10% §7of their total §c❤ Health",
+              "§c§7as damage to all enemies within §a2",
+              "§ablocks§7. Enemies in the blast radius",
+              "§7will also be §6contaminated §7causing",
+              "§7them to explode on death.",
+              "",
+              "§5§lEPIC GLOVES"
             ],
             "internalname": "_"
           },
           "10": {
             "itemid": "minecraft:skull",
-            "displayname": "§d§dRift Necklace",
-            "nbttag": "{HideFlags:254,SkullOwner:{Id:\"ad049247-1862-300f-a0db-dfd5cf5f6220\",hypixelPopulated:1b,Properties:{textures:[0:{Signature:\"FzgY6lZN6PQ1XTZPQoqvDUTMg6uM8Q5g6DMJi2LfxqOQKGgcV1exkBxRJDEzlPZafg/anFsxaovU6wocV+naHSqLiltkJAbTEByg3IKXfT3mThzVfVckZDJ1xo1SfspYlw60P15oquJ8oE9KLZDGTr4VL7r4ps51df8QyVDZ772qW5mOHzwTuarFoH6zJyz/DjFTAPBOKeV790yuGKIeS69K8L/cVHjR8c5SqEDvVYdjXNHEk9q4q+FX0FInxuw1JkjYOIHXrlYwj2OJpIAMjHXBbCyhCrkZnq7uEJ46XJ02SThjL6ozKUh3ueda7ReKtP7YypOTy96FScf7+jgPr6OlS/fKLNHowABLfC1nb7iKPWENTxE9l/EX6Q0GKoGzO0oxDxGk6YGk4XQjfTa9dOh2v8IBPVYayGlkHNaEkLgcq7z94a83X/NFq8kw6oD+nNb+COhVU7hDud2e+a7Ij79XdA2oziX/PZFq5vQNbKT9yAHPomhCrPszdbs5Re34kpo8z93UKRrWuPEWb+p1Xyr4kB8M5xkJlaYO/JIJ/C5/7/S7S+SvM5Eg7KS/KjBgnnt3hyVxdDTVCfUs9dvLs9ztbYnPoY0lL8BddGN6DnbV1Ejk1GzBGu2+AhRbICRy7/vx+2E3UrurIRJZs91hS2oSZAV6Jxh5RITzzDdwhs0\u003d\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0Nzg2ODQ3MDQxOCwKICAicHJvZmlsZUlkIiA6ICIwNjNhMTc2Y2RkMTU0ODRiYjU1MjRhNjQyMGM1YjdhNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJkYXZpcGF0dXJ5IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzljMDg5NDkzMWE1MTAzODdlNGY2MTM4MjhmMDIzOWNhNGQ5MDg1MzQ5OTYzN2Y2MDc5ZDM5MzI3ZjE0NmYwZTkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ\u003d\u003d\"}]}},display:{Lore:[0:\"§7Rift Time: §a+290s\",1:\"§7Rift Damage: §a+1\",2:\"§7Intelligence: §a+10\",3:\"§7Speed: §a+4\",4:\"§7Mana Regen: §a+15%\",5:\"\",6:\"§7The most powerful necklace ever\",7:\"§7created by §dElise XLIII§7.\",8:\"\",9:\"§7Becomes more powerful as you fill\",10:\"§7the §dRift Gallery§7.\",11:\"§7Secured: §c6/8 Timecharms\",12:\"\",13:\"§8§l* §8Soulbound §8§l*\",14:\"§d§lMYTHIC NECKLACE\"],Name:\"§d§dRift Necklace\"},ExtraAttributes:{id:\"RIFT_NECKLACE_INSIDE\",uuid:\"d3dc0ad2-ba16-4344-acc3-c6f954554a62\",timestamp:1743024769072L}}",
+            "displayname": "§5Glistening Molten Necklace",
+            "nbttag": "{ench:[],HideFlags:254,SkullOwner:{Id:\"edc180da-fb33-3fd0-9d05-52ce80874304\",hypixelPopulated:1b,Properties:{textures:[0:{Signature:\"C5qq8C3ayGnVPZZXs9Uu3FpdvgevofLDmju+5QLejVXcXo/9yFvmVoQP4WqfW46icgCvJR5htEvvDADeqxNLVMHW8lFRSg6FHBr+9V1zhNNblZFvr1HL5UEbH1SYHA7IwmZuY+W5sZjrCnno9+gtUjqPvMcKfc3EJYom4vwWquYHUkREp3560jkYHqRg37xfTXS2xhaAJIHdP8RMYY7tFJgptmNbFFuMK27cjAqD5L73KDFGPrOHv0yRA/7N8YoSjYRqRcBVLaBDwlIZMm3jTXOByYIpSDISgKoONXjl7bU+8UP8UM+rWPPvsmRbkIM5zeKjCnbGbTe2d1FCXmnHwg2kPgRHMMUllq/uJG+vL01lD3YXMoR5fpq2hoCmF655o/HWq7oeaqrZsCYKRV0gIgFPVvd1PPfEjWoHE4W9NYI+Z8aSTplFJzmIdxA9LByQiLNLXpMBk8bibuxKItpijhun4alpV5PhfJEsJ8iPQMPcRi/J/2K7bbThLfhrJEh7yz3VJ2PH9EYldTd39mYT4i/Bw6h2tL9zxZuJ/3Txiv3f1+BJHHyCenkxWHWe0sLreniNelz2y0N16kfQHtegWLwX4IM+fbpYzq6pDN9NR+J60EAEvQrQj5Svr8ZbjZ5cBI+BI2VpknDb9DhXCdtueOFZHpm5dvWb0ZxVdnyZpDU\u003d\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0NzAxNjQxODA4MiwKICAicHJvZmlsZUlkIiA6ICI2NmI0ZDRlMTFlNmE0YjhjYTFkN2Q5YzliZTBhNjQ5OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBcmFzdG9vWXNmIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZiYzBjYTQ0YzY3OGM0ZmI0ZWJlNzNmMTI3MTdmOGFiNmRmM2I1YWI4NjhkMjE3ZTY4YzM2YWFmZTJhZDgwZTQiCiAgICB9CiAgfQp9\"}]}},display:{Lore:[0:\"§7Strength: §c+20\",1:\"§7Health: §a+30\",2:\"§7Defense: §a+20\",3:\"§7Intelligence: §a+10 §9(+10)\",4:\"§7True Defense: §a+3.5 §9(+3.5)\",5:\"§7Vitality: §a+4\",6:\"\",7:\"§9Quantum V\",8:\"§7Grants §4+4♨ Vitality §7on weekdays and\",9:\"§7§3+2☯ §7of a random §3Wisdom §7stat on\",10:\"§7weekends.\",11:\"\",12:\"§7§mExperience II§r§7, §7§mUndead Resistance I\",13:\"\",14:\"§8Tiered Bonus: Molten Core (1/4)\",15:\"§7Gain §a5% §7damage resistance while\",16:\"§7fighting §6Kuudra§7.\",17:\"\",18:\"§5§lEPIC NECKLACE\"],Name:\"§5Glistening Molten Necklace\"},ExtraAttributes:{modifier:\"glistening\",attributes:{experience:2,undead_resistance:1},id:\"MOLTEN_NECKLACE\",boss_tier:1,enchantments:{quantum:5},uuid:\"10e88482-1159-4cb8-9f4b-4bc71b62b77f\",timestamp:1685484780000L}}",
             "damage": 3,
             "lore": [
-              "§7Rift Time: §a+290s",
-              "§7Rift Damage: §a+1",
-              "§7Intelligence: §a+10",
-              "§7Speed: §a+4",
-              "§7Mana Regen: §a+15%",
+              "§7Strength: §c+20",
+              "§7Health: §a+30",
+              "§7Defense: §a+20",
+              "§7Intelligence: §a+10 §9(+10)",
+              "§7True Defense: §a+3.5 §9(+3.5)",
+              "§7Vitality: §a+4",
               "",
-              "§7The most powerful necklace ever",
-              "§7created by §dElise XLIII§7.",
+              "§9Quantum V",
+              "§7Grants §4+4♨ Vitality §7on weekdays and",
+              "§7§3+2☯ §7of a random §3Wisdom §7stat on",
+              "§7weekends.",
               "",
-              "§7Becomes more powerful as you fill",
-              "§7the §dRift Gallery§7.",
-              "§7Secured: §c6/8 Timecharms",
+              "§7§mExperience II§r§7, §7§mUndead Resistance I",
               "",
-              "§8§l* §8Soulbound §8§l*",
-              "§d§lMYTHIC NECKLACE"
+              "§8Tiered Bonus: Molten Core (1/4)",
+              "§7Gain §a5% §7damage resistance while",
+              "§7fighting §6Kuudra§7.",
+              "",
+              "§5§lEPIC NECKLACE"
             ],
             "internalname": "_"
           },
           "28": {
-            "itemid": "minecraft:stained_glass_pane",
-            "displayname": "§7Empty Equipment Slot",
-            "nbttag": "{display:{Lore:[0:\" §8\u003e Belt\"],Name:\"§7Empty Equipment Slot\"}}",
-            "damage": 8,
+            "itemid": "minecraft:skull",
+            "displayname": "§5Glistening Implosion Belt",
+            "nbttag": "{HideFlags:254,SkullOwner:{Id:\"ca91687f-fc70-3294-b3aa-981bb2ae134d\",hypixelPopulated:1b,Properties:{textures:[0:{Signature:\"hsaI8rrPogngwsjOsDSjpIvTF+sKj/i5fPcuUdZMIDHdSXpBIdUa4EIwhDngP502jr06MlfNuKz5NhISmuc4EKTBmRtLnh5kIiGAyvrafMbniwnwacxDUs2Yq4Ryh1mx0KUNzkymEKG+qBbEjP9yCHBT1y8uGH31XPZZCNXlttDFJkJpCgz2qAg7bYlNh3aZF1ZZFsmEfM7ygBwSEQ+vxG3iMcCeBFnUGdwejXWLAu58MK60j2loxMGF/EFPX0qFwd1V0+flgJT3RzNRqbJFDyGUJYacnQtIAPN5NqrHzTPpo9dh4KItfg7GPnyC8/1gjEcHEMecRyYwXybhJ65pSl9PDRl40KkTBTPZxSQfcLMDRApFnE+lH8Z0MEUny5cWHhVuKkHmrzCPTq7tr3aD5QSpoh09sekhVwYASYZyv8SUz7CpArGAzExgOfs+appC61vfsRHKAgxY0BbZiwOmhWutjWMpnN6CD8RP2/81RIB/eZmumpMAVqFs4VbStcKzpl9NoejWz0bmC/2/9q1WL03UmY1205Ja2cE3XRcGsByhAC5n7ZHeJT4iRiuvkM115GRUDVYDmL1B+x+kx97lL0/k2fArzUOqA0TawOr8e+xIlGQlfQi/d2Fe54B3Lh1L2OotbyuXoOq0WDhCTtTBe0sh10JXcfdOAHD51ebX6Vk\u003d\",Value:\"ewogICJ0aW1lc3RhbXAiIDogMTY0MzYwMjI5OTA2MSwKICAicHJvZmlsZUlkIiA6ICI0ZTMwZjUwZTdiYWU0M2YzYWZkMmE3NDUyY2ViZTI5YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJfdG9tYXRvel8iLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjFkMmIwMzZkZDY2NGJiOTBjOWQ0NDNjMTk5OGZiNTI2Mzk4YWI0ZGRkZWI3OWI4NDAxYjE2YjlhNGQxMGJhMyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9\"}]}},display:{Lore:[0:\"§7Defense: §a+70\",1:\"§7Intelligence: §a+10 §9(+10)\",2:\"§7True Defense: §a+3.5 §9(+3.5)\",3:\"\",4:\"§7§mHelp From Above I§r§7, §7§mLifeline I\",5:\"\",6:\"§6Ability: Consolidated \",7:\"§7§7Increases all explosion damage dealt by §a25%§7.\",8:\"\",9:\"§5§lEPIC BELT\"],Name:\"§5Glistening Implosion Belt\"},ExtraAttributes:{modifier:\"glistening\",attributes:{life_regeneration:1,lifeline:1},id:\"IMPLOSION_BELT\",uuid:\"70f6bce7-5d9f-45fb-a7fa-8bc0caef8c1d\",timestamp:1737635389862L}}",
+            "damage": 3,
             "lore": [
-              " §8\u003e Belt"
+              "§7Defense: §a+70",
+              "§7Intelligence: §a+10 §9(+10)",
+              "§7True Defense: §a+3.5 §9(+3.5)",
+              "",
+              "§7§mHelp From Above I§r§7, §7§mLifeline I",
+              "",
+              "§6Ability: Consolidated ",
+              "§7§7Increases all explosion damage dealt by §a25%§7.",
+              "",
+              "§5§lEPIC BELT"
             ],
             "internalname": "_"
           }
@@ -1698,7 +1725,8 @@
           "Amber Gemstone Collector": 1000,
           "Team Treasurite Member Slayer": 13,
           "Thyst Slayer": 5,
-          "Sludge Slayer": 25
+          "Sludge Slayer": 25,
+          "Sapphire Gemstone Collector": 1000
         }
       },
       "mining_3": {
@@ -1721,7 +1749,23 @@
           "Glacite Walker Slayer": 50,
           "Golden Goblin Slayer": 1,
           "Titanium Miner": 15,
-          "2x Mithril Powder Collector": 500
+          "2x Mithril Powder Collector": 500,
+          "Treasure Hoarder Puncher": 10
+        }
+      },
+      "mineshaft": {
+        "commissionMaxes": {
+          "Mineshaft Explorer": 1,
+          "Glacite Collector": 1500,
+          "Tungsten Collector": 1500,
+          "Maniac Slayer": 10,
+          "Umber Collector": 1500,
+          "Citrine Gemstone Collector": 1500,
+          "Onyx Gemstone Collector": 1500,
+          "Corpse Looter": 2,
+          "Scrap Collector": 1,
+          "Peridot Gemstone Collector": 1500,
+          "Aquamarine Gemstone Collector": 1500
         }
       }
     },
@@ -2209,26 +2253,26 @@
       "RIFT_WIZARD_TOWER_PORTAL"
     ],
     "previousAuctionSearches": [
-      "golden dragon",
-      "Jellyfish",
-      "loving storm\u0027s ches",
-      "loving storm ches",
-      "Storm\u0027s Leggings"
+      "Baby Yeti",
+      "Edible Seaweed",
+      "enderman",
+      "Mithril Drill SX-R326",
+      "Mining Exp Boost"
     ],
     "previousBazaarSearches": [
+      "Gleaming Crystal",
+      "Recombobulator 3000",
       "Gold Magmafish",
       "Spooky Shard",
-      "Enchanted Emerald",
-      "Shadow Warp",
-      "Diamante\u0027s Handle"
+      "Enchanted Emerald"
     ],
     "previousProfileSearches": [
-      "kobesbutler",
-      "matteke42",
-      "thomasbaguette",
-      "pkgerald",
-      "hypah",
-      "thedncraft"
+      "debeliculi",
+      "blastingbison",
+      "goth_kyrra",
+      "elite3_",
+      "darkpotatoofline",
+      "viciousvi"
     ],
     "previousRecipeSearches": [
       "Challenging Rod",
@@ -2263,7 +2307,7 @@
     "firstTimeSearchFocus": false,
     "disableBrokenCapes": false,
     "npcRetextureOnSelf": false,
-    "hasOpenedWaypointMenu": false,
+    "hasOpenedWaypointMenu": true,
     "disableClientSideSearch": false
   },
   "dungeonMap": {

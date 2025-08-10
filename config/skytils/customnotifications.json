@@ -1,8 +1,56 @@
 [
     {
+        "regex": "2X POWDER STARTED!",
+        "text": "2x BABY",
+        "ticks": 100,
+        "enabled": true
+    },
+    {
+        "regex": "is now available!",
+        "text": "Ability",
+        "ticks": 50,
+        "enabled": true
+    },
+    {
         "regex": "Bonzo's Mask",
         "text": "Bonzo",
         "ticks": 100,
+        "enabled": true
+    },
+    {
+        "regex": "RAFFLE CLOSING!",
+        "text": "RAFFLE CLOSING!",
+        "ticks": 20,
+        "enabled": true
+    },
+    {
+        "regex": "Super Cube",
+        "text": "Swap Gear",
+        "ticks": 100,
+        "enabled": true
+    },
+    {
+        "regex": "The sound of pickaxes clashing against the rock has attracted the attention of the",
+        "text": "Powder Ghast",
+        "ticks": 200,
+        "enabled": true
+    },
+    {
+        "regex": "The 2x Powder event starts in 20 seconds!",
+        "text": "Almost 2x Baby",
+        "ticks": 50,
+        "enabled": true
+    },
+    {
+        "regex": "Blue Goblin Egg",
+        "text": "MONEY",
+        "ticks": 20,
+        "enabled": true
+    },
+    {
+        "regex": "2X POWDER ENDED!",
+        "text": "2x ended",
+        "ticks": 20,
         "enabled": true
     }
 ]

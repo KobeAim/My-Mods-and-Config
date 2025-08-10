@@ -3639,7 +3639,7 @@
         "otherNums": [
           0.6,
           1.0,
-          0.5
+          0.1
         ],
         "statNums": {
           "INTELLIGENCE": 0.5,
@@ -3650,10 +3650,120 @@
         "otherNums": [
           60,
           100,
-          50
+          10
         ],
         "statNums": {
           "INTELLIGENCE": 50.0,
+          "SPEED": 20.0
+        }
+      }
+    }
+  },
+  "MOSQUITO": {
+    "COMMON": {
+      "1": {
+        "otherNums": [
+          0.5
+        ],
+        "statNums": {
+          "BONUS_PEST_CHANCE": 0.5,
+          "SPEED": 0.2
+        }
+      },
+      "100": {
+        "otherNums": [
+          50
+        ],
+        "statNums": {
+          "BONUS_PEST_CHANCE": 50.0,
+          "SPEED": 20.0
+        }
+      }
+    },
+    "UNCOMMON": {
+      "1": {
+        "otherNums": [
+          0.5
+        ],
+        "statNums": {
+          "BONUS_PEST_CHANCE": 0.4,
+          "SPEED": 0.2
+        }
+      },
+      "100": {
+        "otherNums": [
+          50
+        ],
+        "statNums": {
+          "BONUS_PEST_CHANCE": 40.0,
+          "SPEED": 20.0
+        }
+      }
+    },
+    "RARE": {
+      "1": {
+        "otherNums": [
+          0.5,
+          0.02
+        ],
+        "statNums": {
+          "BONUS_PEST_CHANCE": 0.4,
+          "SPEED": 0.2
+        }
+      },
+      "100": {
+        "otherNums": [
+          50,
+          2
+        ],
+        "statNums": {
+          "BONUS_PEST_CHANCE": 40.0,
+          "SPEED": 20.0
+        }
+      }
+    },
+    "EPIC": {
+      "1": {
+        "otherNums": [
+          0.5,
+          0.02
+        ],
+        "statNums": {
+          "BONUS_PEST_CHANCE": 0.4,
+          "SPEED": 0.2
+        }
+      },
+      "100": {
+        "otherNums": [
+          50,
+          2
+        ],
+        "statNums": {
+          "BONUS_PEST_CHANCE": 40.0,
+          "SPEED": 20.0
+        }
+      }
+    },
+    "LEGENDARY": {
+      "1": {
+        "otherNums": [
+          0.5,
+          0.02,
+          1
+        ],
+        "statNums": {
+          "BONUS_PEST_CHANCE": 0.4,
+          "SPEED": 0.2
+        }
+      },
+      "100": {
+        "otherNums": [
+          50,
+          2,
+          100
+        ],
+        "statNums": {
+          "BONUS_PEST_CHANCE": 40.0,
           "SPEED": 20.0
         }
       }

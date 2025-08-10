@@ -1915,10 +1915,10 @@
   },
   {
     "name": "Animations",
-    "enabled": false,
+    "enabled": true,
     "settings": [
       {
-        "Size": 0.0
+        "Size": -0.8500000000000001
       },
       {
         "Scale Swing": true
@@ -1942,7 +1942,7 @@
         "Roll": 0.0
       },
       {
-        "Speed": 0.0
+        "Speed": -1.2000000000000002
       },
       {
         "Ignore Haste": false
@@ -2191,7 +2191,7 @@
         "Warp": true
       },
       {
-        "Warp \u0026 pt (warptransfer)": false
+        "Warp \u0026 pt (warptransfer)": true
       },
       {
         "Coords (coords)": true
@@ -2218,7 +2218,7 @@
         "Dice": false
       },
       {
-        "Party transfer (pt)": false
+        "Party transfer (pt)": true
       },
       {
         "Ping": false

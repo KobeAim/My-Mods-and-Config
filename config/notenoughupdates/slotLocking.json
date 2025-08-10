@@ -95,6 +95,14 @@
         {
           "lockedSlots": [
             {
+              "locked": true,
+              "boundTo": -1
+            },
+            {
+              "locked": false,
+              "boundTo": -1
+            },
+            {
               "locked": false,
               "boundTo": -1
             },
@@ -104,7 +112,7 @@
             },
             {
               "locked": false,
-              "boundTo": 33
+              "boundTo": -1
             },
             {
               "locked": false,
@@ -112,15 +120,7 @@
             },
             {
               "locked": false,
-              "boundTo": 34
-            },
-            {
-              "locked": false,
-              "boundTo": 32
-            },
-            {
-              "locked": false,
-              "boundTo": 26
+              "boundTo": -1
             },
             {
               "locked": false,
@@ -149,13 +149,28 @@
             null,
             null,
             null,
-            null,
+            {
+              "locked": false,
+              "boundTo": -1
+            },
             null,
             null,
             null,
             {
               "locked": false,
-              "boundTo": 6
+              "boundTo": -1
+            },
+            {
+              "locked": false,
+              "boundTo": -1
+            },
+            {
+              "locked": true,
+              "boundTo": -1
+            },
+            {
+              "locked": false,
+              "boundTo": -1
             },
             {
               "locked": false,
@@ -167,7 +182,7 @@
             },
             {
               "locked": false,
-              "boundTo": 2
+              "boundTo": -1
             },
             {
               "locked": false,
@@ -175,19 +190,7 @@
             },
             {
               "locked": false,
-              "boundTo": 4
-            },
-            {
-              "locked": false,
-              "boundTo": 5
-            },
-            {
-              "locked": false,
-              "boundTo": 2
-            },
-            {
-              "locked": false,
-              "boundTo": 4
+              "boundTo": -1
             },
             {
               "locked": false,

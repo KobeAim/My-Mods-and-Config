@@ -4,14 +4,6 @@
             "state": 0,
             "name": "Griffin Burrow Start"
         },
-        "Griffin Burrow Dug": {
-            "state": 0,
-            "name": "Griffin Burrow Dug"
-        },
-        "Pristine": {
-            "state": 0,
-            "name": "Pristine"
-        },
         "Hype Text": {
             "state": 0,
             "name": "Hype Text"
@@ -19,6 +11,14 @@
         "Useless Bazaar Text": {
             "state": 0,
             "name": "Useless Bazaar Text"
+        },
+        "Griffin Burrow Dug": {
+            "state": 0,
+            "name": "Griffin Burrow Dug"
+        },
+        "Pristine": {
+            "state": 0,
+            "name": "Pristine"
         }
     },
     "filter": {

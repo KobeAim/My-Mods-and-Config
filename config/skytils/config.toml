@@ -443,7 +443,7 @@
 		skymall_reminder = false
 		raffle_warning = false
 		dark_mode_mist = false
-		recolor_carpets = false
+		recolor_carpets = true
 		highlight_completed_commissions = false
 		highlight_disabled_hotm_perks = false
 		more_visible_ghosts = false

@@ -2511,7 +2511,6 @@
                   }
                 },
                 {},
-                {},
                 {
                   "id": "minecraft:iron_sword",
                   "count": 1,
@@ -2538,7 +2537,7 @@
                       "text": "",
                       "extra": [
                         {
-                          "text": "Withered Giant\u0027s Sword ",
+                          "text": "Heroic Hyperion ",
                           "color": "light_purple"
                         },
                         {
@@ -2557,11 +2556,11 @@
                             "color": "gray"
                           },
                           {
-                            "text": "898 ",
+                            "text": "1179 ",
                             "color": "light_purple"
                           },
                           {
-                            "text": "(3436)",
+                            "text": "(4341)",
                             "color": "dark_gray"
                           }
                         ],
@@ -2575,15 +2574,15 @@
                             "color": "gray"
                           },
                           {
-                            "text": "+570 ",
+                            "text": "+354 ",
                             "color": "red"
                           },
                           {
-                            "text": "(+20) ",
+                            "text": "(+30) ",
                             "color": "yellow"
                           },
                           {
-                            "text": "(+2,319.2)",
+                            "text": "(+1,462.88)",
                             "color": "dark_gray"
                           }
                         ],
@@ -2597,19 +2596,23 @@
                             "color": "gray"
                           },
                           {
-                            "text": "+228 ",
+                            "text": "+250 ",
                             "color": "red"
                           },
                           {
-                            "text": "(+20) ",
+                            "text": "(+30) ",
                             "color": "yellow"
                           },
                           {
-                            "text": "(+208) ",
+                            "text": "[+5] ",
+                            "color": "gold"
+                          },
+                          {
+                            "text": "(+50) ",
                             "color": "blue"
                           },
                           {
-                            "text": "(+1,016.88)",
+                            "text": "(+1,048.1)",
                             "color": "dark_gray"
                           }
                         ],
@@ -2619,15 +2622,81 @@
                         "text": "",
                         "extra": [
                           {
-                            "text": "Swing Range: ",
+                            "text": "Crit Damage: ",
                             "color": "gray"
                           },
                           {
-                            "text": "+1 ",
+                            "text": "+70% ",
+                            "color": "red"
+                          },
+                          {
+                            "text": "(+312.2%)",
+                            "color": "dark_gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Bonus Attack Speed: ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+7% ",
+                            "color": "red"
+                          },
+                          {
+                            "text": "(+7%) ",
+                            "color": "blue"
+                          },
+                          {
+                            "text": "(+10.85%)",
+                            "color": "dark_gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Intelligence: ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+646 ",
                             "color": "green"
                           },
                           {
-                            "text": "(+1.05)",
+                            "text": "(+125) ",
+                            "color": "blue"
+                          },
+                          {
+                            "text": "(+60) ",
+                            "color": "light_purple"
+                          },
+                          {
+                            "text": "(+2,725.06)",
+                            "color": "dark_gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Ferocity: ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+33 ",
+                            "color": "green"
+                          },
+                          {
+                            "text": "(+46.5)",
                             "color": "dark_gray"
                           }
                         ],
@@ -2639,27 +2708,27 @@
                           " ",
                           {
                             "text": "[",
-                            "color": "dark_gray"
+                            "color": "gold"
                           },
                           {
-                            "text": "❁",
-                            "color": "dark_gray"
+                            "text": "✎",
+                            "color": "aqua"
                           },
                           {
                             "text": "] ",
-                            "color": "dark_gray"
+                            "color": "gold"
                           },
                           {
                             "text": "[",
-                            "color": "dark_gray"
+                            "color": "gold"
                           },
                           {
-                            "text": "❁",
-                            "color": "dark_gray"
+                            "text": "⚔",
+                            "color": "aqua"
                           },
                           {
                             "text": "]",
-                            "color": "dark_gray"
+                            "color": "gold"
                           }
                         ],
                         "italic": false
@@ -2677,9 +2746,191 @@
                             "color": "light_purple"
                           },
                           {
-                            "text": "One For All I",
+                            "text": "Ultimate Wise V",
                             "bold": true,
                             "color": "light_purple"
+                          },
+                          {
+                            "text": ", ",
+                            "color": "blue"
+                          },
+                          {
+                            "text": "Champion X",
+                            "color": "blue"
+                          },
+                          {
+                            "text": ", ",
+                            "color": "blue"
+                          },
+                          {
+                            "text": "Cleave V",
+                            "color": "blue"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Critical VI",
+                            "color": "blue"
+                          },
+                          {
+                            "text": ", ",
+                            "color": "blue"
+                          },
+                          {
+                            "text": "Cubism V",
+                            "color": "blue"
+                          },
+                          {
+                            "text": ", ",
+                            "color": "blue"
+                          },
+                          {
+                            "text": "Drain IV",
+                            "color": "blue"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Ender Slayer VI",
+                            "color": "blue"
+                          },
+                          {
+                            "text": ", ",
+                            "color": "blue"
+                          },
+                          {
+                            "text": "Experience IV",
+                            "color": "blue"
+                          },
+                          {
+                            "text": ", ",
+                            "color": "blue"
+                          },
+                          {
+                            "text": "Fire Aspect III",
+                            "color": "blue"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "First Strike IV",
+                            "color": "blue"
+                          },
+                          {
+                            "text": ", ",
+                            "color": "blue"
+                          },
+                          {
+                            "text": "Giant Killer VI",
+                            "color": "blue"
+                          },
+                          {
+                            "text": ", ",
+                            "color": "blue"
+                          },
+                          {
+                            "text": "Impaling III",
+                            "color": "blue"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Lethality VI",
+                            "color": "blue"
+                          },
+                          {
+                            "text": ", ",
+                            "color": "blue"
+                          },
+                          {
+                            "text": "Looting IV",
+                            "color": "blue"
+                          },
+                          {
+                            "text": ", ",
+                            "color": "blue"
+                          },
+                          {
+                            "text": "Luck VI",
+                            "color": "blue"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Prosecute V",
+                            "color": "blue"
+                          },
+                          {
+                            "text": ", ",
+                            "color": "blue"
+                          },
+                          {
+                            "text": "Scavenger V",
+                            "color": "blue"
+                          },
+                          {
+                            "text": ", ",
+                            "color": "blue"
+                          },
+                          {
+                            "text": "Smite VI",
+                            "color": "blue"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Smoldering IV",
+                            "color": "blue"
+                          },
+                          {
+                            "text": ", ",
+                            "color": "blue"
+                          },
+                          {
+                            "text": "Thunderlord VI",
+                            "color": "blue"
+                          },
+                          {
+                            "text": ", ",
+                            "color": "blue"
+                          },
+                          {
+                            "text": "Vampirism VI",
+                            "color": "blue"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Venomous V",
+                            "color": "blue"
                           }
                         ],
                         "italic": false
@@ -2692,7 +2943,91 @@
                         "text": "",
                         "extra": [
                           {
-                            "text": "Ability: Giant\u0027s Slam  ",
+                            "text": "Deals ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+50% ",
+                            "color": "red"
+                          },
+                          {
+                            "text": "damage to Withers.",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Grants ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+1 ",
+                            "color": "red"
+                          },
+                          {
+                            "text": "❁ Damage ",
+                            "color": "red"
+                          },
+                          {
+                            "text": "and ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "+2 ",
+                            "color": "green"
+                          },
+                          {
+                            "text": "✎",
+                            "color": "aqua"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Intelligence ",
+                            "color": "aqua"
+                          },
+                          {
+                            "text": "per ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "Catacombs ",
+                            "color": "red"
+                          },
+                          {
+                            "text": "level.",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Scroll Abilities:",
+                            "color": "green"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "Ability: Wither Impact  ",
                             "color": "gold"
                           },
                           {
@@ -2707,7 +3042,15 @@
                         "text": "",
                         "extra": [
                           {
-                            "text": "Slam your sword into the ground dealing",
+                            "text": "Teleport ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "10 blocks",
+                            "color": "green"
+                          },
+                          {
+                            "text": " ahead of you.",
                             "color": "gray"
                           }
                         ],
@@ -2717,15 +3060,63 @@
                         "text": "",
                         "extra": [
                           {
-                            "text": "",
+                            "text": "Then implode dealing ",
                             "color": "gray"
                           },
                           {
-                            "text": "181,441.7 ",
+                            "text": "66,342.1 ",
                             "color": "red"
                           },
                           {
-                            "text": "damage to nearby enemies.",
+                            "text": "damage",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "to nearby enemies. Also applies the",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "wither shield scroll ability reducing",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "damage taken and granting an",
+                            "color": "gray"
+                          }
+                        ],
+                        "italic": false
+                      },
+                      {
+                        "text": "",
+                        "extra": [
+                          {
+                            "text": "absorption shield for ",
+                            "color": "gray"
+                          },
+                          {
+                            "text": "5 ",
+                            "color": "yellow"
+                          },
+                          {
+                            "text": "seconds.",
                             "color": "gray"
                           }
                         ],
@@ -2739,7 +3130,7 @@
                             "color": "dark_gray"
                           },
                           {
-                            "text": "90",
+                            "text": "135",
                             "color": "dark_aqua"
                           }
                         ],
@@ -2747,68 +3138,18 @@
                       },
                       {
                         "text": "",
-                        "extra": [
-                          {
-                            "text": "Cooldown: ",
-                            "color": "dark_gray"
-                          },
-                          {
-                            "text": "30s",
-                            "color": "green"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
                         "italic": false
                       },
                       {
                         "text": "",
                         "extra": [
                           {
-                            "text": "Withered Bonus",
-                            "color": "blue"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Grants ",
-                            "color": "gray"
+                            "text": "Kills: ",
+                            "color": "white"
                           },
                           {
-                            "text": "+1 ",
-                            "color": "green"
-                          },
-                          {
-                            "text": "❁ Strength ",
-                            "color": "red"
-                          },
-                          {
-                            "text": "per",
-                            "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "Catacombs ",
-                            "color": "red"
-                          },
-                          {
-                            "text": "level.",
-                            "color": "gray"
+                            "text": "40,385",
+                            "color": "gold"
                           }
                         ],
                         "italic": false
@@ -2859,7 +3200,7 @@
                             "underlined": false
                           },
                           {
-                            "text": "MYTHIC DUNGEON LONGSWORD ",
+                            "text": "MYTHIC DUNGEON SWORD ",
                             "bold": true,
                             "color": "light_purple"
                           },
@@ -2875,20 +3216,59 @@
                     ],
                     "minecraft:custom_data": {
                       "rarity_upgrades": 1,
-                      "hot_potato_count": 10,
-                      "modifier": "withered",
+                      "stats_book": 40385,
+                      "modifier": "heroic",
+                      "art_of_war_count": 1,
                       "upgrade_level": 5,
-                      "id": "GIANTS_SWORD",
                       "enchantments": {
-                        "ultimate_one_for_all": 1
+                        "impaling": 3,
+                        "luck": 6,
+                        "critical": 6,
+                        "cleave": 5,
+                        "smoldering": 4,
+                        "looting": 4,
+                        "smite": 6,
+                        "syphon": 4,
+                        "ender_slayer": 6,
+                        "scavenger": 5,
+                        "experience": 4,
+                        "fire_aspect": 3,
+                        "vampirism": 6,
+                        "giant_killer": 6,
+                        "first_strike": 4,
+                        "venomous": 5,
+                        "thunderlord": 6,
+                        "ultimate_wise": 5,
+                        "cubism": 5,
+                        "champion": 10,
+                        "PROSECUTE": 5,
+                        "lethality": 6
                       },
-                      "uuid": "2fac6c70-1e3e-4bb7-a9df-49f9b73b8786",
+                      "uuid": "c57af6a7-233c-4d97-8827-b21fbefdf0ea",
+                      "ability_scroll": [
+                        "WITHER_SHIELD_SCROLL",
+                        "SHADOW_WARP_SCROLL",
+                        "IMPLOSION_SCROLL"
+                      ],
+                      "hot_potato_count": 15,
+                      "gems": {
+                        "COMBAT_0": "PERFECT",
+                        "unlocked_slots": [
+                          "SAPPHIRE_0",
+                          "COMBAT_0"
+                        ],
+                        "COMBAT_0_gem": "SAPPHIRE",
+                        "SAPPHIRE_0": "PERFECT"
+                      },
+                      "champion_combat_xp": 2.3123168618009537E7,
+                      "id": "HYPERION",
                       "donated_museum": 1,
-                      "timestamp": 1740259437084
+                      "timestamp": 1750546704581
                     },
                     "!minecraft:enchantments": {}
                   }
                 },
+                {},
                 {},
                 {},
                 {},
@@ -3084,1406 +3464,7 @@
               "items": []
             }
           ],
-          "backpacks": [
-            {
-              "index": 8,
-              "items": [
-                {
-                  "id": "minecraft:player_head",
-                  "count": 25,
-                  "components": {
-                    "minecraft:tooltip_display": {
-                      "hidden_components": [
-                        "minecraft:jukebox_playable",
-                        "minecraft:painting/variant",
-                        "minecraft:map_id",
-                        "minecraft:fireworks",
-                        "minecraft:attribute_modifiers",
-                        "minecraft:unbreakable",
-                        "minecraft:written_book_content",
-                        "minecraft:banner_patterns",
-                        "minecraft:trim",
-                        "minecraft:potion_contents",
-                        "minecraft:block_entity_data",
-                        "minecraft:dyed_color"
-                      ]
-                    },
-                    "minecraft:custom_name": {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Golden Fragment",
-                          "color": "dark_purple"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    "minecraft:lore": [
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "Gold",
-                            "color": "gold"
-                          },
-                          {
-                            "text": ", but broken into fragments. This",
-                            "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "makes it important somehow.",
-                            "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Right-click to view recipes!",
-                            "color": "yellow"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "EPIC",
-                            "bold": true,
-                            "color": "dark_purple"
-                          }
-                        ],
-                        "italic": false
-                      }
-                    ],
-                    "minecraft:profile": {
-                      "id": [
-                        761627932,
-                        1393047131,
-                        -1882674579,
-                        1353109421
-                      ],
-                      "properties": [
-                        {
-                          "name": "textures",
-                          "value": "ewogICJ0aW1lc3RhbXAiIDogMTcyMDA1MjU0Mjg4MCwKICAicHJvZmlsZUlkIiA6ICI3MzE4MWQxZDRjYWQ0ZmU0YTcxNWNjNmUxOGNjYzVkNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJaZmVybjRuZGl0byIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84MDRjNWNlMTI1NDVhN2NjZGYwYTM1YjlkZjBlZjliYWMxNTgyNmMzYTA3ODZlMWNlMTBmM2VjN2QwNjU2ZjYxIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0\u003d",
-                          "signature": "sXT/QbGKNPYb/GtMsb5+X+zZk3LhmvyxaLuYqnbxcwUrMQ7Z8ixlWSlFoGtXuyx1ZVn8vBJKihwJX1KgOLqbseEfV0iMMsPtiKc7Ezq/nfzMJkbaLKh42JiWoCwdpaXjQIRb7OfSkTpiLqmpL5mbqzAnP0m5JwNX2w0PyBa1p6FPtL/2H1FZ/UEApLazaacy0i0Rs+x/0eGMdcRQ2ALbxsZFuVEE6hogHgumdbhJNbIhnAS41exHQUEp5N1xV9w62w6+W9uIuX44QsxD/cPPqNLHMm+qc3l5itQh/HcgZicHjmcmxUwfKzikY7TOvjv1JFqxlZ6JfG1x211oRHJ1dccccIVq9TpiLPJfTgADUta3cR6KpkOpevaNmSmDugMXTo9vgMxxmhMGURJDfOty/l4bpl9dfltYvab6btGfaeiyxlXSXc8KiOqUdK8552c4sMSEJg8roUCSOVwENNXb0yNQ5rE5kkZb1zlqGUT2bAlJHCyikLPOsN5viZBaAfaQNfuXvB4MWb4uB1nyHOYJd6Xj23fPXBgmH81nRN16v7W9RcAT8xPF0xvQ5YhiYj7A3l2n1vlq9UsWMIE1Qs6gPjQJX9X1kQnKbc6Jx72d27EXQrY4zZNH8JD1vu3xga8+hxbfMIHyYnZEjphJCEWQCSvg9RhUWhMFhVk/4/VM9hs\u003d"
-                        }
-                      ]
-                    },
-                    "minecraft:custom_data": {
-                      "id": "GOLDEN_FRAGMENT"
-                    },
-                    "!minecraft:enchantments": {}
-                  }
-                },
-                {},
-                {
-                  "id": "minecraft:player_head",
-                  "count": 1,
-                  "components": {
-                    "minecraft:tooltip_display": {
-                      "hidden_components": [
-                        "minecraft:jukebox_playable",
-                        "minecraft:painting/variant",
-                        "minecraft:map_id",
-                        "minecraft:fireworks",
-                        "minecraft:attribute_modifiers",
-                        "minecraft:unbreakable",
-                        "minecraft:written_book_content",
-                        "minecraft:banner_patterns",
-                        "minecraft:trim",
-                        "minecraft:potion_contents",
-                        "minecraft:block_entity_data",
-                        "minecraft:dyed_color"
-                      ]
-                    },
-                    "minecraft:custom_name": {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Magma Lord Fragment",
-                          "color": "gold"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    "minecraft:lore": [
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Right-click to view recipes!",
-                            "color": "yellow"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "LEGENDARY",
-                            "bold": true,
-                            "color": "gold"
-                          }
-                        ],
-                        "italic": false
-                      }
-                    ],
-                    "minecraft:profile": {
-                      "id": [
-                        411495138,
-                        809908678,
-                        -1674516599,
-                        201855081
-                      ],
-                      "properties": [
-                        {
-                          "name": "textures",
-                          "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0MzUwNDQyNTQ3MiwKICAicHJvZmlsZUlkIiA6ICIzM2ViZDMyYmIzMzk0YWQ5YWM2NzBjOTZjNTQ5YmE3ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJEYW5ub0JhbmFubm9YRCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84MmNjZjFhMWE2ZjRiMTgwNTRiZjRlYzY2YmNkMzc5ZjEyMTViMDZmMzc1OThiYTc5ZTBkZTIwOTI4MjNmYjUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ\u003d\u003d",
-                          "signature": "ULigXLta7+xdkBOn8VXv1yOsRAN6bAw12/y022JXF0vNOyhJKG/TfYWHhiUFntzhj2p4xz2DhCIcIQVCbWaGDbQ69htXrhnDo9NlsffXRPcBbZoaYpsx98uuCMg49SOerl3xZxVNIDks9PdupzIkY0ldr9Y0+BM5g6iTJabdFcLi3H6YmXXFAvnBd6Nmkj06UivJh3Ak319KsEpV9jE4e4ki2a2wErXKthfHJtGE9OMUyZwlARH4mlkSemnG0JXQgm+ymjV+S3LQ2o//1QHm1PWh/R5CQ9PoD5jHo7Nbm6Fl+XLBsamf/Gi+VvoF1EcSXM/pJA3QnWoM1cNeZax0SLRkWbcXDvcOfn1P4j+ASD3+m4Yu2SCmrc11Pltq/PWrEs+Gf0DT+hfVci40wOUrQj4DAt4sy4d7ed9w5QGHsFEmIGU01OMM+CmpH2GLyj+k9JW7Y5alDfFfTRMrbVBrd90AWph30G3t1rviCjKRukM7pGgx7cOBrXzPrfKE6yKE9lYdbmGEDTZ3ufAEFwZffwv6y6iKBxskwzYp/US0vJCBAvflyirt8Hdg5dS8KHevp/czycKPGfId3dZJGugZVtAyGCAGl8LcUujZEUQ7SObqjh7HxduunY8VhBBeX3wub54Uys3rTs6BM1bGs8fBGq55KxqOz++Xuf/B9ly3hhQ\u003d"
-                        }
-                      ]
-                    },
-                    "minecraft:custom_data": {
-                      "id": "MAGMA_LORD_FRAGMENT",
-                      "uuid": "665f8d6d-4732-42bd-812a-d5e83cf10968",
-                      "timestamp": 1751152058578
-                    },
-                    "!minecraft:enchantments": {}
-                  }
-                },
-                {
-                  "id": "minecraft:player_head",
-                  "count": 1,
-                  "components": {
-                    "minecraft:tooltip_display": {
-                      "hidden_components": [
-                        "minecraft:jukebox_playable",
-                        "minecraft:painting/variant",
-                        "minecraft:map_id",
-                        "minecraft:fireworks",
-                        "minecraft:attribute_modifiers",
-                        "minecraft:unbreakable",
-                        "minecraft:written_book_content",
-                        "minecraft:banner_patterns",
-                        "minecraft:trim",
-                        "minecraft:potion_contents",
-                        "minecraft:block_entity_data",
-                        "minecraft:dyed_color"
-                      ]
-                    },
-                    "minecraft:custom_name": {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Magma Lord Fragment",
-                          "color": "gold"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    "minecraft:lore": [
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Right-click to view recipes!",
-                            "color": "yellow"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "LEGENDARY",
-                            "bold": true,
-                            "color": "gold"
-                          }
-                        ],
-                        "italic": false
-                      }
-                    ],
-                    "minecraft:profile": {
-                      "id": [
-                        411495138,
-                        809908678,
-                        -1674516599,
-                        201855081
-                      ],
-                      "properties": [
-                        {
-                          "name": "textures",
-                          "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0MzUwNDQyNTQ3MiwKICAicHJvZmlsZUlkIiA6ICIzM2ViZDMyYmIzMzk0YWQ5YWM2NzBjOTZjNTQ5YmE3ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJEYW5ub0JhbmFubm9YRCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84MmNjZjFhMWE2ZjRiMTgwNTRiZjRlYzY2YmNkMzc5ZjEyMTViMDZmMzc1OThiYTc5ZTBkZTIwOTI4MjNmYjUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ\u003d\u003d",
-                          "signature": "ULigXLta7+xdkBOn8VXv1yOsRAN6bAw12/y022JXF0vNOyhJKG/TfYWHhiUFntzhj2p4xz2DhCIcIQVCbWaGDbQ69htXrhnDo9NlsffXRPcBbZoaYpsx98uuCMg49SOerl3xZxVNIDks9PdupzIkY0ldr9Y0+BM5g6iTJabdFcLi3H6YmXXFAvnBd6Nmkj06UivJh3Ak319KsEpV9jE4e4ki2a2wErXKthfHJtGE9OMUyZwlARH4mlkSemnG0JXQgm+ymjV+S3LQ2o//1QHm1PWh/R5CQ9PoD5jHo7Nbm6Fl+XLBsamf/Gi+VvoF1EcSXM/pJA3QnWoM1cNeZax0SLRkWbcXDvcOfn1P4j+ASD3+m4Yu2SCmrc11Pltq/PWrEs+Gf0DT+hfVci40wOUrQj4DAt4sy4d7ed9w5QGHsFEmIGU01OMM+CmpH2GLyj+k9JW7Y5alDfFfTRMrbVBrd90AWph30G3t1rviCjKRukM7pGgx7cOBrXzPrfKE6yKE9lYdbmGEDTZ3ufAEFwZffwv6y6iKBxskwzYp/US0vJCBAvflyirt8Hdg5dS8KHevp/czycKPGfId3dZJGugZVtAyGCAGl8LcUujZEUQ7SObqjh7HxduunY8VhBBeX3wub54Uys3rTs6BM1bGs8fBGq55KxqOz++Xuf/B9ly3hhQ\u003d"
-                        }
-                      ]
-                    },
-                    "minecraft:custom_data": {
-                      "id": "MAGMA_LORD_FRAGMENT",
-                      "uuid": "89c0d419-3979-4e7b-9ce5-8380ab1f1ff3",
-                      "timestamp": 1751152058579
-                    },
-                    "!minecraft:enchantments": {}
-                  }
-                },
-                {
-                  "id": "minecraft:player_head",
-                  "count": 1,
-                  "components": {
-                    "minecraft:tooltip_display": {
-                      "hidden_components": [
-                        "minecraft:jukebox_playable",
-                        "minecraft:painting/variant",
-                        "minecraft:map_id",
-                        "minecraft:fireworks",
-                        "minecraft:attribute_modifiers",
-                        "minecraft:unbreakable",
-                        "minecraft:written_book_content",
-                        "minecraft:banner_patterns",
-                        "minecraft:trim",
-                        "minecraft:potion_contents",
-                        "minecraft:block_entity_data",
-                        "minecraft:dyed_color"
-                      ]
-                    },
-                    "minecraft:custom_name": {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Magma Lord Fragment",
-                          "color": "gold"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    "minecraft:lore": [
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Right-click to view recipes!",
-                            "color": "yellow"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "LEGENDARY",
-                            "bold": true,
-                            "color": "gold"
-                          }
-                        ],
-                        "italic": false
-                      }
-                    ],
-                    "minecraft:profile": {
-                      "id": [
-                        411495138,
-                        809908678,
-                        -1674516599,
-                        201855081
-                      ],
-                      "properties": [
-                        {
-                          "name": "textures",
-                          "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0MzUwNDQyNTQ3MiwKICAicHJvZmlsZUlkIiA6ICIzM2ViZDMyYmIzMzk0YWQ5YWM2NzBjOTZjNTQ5YmE3ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJEYW5ub0JhbmFubm9YRCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84MmNjZjFhMWE2ZjRiMTgwNTRiZjRlYzY2YmNkMzc5ZjEyMTViMDZmMzc1OThiYTc5ZTBkZTIwOTI4MjNmYjUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ\u003d\u003d",
-                          "signature": "ULigXLta7+xdkBOn8VXv1yOsRAN6bAw12/y022JXF0vNOyhJKG/TfYWHhiUFntzhj2p4xz2DhCIcIQVCbWaGDbQ69htXrhnDo9NlsffXRPcBbZoaYpsx98uuCMg49SOerl3xZxVNIDks9PdupzIkY0ldr9Y0+BM5g6iTJabdFcLi3H6YmXXFAvnBd6Nmkj06UivJh3Ak319KsEpV9jE4e4ki2a2wErXKthfHJtGE9OMUyZwlARH4mlkSemnG0JXQgm+ymjV+S3LQ2o//1QHm1PWh/R5CQ9PoD5jHo7Nbm6Fl+XLBsamf/Gi+VvoF1EcSXM/pJA3QnWoM1cNeZax0SLRkWbcXDvcOfn1P4j+ASD3+m4Yu2SCmrc11Pltq/PWrEs+Gf0DT+hfVci40wOUrQj4DAt4sy4d7ed9w5QGHsFEmIGU01OMM+CmpH2GLyj+k9JW7Y5alDfFfTRMrbVBrd90AWph30G3t1rviCjKRukM7pGgx7cOBrXzPrfKE6yKE9lYdbmGEDTZ3ufAEFwZffwv6y6iKBxskwzYp/US0vJCBAvflyirt8Hdg5dS8KHevp/czycKPGfId3dZJGugZVtAyGCAGl8LcUujZEUQ7SObqjh7HxduunY8VhBBeX3wub54Uys3rTs6BM1bGs8fBGq55KxqOz++Xuf/B9ly3hhQ\u003d"
-                        }
-                      ]
-                    },
-                    "minecraft:custom_data": {
-                      "id": "MAGMA_LORD_FRAGMENT",
-                      "uuid": "c7c27b74-4404-4af8-a74f-82895941fd6f",
-                      "timestamp": 1751899828351
-                    },
-                    "!minecraft:enchantments": {}
-                  }
-                },
-                {
-                  "id": "minecraft:player_head",
-                  "count": 1,
-                  "components": {
-                    "minecraft:tooltip_display": {
-                      "hidden_components": [
-                        "minecraft:jukebox_playable",
-                        "minecraft:painting/variant",
-                        "minecraft:map_id",
-                        "minecraft:fireworks",
-                        "minecraft:attribute_modifiers",
-                        "minecraft:unbreakable",
-                        "minecraft:written_book_content",
-                        "minecraft:banner_patterns",
-                        "minecraft:trim",
-                        "minecraft:potion_contents",
-                        "minecraft:block_entity_data",
-                        "minecraft:dyed_color"
-                      ]
-                    },
-                    "minecraft:custom_name": {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Magma Lord Fragment",
-                          "color": "gold"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    "minecraft:lore": [
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Right-click to view recipes!",
-                            "color": "yellow"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "LEGENDARY",
-                            "bold": true,
-                            "color": "gold"
-                          }
-                        ],
-                        "italic": false
-                      }
-                    ],
-                    "minecraft:profile": {
-                      "id": [
-                        411495138,
-                        809908678,
-                        -1674516599,
-                        201855081
-                      ],
-                      "properties": [
-                        {
-                          "name": "textures",
-                          "value": "ewogICJ0aW1lc3RhbXAiIDogMTY0MzUwNDQyNTQ3MiwKICAicHJvZmlsZUlkIiA6ICIzM2ViZDMyYmIzMzk0YWQ5YWM2NzBjOTZjNTQ5YmE3ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJEYW5ub0JhbmFubm9YRCIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84MmNjZjFhMWE2ZjRiMTgwNTRiZjRlYzY2YmNkMzc5ZjEyMTViMDZmMzc1OThiYTc5ZTBkZTIwOTI4MjNmYjUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ\u003d\u003d",
-                          "signature": "ULigXLta7+xdkBOn8VXv1yOsRAN6bAw12/y022JXF0vNOyhJKG/TfYWHhiUFntzhj2p4xz2DhCIcIQVCbWaGDbQ69htXrhnDo9NlsffXRPcBbZoaYpsx98uuCMg49SOerl3xZxVNIDks9PdupzIkY0ldr9Y0+BM5g6iTJabdFcLi3H6YmXXFAvnBd6Nmkj06UivJh3Ak319KsEpV9jE4e4ki2a2wErXKthfHJtGE9OMUyZwlARH4mlkSemnG0JXQgm+ymjV+S3LQ2o//1QHm1PWh/R5CQ9PoD5jHo7Nbm6Fl+XLBsamf/Gi+VvoF1EcSXM/pJA3QnWoM1cNeZax0SLRkWbcXDvcOfn1P4j+ASD3+m4Yu2SCmrc11Pltq/PWrEs+Gf0DT+hfVci40wOUrQj4DAt4sy4d7ed9w5QGHsFEmIGU01OMM+CmpH2GLyj+k9JW7Y5alDfFfTRMrbVBrd90AWph30G3t1rviCjKRukM7pGgx7cOBrXzPrfKE6yKE9lYdbmGEDTZ3ufAEFwZffwv6y6iKBxskwzYp/US0vJCBAvflyirt8Hdg5dS8KHevp/czycKPGfId3dZJGugZVtAyGCAGl8LcUujZEUQ7SObqjh7HxduunY8VhBBeX3wub54Uys3rTs6BM1bGs8fBGq55KxqOz++Xuf/B9ly3hhQ\u003d"
-                        }
-                      ]
-                    },
-                    "minecraft:custom_data": {
-                      "id": "MAGMA_LORD_FRAGMENT",
-                      "uuid": "7807b4c0-ef76-4a3f-80b7-5a680b82f832",
-                      "timestamp": 1751900019933
-                    },
-                    "!minecraft:enchantments": {}
-                  }
-                },
-                {},
-                {},
-                {
-                  "id": "minecraft:blaze_powder",
-                  "count": 1,
-                  "components": {
-                    "minecraft:tooltip_display": {
-                      "hidden_components": [
-                        "minecraft:jukebox_playable",
-                        "minecraft:painting/variant",
-                        "minecraft:map_id",
-                        "minecraft:fireworks",
-                        "minecraft:attribute_modifiers",
-                        "minecraft:unbreakable",
-                        "minecraft:written_book_content",
-                        "minecraft:banner_patterns",
-                        "minecraft:trim",
-                        "minecraft:potion_contents",
-                        "minecraft:block_entity_data",
-                        "minecraft:dyed_color"
-                      ]
-                    },
-                    "minecraft:enchantment_glint_override": true,
-                    "minecraft:custom_name": {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Free Will",
-                          "color": "gold"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    "minecraft:lore": [
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Giving this to a minion will give them",
-                            "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "the illusion of ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "Free Will",
-                            "color": "light_purple"
-                          },
-                          {
-                            "text": ". They will be",
-                            "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "met with the most important choice of",
-                            "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "their minion life.",
-                            "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "They will either ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "stay ",
-                            "color": "green"
-                          },
-                          {
-                            "text": "and become",
-                            "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "loyal, granting ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "+10% Minion Speed ",
-                            "color": "green"
-                          },
-                          {
-                            "text": "or",
-                            "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "leave you forever ",
-                            "color": "red"
-                          },
-                          {
-                            "text": "and send you a",
-                            "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "Postcard",
-                            "color": "light_purple"
-                          },
-                          {
-                            "text": ".",
-                            "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Loyalty Chance:",
-                            "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "50% ",
-                            "color": "green"
-                          },
-                          {
-                            "text": "at Minion Tier I, ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "+4% ",
-                            "color": "green"
-                          },
-                          {
-                            "text": "per minion",
-                            "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "tier.",
-                            "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "X",
-                            "obfuscated": true,
-                            "color": "dark_purple"
-                          },
-                          {
-                            "text": " Rift-Transferable ",
-                            "extra": [
-                              {
-                                "text": "X",
-                                "obfuscated": true
-                              }
-                            ],
-                            "color": "dark_purple"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "LEGENDARY",
-                            "bold": true,
-                            "color": "gold"
-                          }
-                        ],
-                        "italic": false
-                      }
-                    ],
-                    "minecraft:custom_data": {
-                      "id": "FREE_WILL",
-                      "rift_transferred": 1,
-                      "uuid": "807c1e4f-7ffc-4ab2-896d-0e4d17c3225f",
-                      "timestamp": 1752252677482
-                    },
-                    "!minecraft:enchantments": {}
-                  }
-                },
-                {},
-                {},
-                {},
-                {},
-                {},
-                {},
-                {},
-                {},
-                {},
-                {},
-                {},
-                {},
-                {},
-                {},
-                {},
-                {},
-                {},
-                {},
-                {},
-                {},
-                {},
-                {},
-                {},
-                {},
-                {},
-                {},
-                {},
-                {},
-                {},
-                {},
-                {},
-                {},
-                {
-                  "id": "minecraft:player_head",
-                  "count": 1,
-                  "components": {
-                    "minecraft:tooltip_display": {
-                      "hidden_components": [
-                        "minecraft:jukebox_playable",
-                        "minecraft:painting/variant",
-                        "minecraft:map_id",
-                        "minecraft:fireworks",
-                        "minecraft:attribute_modifiers",
-                        "minecraft:unbreakable",
-                        "minecraft:written_book_content",
-                        "minecraft:banner_patterns",
-                        "minecraft:trim",
-                        "minecraft:potion_contents",
-                        "minecraft:block_entity_data",
-                        "minecraft:dyed_color"
-                      ]
-                    },
-                    "minecraft:custom_name": {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Phantom Hook",
-                          "color": "blue"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    "minecraft:lore": [
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Increases the chance to catch",
-                            "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "Spooky Sea Creatures ",
-                            "color": "gold"
-                          },
-                          {
-                            "text": "by ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "100%",
-                            "color": "green"
-                          },
-                          {
-                            "text": ".",
-                            "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Talk to ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "Roddy ",
-                            "color": "dark_green"
-                          },
-                          {
-                            "text": "in the ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "Backwater",
-                            "color": "dark_green"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Bayou ",
-                            "color": "dark_green"
-                          },
-                          {
-                            "text": "to apply this ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "Hook ",
-                            "color": "blue"
-                          },
-                          {
-                            "text": "to a Fishing",
-                            "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Rod.",
-                            "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "RARE ROD PART",
-                            "bold": true,
-                            "color": "blue"
-                          }
-                        ],
-                        "italic": false
-                      }
-                    ],
-                    "minecraft:profile": {
-                      "id": [
-                        1066017601,
-                        37762869,
-                        -1394089218,
-                        1738239726
-                      ],
-                      "properties": [
-                        {
-                          "name": "textures",
-                          "value": "ewogICJ0aW1lc3RhbXAiIDogMTczOTY2NDM4NTUzOCwKICAicHJvZmlsZUlkIiA6ICI3OThlZWM3OGYzNGU0MGJhYjlmNjk0ODIwYzM3ZTcxYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJFbENoYW5vbk1DIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2M5NWVmZjE2NTQzNjZkNTI0NTIzOGRkYmZiNjVhN2E3MTI4NDY4YTljZTM0Mzg2MWZlMjM5ZTg3YzE0YzNmNmQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ\u003d\u003d",
-                          "signature": "h8UzLPKvUttfWx3VBO5xWXv3eKshCx6GfZv9rT12//Ygb5JSs59muprWMtYz6VkWpyuCd98J5JQmYk4yNAs7MZzZieymXESLv1nI5k92cg05w36O4gJZEEBbdpRZ8gZy5Kc+o0OaPJJQOxYIwoFFNBHpCziEf/GsSHNwAgmM2ngYugZ2jsxcFOW8vOkx8TL4Qlt39CbdMplcH2nz8kdgqqEdfRoPhSCp0FokIGiTHB1YW4z+QylQdDyKhSIZxS+4jcBjaG/+lZvtixrsJaXoj45Vnt08RXTga+zXxGK2vomwN665V2LtE15cp7DnkAmBbem2xf5V07dWAcHvKRkawdw/Wre1Q2x2GqouWA/ZlhF6aKdG4Xx/f9iTSLm38pZifnKuJVEexlJL3if3QjKItN3ZZ+ba90nsogvFAGgqTrbFLE0PNV9BvNABaxlC1f9L9MF6MAsAevEfaZvvaLSHLIJXLWpgWkJ9yGnRsljkFKeFeOSJ9NIKXY4vumR4/NVKc0JghciTTZtUhn+emakgan6+fqVDm2VN/QPikUvrYaSOzUjMvFXbFjgQS4KIzE2IqE0a94RIRauh9fNyvO7XmNqSLNGaA6MUM8nJWGvrWnKnfiVuSEKEIinYtb/gduw1D7GyESD2h8W8wq8ECbtugorjJRD8/ONVoKaTKBZ7QKc\u003d"
-                        }
-                      ]
-                    },
-                    "minecraft:custom_data": {
-                      "id": "PHANTOM_HOOK",
-                      "uuid": "69b140ef-02b5-41df-8373-2524868d13e7",
-                      "timestamp": 1752079530486
-                    },
-                    "!minecraft:enchantments": {}
-                  }
-                },
-                {
-                  "id": "minecraft:player_head",
-                  "count": 1,
-                  "components": {
-                    "minecraft:tooltip_display": {
-                      "hidden_components": [
-                        "minecraft:jukebox_playable",
-                        "minecraft:painting/variant",
-                        "minecraft:map_id",
-                        "minecraft:fireworks",
-                        "minecraft:attribute_modifiers",
-                        "minecraft:unbreakable",
-                        "minecraft:written_book_content",
-                        "minecraft:banner_patterns",
-                        "minecraft:trim",
-                        "minecraft:potion_contents",
-                        "minecraft:block_entity_data",
-                        "minecraft:dyed_color"
-                      ]
-                    },
-                    "minecraft:custom_name": {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Phantom Hook",
-                          "color": "blue"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    "minecraft:lore": [
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Increases the chance to catch",
-                            "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "Spooky Sea Creatures ",
-                            "color": "gold"
-                          },
-                          {
-                            "text": "by ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "100%",
-                            "color": "green"
-                          },
-                          {
-                            "text": ".",
-                            "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Talk to ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "Roddy ",
-                            "color": "dark_green"
-                          },
-                          {
-                            "text": "in the ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "Backwater",
-                            "color": "dark_green"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Bayou ",
-                            "color": "dark_green"
-                          },
-                          {
-                            "text": "to apply this ",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "Hook ",
-                            "color": "blue"
-                          },
-                          {
-                            "text": "to a Fishing",
-                            "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Rod.",
-                            "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "RARE ROD PART",
-                            "bold": true,
-                            "color": "blue"
-                          }
-                        ],
-                        "italic": false
-                      }
-                    ],
-                    "minecraft:profile": {
-                      "id": [
-                        1066017601,
-                        37762869,
-                        -1394089218,
-                        1738239726
-                      ],
-                      "properties": [
-                        {
-                          "name": "textures",
-                          "value": "ewogICJ0aW1lc3RhbXAiIDogMTczOTY2NDM4NTUzOCwKICAicHJvZmlsZUlkIiA6ICI3OThlZWM3OGYzNGU0MGJhYjlmNjk0ODIwYzM3ZTcxYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJFbENoYW5vbk1DIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2M5NWVmZjE2NTQzNjZkNTI0NTIzOGRkYmZiNjVhN2E3MTI4NDY4YTljZTM0Mzg2MWZlMjM5ZTg3YzE0YzNmNmQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ\u003d\u003d",
-                          "signature": "h8UzLPKvUttfWx3VBO5xWXv3eKshCx6GfZv9rT12//Ygb5JSs59muprWMtYz6VkWpyuCd98J5JQmYk4yNAs7MZzZieymXESLv1nI5k92cg05w36O4gJZEEBbdpRZ8gZy5Kc+o0OaPJJQOxYIwoFFNBHpCziEf/GsSHNwAgmM2ngYugZ2jsxcFOW8vOkx8TL4Qlt39CbdMplcH2nz8kdgqqEdfRoPhSCp0FokIGiTHB1YW4z+QylQdDyKhSIZxS+4jcBjaG/+lZvtixrsJaXoj45Vnt08RXTga+zXxGK2vomwN665V2LtE15cp7DnkAmBbem2xf5V07dWAcHvKRkawdw/Wre1Q2x2GqouWA/ZlhF6aKdG4Xx/f9iTSLm38pZifnKuJVEexlJL3if3QjKItN3ZZ+ba90nsogvFAGgqTrbFLE0PNV9BvNABaxlC1f9L9MF6MAsAevEfaZvvaLSHLIJXLWpgWkJ9yGnRsljkFKeFeOSJ9NIKXY4vumR4/NVKc0JghciTTZtUhn+emakgan6+fqVDm2VN/QPikUvrYaSOzUjMvFXbFjgQS4KIzE2IqE0a94RIRauh9fNyvO7XmNqSLNGaA6MUM8nJWGvrWnKnfiVuSEKEIinYtb/gduw1D7GyESD2h8W8wq8ECbtugorjJRD8/ONVoKaTKBZ7QKc\u003d"
-                        }
-                      ]
-                    },
-                    "minecraft:custom_data": {
-                      "id": "PHANTOM_HOOK",
-                      "uuid": "0f1b78a0-c756-4fb1-9701-57e4e6af1b9e",
-                      "timestamp": 1751630981329
-                    },
-                    "!minecraft:enchantments": {}
-                  }
-                },
-                {
-                  "id": "minecraft:player_head",
-                  "count": 1,
-                  "components": {
-                    "minecraft:tooltip_display": {
-                      "hidden_components": [
-                        "minecraft:jukebox_playable",
-                        "minecraft:painting/variant",
-                        "minecraft:map_id",
-                        "minecraft:fireworks",
-                        "minecraft:attribute_modifiers",
-                        "minecraft:unbreakable",
-                        "minecraft:written_book_content",
-                        "minecraft:banner_patterns",
-                        "minecraft:trim",
-                        "minecraft:potion_contents",
-                        "minecraft:block_entity_data",
-                        "minecraft:dyed_color"
-                      ]
-                    },
-                    "minecraft:custom_name": {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Void Mammoth Skin",
-                          "color": "dark_purple"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    "minecraft:lore": [
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Consumed on use",
-                            "color": "dark_gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "Pet skins change the look and",
-                            "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "particle trail of your pet but only",
-                            "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "one skin can be active at a time!",
-                            "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "This skin can only be applied to",
-                            "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Mammoth pets.",
-                            "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "Right-click on your summoned pet to",
-                            "color": "yellow"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "apply this skin!",
-                            "color": "yellow"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "EPIC COSMETIC",
-                            "bold": true,
-                            "color": "dark_purple"
-                          }
-                        ],
-                        "italic": false
-                      }
-                    ],
-                    "minecraft:profile": {
-                      "id": [
-                        1086833517,
-                        1426274925,
-                        -1742468776,
-                        1974565421
-                      ],
-                      "properties": [
-                        {
-                          "name": "textures",
-                          "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0OTY0NzczOTkzNSwKICAicHJvZmlsZUlkIiA6ICJkNGUwNTFjZGRhNDU0NTUxYjk1ZWRiZjdkNTM1ZTA3ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFbGVtZW50YWxfTWF4IiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2NiYjU2MGIwZjhkNTgzOTUzZTc3ZGU0YzVmNDY5M2JkNTJhYzAzMTE1MDE5ZjdiYjAyZjRjMjU5OTM2YWQ0NGMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ\u003d\u003d",
-                          "signature": "YCDutn/jTVO98AAf85W76777FC8+J8e50LN3P3kQE8DXZevQo7s2wixhOqmjf/R8StzhJQc4VwGpPA9thWoBua7BZQKHyf6ZNVO6kg2RBNHDFaW5tUBymMWr668e2ylsgvP1djgwJb2oO4Ic2J6JG3Qn5BHIiuuZ0FGKxpHQY4F7Es4n6fPH6oUfm0iihAQXdhnI+PiJ7GR/m4tgZh11y4ESx2umO10xxokXe4Mt4DBlWcmRmUiCVAeGw2g+2htpCiLx7qZqYEavpPpPZA8yBIVNz0rpXb517rq93I1M74L/vlsUQeKVWxRNTeABcQ0CtMn/u3CC/VocibUdlAVSYB2L4V8Hk8ON+KCxO/cgyxpHs82mv9DGay7VCMrkhaUqZ/a+2SS+5RwOAoQseW6jRo/P3tG5pub+x0E0XGYnz4y7sGJGy/3tb9vRIFIhFsaWzAMaFq8a5jDooqKMazIrwDo4tnRxoRnjc8u1erW4ssC7NKbl639TSPY4shwU/nDfB9PfN4XR89U3aK6B25qP+w0wUVP5Yq+CdZ1XFjz4b4zrxSUl7UBJm2dgAwfolvZ2zuTIHyLg9/T7J0J/QXEpUoLXbYsGh47X+NGiNaasXsMD0NNrVcqsA9CyrLLgAHCiwKcmXOiprNw3UlAfWZcLFYlmNcppvu/o8lYriKnHOzU\u003d"
-                        }
-                      ]
-                    },
-                    "minecraft:custom_data": {
-                      "id": "PET_SKIN_MAMMOTH_VOID",
-                      "uuid": "2e078ca4-6e05-4af1-92e5-bef7178bb95f",
-                      "timestamp": 1750740185906
-                    },
-                    "!minecraft:enchantments": {}
-                  }
-                },
-                {
-                  "id": "minecraft:player_head",
-                  "count": 1,
-                  "components": {
-                    "minecraft:tooltip_display": {
-                      "hidden_components": [
-                        "minecraft:jukebox_playable",
-                        "minecraft:painting/variant",
-                        "minecraft:map_id",
-                        "minecraft:fireworks",
-                        "minecraft:attribute_modifiers",
-                        "minecraft:unbreakable",
-                        "minecraft:written_book_content",
-                        "minecraft:banner_patterns",
-                        "minecraft:trim",
-                        "minecraft:potion_contents",
-                        "minecraft:block_entity_data",
-                        "minecraft:dyed_color"
-                      ]
-                    },
-                    "minecraft:custom_name": {
-                      "text": "",
-                      "extra": [
-                        {
-                          "text": "Cloud Mammoth Skin",
-                          "color": "dark_purple"
-                        }
-                      ],
-                      "italic": false
-                    },
-                    "minecraft:lore": [
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Consumed on use",
-                            "color": "dark_gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "Pet skins change the look and",
-                            "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "particle trail of your pet but only",
-                            "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "one skin can be active at a time!",
-                            "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "This skin can only be applied to",
-                            "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "Mammoth pets.",
-                            "color": "gray"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "",
-                            "color": "gray"
-                          },
-                          {
-                            "text": "Right-click on your summoned pet to",
-                            "color": "yellow"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "apply this skin!",
-                            "color": "yellow"
-                          }
-                        ],
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "italic": false
-                      },
-                      {
-                        "text": "",
-                        "extra": [
-                          {
-                            "text": "EPIC COSMETIC",
-                            "bold": true,
-                            "color": "dark_purple"
-                          }
-                        ],
-                        "italic": false
-                      }
-                    ],
-                    "minecraft:profile": {
-                      "id": [
-                        -1203237382,
-                        -898811498,
-                        -1471914197,
-                        1141020261
-                      ],
-                      "properties": [
-                        {
-                          "name": "textures",
-                          "value": "ewogICJ0aW1lc3RhbXAiIDogMTc0OTY0NzcyMjY2MywKICAicHJvZmlsZUlkIiA6ICJmMTBmYjBlNTkxOTE0YmZhYjIzMDU1NGFlMTc2ZWFlMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJNeHN0aWNEYXZlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Q1MmI1NTkyNTFjNGNkZjk3ZGMyYjMxMTc3ZWYzNGZlNThjY2M3OTU2MTllYmE1Y2QwN2RlMmY4MDI0MDA2YmUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ\u003d\u003d",
-                          "signature": "DQ+x76i9W39f1MFTOiM+M13WYHEsEj8zgqoErzTjt81goWsyfSenGBdeqZ+eWBt55w4psHWwvNvOuTmCEalpH158BbMnugVFWmGuYEktH89BfPc197m98Ofz8hm1zW70z8XYmL4KRQz30N+c4gDtdQ8ish0DNcZrXdPio3DtFSC1jW730hg3JuadoEyb+kVYI2XtxoJULGdPGq+bWyREp8Y/4sVS0a/4D6Z2c/CAP1NUOBVa6O0WefKbncTnfycgQ2zQOjc3cg5LsknwAl187/VzI6nCqpuvLXYsOLu69ixitHhj9uWDSQIHUd1bgwwTira1ETyn1Khh2rrFFZCES1hxDegZABXz0oyQNMLE3rUMEf49FBXs88m0MYuVr4BSfnLeBD7hQJHWVT4xhnbIO/IYhTtg+5Y0hbteUHLgpYnrQRzMuu8sTv/DhRr7D2+NnZkHQ6Z7cOacZN5Hv0Vx9tFbbXKMEnkSZQAXri1pg+Np//MiUsJozG6Qhg66kwDwOEE1hmvsISnANXTT239326eyvdweb0p5NNvywcqUchu3w0xMIaHqstkHjTz6n3lAuAOiV1pSAddpktKq2tPbZKeVkWyEwAcclqcXUbvlp/xPUTnxZqNq13qshAvO+P3puHV1XV2VhBBj3sjpxbWtXkhEjO1h+G7NdkQBI1Eb0E0\u003d"
-                        }
-                      ]
-                    },
-                    "minecraft:custom_data": {
-                      "id": "PET_SKIN_MAMMOTH_CLOUD",
-                      "uuid": "9e81347f-9de8-46cd-bfbf-88bea8274f16",
-                      "timestamp": 1750740187881
-                    },
-                    "!minecraft:enchantments": {}
-                  }
-                }
-              ]
-            }
-          ]
+          "backpacks": []
         },
         "rift": []
       }

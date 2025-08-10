@@ -1,5 +1,9 @@
 [
     {
+        "message": "/pc Hit with dreadlord for lootshare because we hit the mob cap!",
+        "keyCode": 4
+    },
+    {
         "message": "/gfs ender pearl 10",
         "keyCode": 37
     },
